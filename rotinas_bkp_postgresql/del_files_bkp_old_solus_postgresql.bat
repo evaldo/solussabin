@@ -1,0 +1,1 @@
+ForFiles /p "c:\bkppostgresql" /s /d -4 /c "cmd /c del @file"

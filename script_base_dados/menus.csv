@@ -1,0 +1,22 @@
+15,Grupos de Acesso,N,11,gruposusuarios,http://192.168.0.247/infger/cadastro/cadastro_grupo_acesso.php,EVALDO,2019-12-18 00:00:00,,,,http://infgervilaverde.saude.ws/infger/cadastro/cadastro_grupo_acesso.php
+16,Grupos de Acesso x Usuários ,N,11,gruposacessousuario,http://192.168.0.247/infger/cadastro/cadastro_grupo_acesso_usua.php,EVALDO,2019-12-18 00:00:00,,,,http://infgervilaverde.saude.ws/infger/cadastro/cadastro_grupo_acesso_usua.php
+8,Painel Histórico de Leitos,N,5,historicoleito,http://192.168.0.250:3000/public/dashboard/20da3eb1-6e2c-4fb5-b5be-36ec80f5ca7c,EVALDO,2019-12-02 00:00:00,,,33,http://187.16.185.242:3000/public/dashboard/20da3eb1-6e2c-4fb5-b5be-36ec80f5ca7c
+11,Cadastros,S,,cadastros,,EVALDO,2019-12-16 00:00:00,evaldo,2019-12-19 13:20:03.537644,,
+2,Leitos,S,,leitos,,EVALDO,2019-12-02 00:00:00,,,2,
+5,Informações Gerenciais,S,,infgerenciais,,EVALDO,2019-12-02 00:00:00,,,3,
+17,Menus de Informações Gerenciais,N,11,menuinfgerenciais,http://192.168.0.247/infger/cadastro/cadastro_menu.php,EVALDO,2019-12-19 00:00:00,,,,http://infgervilaverde.saude.ws/infger/cadastro/cadastro_menu.php
+23,Grupo de Usuários Por Menu,N,11,grupousuamenu,http://192.168.0.247/infger/cadastro/cadastro_grupo_usua_menu.php,evaldo,2019-12-19 14:37:37.567101,,,,http://infgervilaverde.saude.ws/infger/cadastro/cadastro_grupo_usua_menu.php
+4,Risco,N,2,riscoleitos,http://192.168.0.247/infger/paineis/painel_risco_leitos.php,EVALDO,2019-12-02 00:00:00,,,22,http://infgervilaverde.saude.ws/infger/paineis/painel_risco_leitos.php
+3,Painel Geral,N,2,painelleitos,http://192.168.0.247/infger/paineis/painel_leitos.php,EVALDO,2019-12-02 00:00:00,,,21,http://infgervilaverde.saude.ws/infger/paineis/painel_leitos.php
+12,Cores do Painel de Risco,N,11,cadastro_cor,http://192.168.0.247/infger/cadastro/cadastro_cores_risco.php,EVALDO,2019-12-16 00:00:00,,,,http://infgervilaverde.saude.ws/infger/cadastro/cadastro_cores_risco.php
+14,Usuários,N,11,cadastrousuario,http://192.168.0.247/infger/cadastro/cadastro_usuario.php,EVALDO,2019-12-18 00:00:00,,,,http://infgervilaverde.saude.ws/infger/cadastro/cadastro_usuario.php
+7,Painel Horário de Leitos,N,5,geralleitos,http://192.168.0.250:3000/public/dashboard/b3efe9c1-c6d5-49fb-90a7-eee0a4c305ac,EVALDO,2019-12-02 00:00:00,,,32,http://187.16.185.242:3000/public/dashboard/b3efe9c1-c6d5-49fb-90a7-eee0a4c305ac
+26,Indicadores Assistenciais - Gestão de Leitos,N,5,icassistpainelleitos,http://192.168.0.250:3000/public/dashboard/30f110f4-a2a6-42a1-a123-5fd3fbcdc8a0,evaldo,2020-01-17 17:29:15.92196,,,,http://187.16.185.242:3000/public/dashboard/30f110f4-a2a6-42a1-a123-5fd3fbcdc8a0
+25,Gráfico de Riscos,N,2,graficorisco,http://192.168.0.250:3000/public/dashboard/2198c9cd-1f8c-4c27-805c-4679789f2aa8,evaldo,2020-01-10 01:51:37.905618,evaldo,2020-02-10 12:01:14.177033,,http://187.16.185.242:3000/public/dashboard/2198c9cd-1f8c-4c27-805c-4679789f2aa8
+13,Painel de Solicitações da Farmácia,N,5,solicitacaofarmacia,http://192.168.0.250:3000/public/dashboard/b60f7c4b-69fc-4c52-9e72-5ffc28574a8b,EVALDO,2019-12-17 00:00:00,,,,http://187.16.185.242:3000/public/dashboard/b60f7c4b-69fc-4c52-9e72-5ffc28574a8b
+6,Acompanhamento Mensal,N,5,acompanhamentomensal,http://192.168.0.250:3000/public/dashboard/f6c949cd-7702-4894-a28a-4862589045e8,EVALDO,2019-12-02 00:00:00,evaldo,2020-01-17 17:37:51.883004,31,http://187.16.185.242:3000/public/dashboard/f6c949cd-7702-4894-a28a-4862589045e8
+27,Acompanhamento do Status do Leito,N,5,acmpstatusleito,http://192.168.0.250:3000/public/dashboard/b6cfad26-b6c5-40c2-aa12-7629662f8a1f,evaldo,2020-02-11 15:14:23.211895,,,,http://187.16.185.242:3000/public/dashboard/b6cfad26-b6c5-40c2-aa12-7629662f8a1f
+10,Movimentos do Período,N,5,movperiodo,http://192.168.0.250:3000/public/dashboard/44f73c17-554b-4b7e-b6cf-202d083da102,EVALDO,2019-12-06 00:00:00,,,,http://187.16.185.242:3000/public/dashboard/44f73c17-554b-4b7e-b6cf-202d083da102
+9,Painel de Leitos para análise de Dieta,N,5,analisedieta,http://192.168.0.250:3000/public/dashboard/cf6efb4e-7ad9-4ecd-84bb-f60f21a59547,EVALDO,2019-12-03 00:00:00,,,,http://187.16.185.242:3000/public/dashboard/cf6efb4e-7ad9-4ecd-84bb-f60f21a59547
+28,Parâmetros do Sistema,N,11,parametrosistema,http://192.168.0.247/infger/alteracao/alteracao_parametro_sistema_gerencial.php,evaldo,2019-12-03 00:00:00,,,,
+29,Indicadores do HD,N,5,indicadorhd,http://192.168.0.250:3000/public/dashboard/2073f68f-d5ac-4fb7-9c1f-539f3850285e,evaldo,2019-12-03 00:00:00,,,,http://187.16.185.242:3000/public/dashboard/2073f68f-d5ac-4fb7-9c1f-539f3850285e
