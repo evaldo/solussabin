@@ -14,13 +14,13 @@
 	
 	if(isset($_POST['btprocessar'])&& $_POST['fileUploaded']<>""){		
 		
-		$CSVvar = fopen('c:/'.$_POST['fileUploaded'], "r");		
+		$CSVvar = fopen('c:/pedidotratamento/'.$_POST['fileUploaded'], "r");		
 		$_SESSION['fileUploaded'] = $_POST['fileUploaded'];
 				
 	}	
 	if(isset($_POST['btsalvar'])){
 		
-		$CSVvar = fopen('c:/'.$_SESSION['fileUploaded'], "r");
+		$CSVvar = fopen('c:/pedidotratamento/'.$_SESSION['fileUploaded'], "r");
 		
 		$id_reg = 0;
 		
