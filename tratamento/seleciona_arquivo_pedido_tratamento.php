@@ -91,10 +91,136 @@
 						$ds_dia_ciclo_atual=$data[25];
 						$ds_intrv_entre_ciclo_dia=$data[26];
 						$nm_mdco_encaminhador=$data[27];
+						
+						if ($dt_rlzd == null || $dt_rlzd == ''){
+							$dt_rlzd = 'null';
+						}
+						
+						if ($dt_aplc == null || $dt_aplc == ''){
+							$dt_aplc = 'null';
+						} 
+						
+						if ($dt_diagn == null || $dt_diagn == ''){
+							$dt_diagn = 'null';
+						}
+						
+						$id_hstr_pnel_solic_trtmto = "null";
+			
+						$sql = "SELECT count(id_hstr_pnel_solic_trtmto) FROM tratamento.tb_hstr_pnel_solic_trtmto WHERE cd_pcnt = '".$_POST['cd_pcnt']."' and id_equipe = 13 and fl_trtmto_fchd = 0  ";
+								
+						$retcountpanelsolictrtmto = pg_query($pdo, $sql);
+							
+						if(!$retcountpanelsolictrtmto) {
+							echo pg_last_error($pdo);		
+							exit;
+						}
+							
+						$rowcountpanelsolictrtmto = pg_fetch_row($retcountpanelsolictrtmto);
+						
+						if ($rowcountpanelsolictrtmto[0] > 0) {
+						
+							$sql = "SELECT MAX(id_hstr_obs_pnel_solic_trtmto) FROM tratamento.tb_hstr_obs_pnel_solic_trtmto WHERE cd_pcnt = '".$_POST['cd_pcnt']."' and id_status_equipe = 13 ";
+								
+							$retmaxstatusequipe = pg_query($pdo, $sql);
+								
+							if(!$retmaxstatusequipe) {
+								echo pg_last_error($pdo);		
+								exit;
+							}
+								
+							$rowmaxstatusequipe = pg_fetch_row($retmaxstatusequipe);
+
+							$sql = "SELECT MAX(id_hstr_pnel_solic_trtmto) FROM tratamento.tb_hstr_pnel_solic_trtmto WHERE cd_pcnt = '".$_POST['cd_pcnt']."' and id_equipe = 13 and fl_trtmto_fchd = 0 ";
+								
+							$retmaxpanelsolictrtmto = pg_query($pdo, $sql);
+								
+							if(!$retmaxpanelsolictrtmto) {
+								echo pg_last_error($pdo);		
+								exit;
+							}
+								
+							$rowmaxpanelsolictrtmto = pg_fetch_row($retmaxpanelsolictrtmto);
+										
+							$sql = "SELECT id_hstr_pnel_solic_trtmto, dt_inicial_trtmto 
+									  FROM tratamento.tb_hstr_pnel_solic_trtmto 
+									WHERE cd_pcnt = '".$_POST['cd_pcnt']."' and id_equipe = 13 and fl_trtmto_fchd = 0 and id_hstr_pnel_solic_trtmto = ".$rowmaxpanelsolictrtmto[0]." ";
+
+							//echo $sql;
+
+							$rethstrtratamento = pg_query($pdo, $sql);
+
+							if(!$rethstrtratamento) {
+								echo pg_last_error($pdo);		
+								exit;
+							}
+
+							$rowhstrtratamento = pg_fetch_row($rethstrtratamento);
+
+							$id_hstr_pnel_solic_trtmto = $rowhstrtratamento[0];
+							$dt_inicial_trtmto = $rowhstrtratamento[1];
+									
+							$sql = "update tratamento.tb_hstr_pnel_solic_trtmto set id_status_trtmto = ".$_POST['id_status_trtmto'].", ds_status_trtmto = (select ds_status_trtmto from tratamento.tb_c_status_trtmto where id_status_trtmto = ".$_POST['id_status_trtmto']."), cd_cor_status_trtmto = (select cd_cor_status_trtmto from tratamento.tb_c_status_trtmto where id_status_trtmto = ".$_POST['id_status_trtmto']."), cd_usua_altr = '".$_SESSION['usuario']."', dt_altr = current_timestamp where id_hstr_pnel_solic_trtmto = ".$id_hstr_pnel_solic_trtmto."";
+									
+							//echo $sql;
+
+							$result = pg_query($pdo, $sql);
+
+							if($result){
+								echo "";
+							}
+							
+							$sql = "select nm_pcnt from tratamento.tb_c_pcnt where cd_pcnt = '". $_POST['cd_pcnt']."'  ";
+								
+							$retnmpcnt = pg_query($pdo, $sql);
+								
+							if(!$retnmpcnt) {
+								echo pg_last_error($pdo);		
+								exit;
+							}
+								
+							$rowpcnt = pg_fetch_row($retnmpcnt);
+									
+							$sql = "insert into tratamento.tb_log_alrt (id_log_alrt, cd_alrt, ds_alrt, cd_usua_incs_alrt, dt_incs_alrt, nm_pcnt) values ((select NEXTVAL('tratamento.sq_log_alrt')),'INSERCAO DE STATUS DE TRATAMENTO', (select nm_pcnt from tratamento.tb_c_pcnt where cd_pcnt = '".$_POST['cd_pcnt']."')||' - '||(select ds_equipe from tratamento.tb_c_equipe where id_equipe = 13)||' - '||(select ds_status_trtmto from tratamento.tb_c_status_trtmto where id_status_trtmto = ".$_POST['id_status_trtmto']."), '".$_SESSION['usuario']."', current_timestamp, '".$rowpcnt[0]."')";
+
+							$result = pg_query($pdo, $sql);
+
+							if($result){
+								echo "";
+							}
+
+
+				$sql = "INSERT INTO tratamento.tb_hstr_obs_pnel_solic_trtmto(id_hstr_obs_pnel_solic_trtmto, id_hstr_pnel_solic_trtmto, id_status_equipe, ds_status_equipe, dt_inic_status_equipe_trtmto, dt_final_status_equipe_trtmto, ds_obs_pcnt, tp_minuto_status_equipe_trtmto, cd_usua_incs, dt_incs, dt_inicial_trtmto, cd_pcnt, nm_pcnt, id_status_trtmto, ds_status_trtmto)
+				VALUES ((select NEXTVAL('tratamento.sq_hstr_obs_pnel_solic_trtmto')), ".$id_hstr_pnel_solic_trtmto.", 13, (select ds_equipe from tratamento.tb_c_equipe where id_equipe = 13), current_timestamp, null, null, 0, '".$_SESSION['usuario']."', current_timestamp, '".$dt_inicial_trtmto."', '".$_POST['cd_pcnt']."', (select nm_pcnt from tratamento.tb_c_pcnt where cd_pcnt = '".$_POST['cd_pcnt']."'),".$_POST['id_status_trtmto'].", (select ds_status_trtmto from tratamento.tb_c_status_trtmto where id_status_trtmto = ".$_POST['id_status_trtmto']."));";
+
+				//echo $sql;
+
+				$result = pg_query($pdo, $sql);
+
+				if($result){
+					echo "";
+				} 
+						
+				$sql = "UPDATE tratamento.tb_hstr_obs_pnel_solic_trtmto set dt_final_status_equipe_trtmto=current_timestamp, tp_minuto_status_equipe_trtmto = round((SELECT date_part( 'day', age(current_timestamp::timestamp WITHOUT TIME ZONE , dt_inic_status_equipe_trtmto))*24*60 + date_part( 'hour', age(current_timestamp::timestamp WITHOUT TIME ZONE , dt_inic_status_equipe_trtmto))*60 + date_part( 'minute', age(current_timestamp::timestamp WITHOUT TIME ZONE , dt_inic_status_equipe_trtmto)))), cd_usua_altr = '".$_SESSION['usuario']."', dt_altr = current_timestamp where id_hstr_obs_pnel_solic_trtmto = ".$rowmaxstatusequipe[0]."";
+
+				//echo $sql;
+
+				$result = pg_query($pdo, $sql);
+
+				if($result){
+					echo "";
+				} 
+			
+			} else {
+
+				$inserenovotratamento=1;
+
+			}
 
 						$sql = "INSERT INTO tratamento.tb_pddo_trtmto(id_pddo_trtmto, id_hstr_pnel_solic_trtmto, cd_pcnt, nm_pcnt, dt_nasc_pcnt, vl_idade_pcnt, nu_peso_pcnt, vl_altura_pcnt, vl_sup_corp, ds_indic_clnic, dt_diagn, cd_cid, ds_plano_trptco, ds_info_rlvnte, ds_diagn_cito_hstpagico, ds_tp_cirurgia, ds_area_irrda, dt_rlzd, dt_aplc, ds_obs_jfta, nu_qtde_ciclo_prta, ds_ciclo_atual, ds_dia_ciclo_atual, ds_intrv_entre_ciclo_dia, ds_estmt, ds_tipo_linha_trtmto, ds_fnlde, ic_tipo_tumor, ic_tipo_nodulo, ic_tipo_metastase, cd_usua_incs, dt_incs, cd_cnvo, nm_mdco_encaminhador)
-	VALUES ((select NEXTVAL('tratamento.sq_pddo_trtmto')), null, (select cd_pcnt from tratamento.tb_c_pcnt where trim(nm_pcnt) = trim('".$nm_pcnt."')), '". trim($nm_pcnt)."', (select dt_nasc_pcnt from tratamento.tb_c_pcnt where trim(nm_pcnt) = trim('". $nm_pcnt."')), (select date_part('year', age(now(), (select dt_nasc_pcnt from tratamento.tb_c_pcnt where nm_pcnt = '". $nm_pcnt."')))), ". str_replace(",", ".", $nu_peso_pcnt).", ". str_replace(",", ".", $vl_altura_pcnt).", ". str_replace(",", ".", $vl_sup_corp).", UPPER('".str_replace("'", " ",$ds_indic_clnic)."'), '".$dt_diagn."', '". $cd_cid."', UPPER('". str_replace("'", " ",$ds_plano_trptco)."'), UPPER('". str_replace("'", " ",$ds_info_rlvnte)."'), UPPER('". str_replace("'", " ",$ds_diagn_cito_hstpagico)."'), UPPER('". str_replace("'", " ",$ds_tp_cirurgia)."'), UPPER('". str_replace("'", " ",$ds_area_irrda)."'), '".$dt_rlzd."', '".$dt_aplc."', UPPER('". str_replace("'", " ",$ds_obs_jfta)."'), '". $nu_qtde_ciclo_prta."', '". $ds_ciclo_atual."', '". $ds_dia_ciclo_atual."', '". $ds_intrv_entre_ciclo_dia."', '". $ds_estmt."' ,'". $ds_tipo_linha_trtmto."', '".$ds_fnlde."', '". $ic_tipo_tumor."', '". $ic_tipo_nodulo."', '". $ic_tipo_metastase."', '".$_SESSION['usuario']."', current_timestamp, '". $cd_cnvo."', '". $nm_mdco_encaminhador."');";
+	VALUES ((select NEXTVAL('tratamento.sq_pddo_trtmto')), ". $id_hstr_pnel_solic_trtmto.", (select cd_pcnt from tratamento.tb_c_pcnt where trim(nm_pcnt) = trim('".$nm_pcnt."')), '". trim($nm_pcnt)."', (select dt_nasc_pcnt from tratamento.tb_c_pcnt where trim(nm_pcnt) = trim('". $nm_pcnt."')), (select date_part('year', age(now(), (select dt_nasc_pcnt from tratamento.tb_c_pcnt where trim(nm_pcnt) = trim('". $nm_pcnt."'))))), ". str_replace(",", ".", $nu_peso_pcnt).", ". str_replace(",", ".", $vl_altura_pcnt).", ". str_replace(",", ".", $vl_sup_corp).", UPPER('".str_replace("'", " ",$ds_indic_clnic)."'), '".$dt_diagn."', UPPER('". $cd_cid."'), UPPER('". str_replace("'", " ",$ds_plano_trptco)."'), UPPER('". str_replace("'", " ",$ds_info_rlvnte)."'), UPPER('". str_replace("'", " ",$ds_diagn_cito_hstpagico)."'), UPPER('". str_replace("'", " ",$ds_tp_cirurgia)."'), UPPER('". str_replace("'", " ",$ds_area_irrda)."'), ".$dt_rlzd.", ".$dt_aplc.", UPPER('". str_replace("'", " ",$ds_obs_jfta)."'), '". $nu_qtde_ciclo_prta."', '". $ds_ciclo_atual."', '". $ds_dia_ciclo_atual."', '". $ds_intrv_entre_ciclo_dia."', '". $ds_estmt."' ,'". $ds_tipo_linha_trtmto."', '".$ds_fnlde."', '". $ic_tipo_tumor."', '". $ic_tipo_nodulo."', '". $ic_tipo_metastase."', '".$_SESSION['usuario']."', current_timestamp, '". $cd_cnvo."', '". $nm_mdco_encaminhador."');";
 					    
+						//echo $sql;
+						
 						$result = pg_query($pdo, $sql);			
 						if($result){
 							//tratar erro
@@ -106,7 +232,7 @@
 						if($result){
 							//tratar erro
 							echo "";	
-						}					
+						}
 					}
 				}
 			}
