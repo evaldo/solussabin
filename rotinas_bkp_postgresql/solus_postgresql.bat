@@ -11,5 +11,6 @@
    SET PGPASSWORD=so1uz!2e
    echo on
    
-   pg_dump -h localhost -p 5432 -U postgres -F c -b -v -f C:\bkppostgresql\tr_%BACKUP_FILE% solussabin  
+   pg_dump -h localhost -p 5432 -U postgres -F c -b -v -f C:\bkppostgresql\tr_%BACKUP_FILE% solussabin
+   pg_dump -h localhost -p 5432 -U postgres -F c -b -v -f C:\bkppostgresql\dw_%BACKUP_FILE% solus_dwsabin
    pg_dumpall -h localhost -p 5432 -U postgres -v --globals-only > C:\bkppostgresql\useraccts.sql
