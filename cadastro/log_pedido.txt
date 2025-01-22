@@ -20318,3 +20318,549 @@ Nome do medico encaminhador	: ''
 
 
 -----------------------------------------------------------------------------------
+---------------------Log de Inclusao do Pedido de Tratamento------------------------
+Mensagem gerada pelo usuario	: 'milena.ribeiral' em 24/12/2024
+-----------------------------------------------------------------------------------
+Codigo Paciente				: '3226'
+Paciente						: 'JOSE SOARES DE MELO'
+Convênio						: 'UNIMED'
+Peso							: '81'
+Altura							: '166'
+Sup Corp						: '1,9'
+Indicacao Clinica				: 'adenocarcinoma de ceco '
+Data do Diagnostico			: ''2024-09-06''
+CID							: 'C18'
+Estadiamento					: 'II'
+Tipo Quimio (Linha)			: '1 Linha'
+Finalidade						: 'Adjuvante'
+Tipo de Tumor					: 'T3'
+Tipo de Nodulo					: 'N0'
+Tipo de Metastase				: 'M0'
+Plano Terapêutio				: ' capecitabina, 2.000 mg/m² VO= 3500 mg dia (total de 7 cp ao dia =  3cp de 500mg dia e 4 cp de 500mg a noite) , em 2 tomadas, do D1 ao D14, a cada 3 semanas, por 8 ciclos'
+Informações Relevantes			: 'adenocarcinoma de ceco, estadiamento II, com budding tumoral e estabilidade microssatelite '
+Diagnóstico Histopatologico	: 'Adenocarcinoma '
+Tipo de Cirurgia				: 'hemicolectomia com linfadenectomia retroperitoneal'
+Área Irradiada					: ''
+Data de Realização				: ''2024-11-02''
+Data da Aplicação				: 'null'
+Observação Justificativa		: 'paciente com budding tumoral e etabilidade de microsstelite .
+Capecitabina sera 7 cp de 500mg ao dia ( total de 3500 mg por ciclo ) 
+>> enviar: colonoscopia, biopsia de colono, biopsia da cirurgia , cea e imunohistoquimica '
+Quantidade de Ciclos Prevsitos	: '8'
+Ciclo Atual					: '1'
+Dias do ciclo atual			: '14'
+Intervalo de Ciclos			: '21'
+Nome do medico encaminhador	: ''
+
+
+-----------------------------------------------------------------------------------
+---------------------Log de Inclusao do Pedido de Tratamento------------------------
+Mensagem gerada pelo usuario	: 'milena.ribeiral' em 31/12/2024
+-----------------------------------------------------------------------------------
+Codigo Paciente				: '3270'
+Paciente						: 'VANESSA APARECIDA PROCOPIO DE MATTOS'
+Convênio						: 'SAUDE SINAI'
+Peso							: '66,4'
+Altura							: '166'
+Sup Corp						: '1,74'
+Indicacao Clinica				: 'CARCINOMA DE MAMA LOCALMENTE AVANÇADO ( COM AXILA COMPROMETIDA) EM PACIENTE JOVEM '
+Data do Diagnostico			: ''2024-12-09''
+CID							: 'C50'
+Estadiamento					: 'III'
+Tipo Quimio (Linha)			: '1 Linha'
+Finalidade						: 'Neo-Adjuvante'
+Tipo de Tumor					: 'T3'
+Tipo de Nodulo					: 'N2'
+Tipo de Metastase				: 'MX'
+Plano Terapêutio				: 'AC DOSE DENSA COM SUPORTE DE ESTIMULADOR DE GRANULOCITOS 
+DOXORRUBICINA 60MG/M2=104MG D1
+CICLOFOSFAMIDA 600MG/M2=1044MG D1
+GRANISETRONA 1 AMPOLA EV D1
+FOSAPREPITANTO 1 AMPOLA EV D1
+NEULASTIM 1AMPOLA NO D2 
+A CADA 14/14DIAS '
+Informações Relevantes			: 'PACIENTE JOVEM, DOENÇA AO DIAGNOSTICO JA AVANÇADA( COM PROGRESSÃO RAPIDA E COMPROMETIMENTO LINFONODAL JA CONFIRMADO POR CORE BIOPSIA) . IMUNOHISTOQUIMICA COM POSITIVIDADE DE RECEPTORES HORMONAIS E HER 2 ++. AGUARDO FISH. SOLICITO AC DOSE DENSA E SE CONFIRMADO POR FISH A POSITIVIDADE DE HER 2, MODIFICAREI ESQEUMA PARA TRATAMENTO TC COM BLOQUIO DUPLO ANTI HER 2 . COMO PACIENTE JOVEM E DOENÇA DE ALTO VOLUME E EM FRANCA PROGRESSÃO, SOLCIITO URGENCIA NA LIBERAÇÃO  '
+Diagnóstico Histopatologico	: 'CARCINOMA DE MAMA '
+Tipo de Cirurgia				: ''
+Área Irradiada					: ''
+Data de Realização				: ''2024-12-31''
+Data da Aplicação				: ''2024-12-31''
+Observação Justificativa		: 'AGUARDO FISH. SOLICITO AC DOSE DENSA E SE CONFIRMADO POR FISH A POSITIVIDADE DE HER 2, MODIFICAREI ESQUEMA PARA TRATAMENTO TC COM BLOQUEIO DUPLO ANTI HER 2 . COMO PACIENTE JOVEM E DOENÇA DE ALTO VOLUME E EM FRANCA PROGRESSÃO, SOLICITO URGENCIA NA LIBERAÇÃO  
+>> ENVIAR: BIOPSIA, IMUNOHISTOQUIMICA E TOMOGRAFIAS '
+Quantidade de Ciclos Prevsitos	: '04'
+Ciclo Atual					: '01'
+Dias do ciclo atual			: '01'
+Intervalo de Ciclos			: '14'
+Nome do medico encaminhador	: 'PATRICIA '
+
+
+-----------------------------------------------------------------------------------
+---------------------Log de Inclusao do Pedido de Tratamento------------------------
+Mensagem gerada pelo usuario	: 'monise.freitas' em 09/01/2025
+-----------------------------------------------------------------------------------
+Codigo Paciente				: '2205'
+Paciente						: 'LUIZ EDUARDO DO AMARAL FARIA'
+Convênio						: 'UNIMED'
+Peso							: '81.70'
+Altura							: '1.76'
+Sup Corp						: '2.00'
+Indicacao Clinica				: 'PACIENTE PORTADOR DE AMILOIDOSE MONOCLONAL'
+Data do Diagnostico			: ''2024-01-02''
+CID							: 'C90'
+Estadiamento					: 'III'
+Tipo Quimio (Linha)			: '1 Linha'
+Finalidade						: 'Curativo'
+Tipo de Tumor					: 'Nao Se Aplica'
+Tipo de Nodulo					: 'Nao Se Aplica'
+Tipo de Metastase				: 'Nao Se Aplica'
+Plano Terapêutio				: ' PARTIR DESTE será apenas daratumumabe R$ 1800 mg uma vez ao mês, pois já fez 6 ciclos de VCD.
+'
+Informações Relevantes			: 'PACIENTE APRESENTANDO ACOMENTIMENTO CARDÍACO, RENAL E OCULAR'
+Diagnóstico Histopatologico	: 'AMILOIDOSE MONOCLONAL'
+Tipo de Cirurgia				: ''
+Área Irradiada					: ''
+Data de Realização				: ''2024-02-14''
+Data da Aplicação				: ''2024-02-14''
+Observação Justificativa		: ''
+Quantidade de Ciclos Prevsitos	: 'IND '
+Ciclo Atual					: '1'
+Dias do ciclo atual			: '1'
+Intervalo de Ciclos			: '28'
+Nome do medico encaminhador	: ''
+
+
+-----------------------------------------------------------------------------------
+---------------------Log de Inclusao do Pedido de Tratamento------------------------
+Mensagem gerada pelo usuario	: 'monise.freitas' em 09/01/2025
+-----------------------------------------------------------------------------------
+Codigo Paciente				: '2199'
+Paciente						: 'VALMIR ADRIANO SILVA NETTO'
+Convênio						: 'PM'
+Peso							: '81.00'
+Altura							: '1.77'
+Sup Corp						: '2.00'
+Indicacao Clinica				: 'CANCER DE RETO'
+Data do Diagnostico			: ''2024-02-29''
+CID							: 'C20'
+Estadiamento					: 'IV'
+Tipo Quimio (Linha)			: '1 Linha'
+Finalidade						: 'Paliativo'
+Tipo de Tumor					: 'T3'
+Tipo de Nodulo					: 'N1'
+Tipo de Metastase				: 'M1'
+Plano Terapêutio				: ' FOLFOX- + Antiemetico Ok já iniciado
+
+Para o proximo ciclo (04)  foi solicitado inlusãO de Bevacizumabe 405MG 
+
+
+
+
+'
+Informações Relevantes			: 'PACIENTE JOVEM COM TUMOR DE RETO LOCALMENTE AVANÇADO REALIZOU TRATAMENTO NEOADJUVANTE TOTAL, COM QUIMIOTERAPIA DE INDUÇÃO SEGUIDO DE RADIO E CAPECITABINA, FOI PARA A CIRURGIA. EM EXAMES DE IMAGEM 11/24 - PROGRESSAO DE DOENÇA NO FIGADO  - PROPOSTA DE QT PALIATIVA  '
+Diagnóstico Histopatologico	: 'ADENOCARCINOMA'
+Tipo de Cirurgia				: 'RETOSSIGMOIDECTOMIA COM LINFADENECTOMIA PELVICA E RETROPERITONEAL '
+Área Irradiada					: 'RETO'
+Data de Realização				: ''2024-10-30''
+Data da Aplicação				: ''2024-06-10''
+Observação Justificativa		: 'ENCAMINHAR BIOPSIA DA CIRURGIA E EXAMES DE IMAGEM ATUAIS RNM DE ABD E PELVE + TC DE T '
+Quantidade de Ciclos Prevsitos	: 'INDETERMINADO '
+Ciclo Atual					: '01'
+Dias do ciclo atual			: '1,3 '
+Intervalo de Ciclos			: '14'
+Nome do medico encaminhador	: ''
+
+
+-----------------------------------------------------------------------------------
+---------------------Log de Inclusao do Pedido de Tratamento------------------------
+Mensagem gerada pelo usuario	: 'abrahao.hallack' em 09/01/2025
+-----------------------------------------------------------------------------------
+Codigo Paciente				: '1940'
+Paciente						: 'FERNANDO GONCALVES DE OLIVEIRA '
+Convênio						: 'PM'
+Peso							: '80.00'
+Altura							: '170.00'
+Sup Corp						: '0.00'
+Indicacao Clinica				: 'LINFOMA DIFUSO DE GRANSDES CÉLULAS B'
+Data do Diagnostico			: ''2024-12-11''
+CID							: 'C83'
+Estadiamento					: 'IV'
+Tipo Quimio (Linha)			: '2 Linha'
+Finalidade						: 'Curativo'
+Tipo de Tumor					: 'Nao Se Aplica'
+Tipo de Nodulo					: 'Nao Se Aplica'
+Tipo de Metastase				: 'Nao Se Aplica'
+Plano Terapêutio				: 'Gemcitabina 1000 mg/m2 + oxaliplatina 100 mg/m2 D1 e D15
+Rituximabe D1 375 mg/m2'
+Informações Relevantes			: 'RECIDIVA APÓS R-CHOP E RADIOTERAPIA'
+Diagnóstico Histopatologico	: 'LINFOMA DIFUSO DE GRANDES CÉLULAS B'
+Tipo de Cirurgia				: ''
+Área Irradiada					: 'COXA'
+Data de Realização				: ''2025-01-09''
+Data da Aplicação				: ''2025-01-09''
+Observação Justificativa		: 'RECIDIVA DE LINFOMA DIFUSO'
+Quantidade de Ciclos Prevsitos	: '6'
+Ciclo Atual					: '1'
+Dias do ciclo atual			: '28'
+Intervalo de Ciclos			: '28'
+Nome do medico encaminhador	: ''
+
+
+-----------------------------------------------------------------------------------
+---------------------Log de Inclusao do Pedido de Tratamento------------------------
+Mensagem gerada pelo usuario	: 'monise.freitas' em 14/01/2025
+-----------------------------------------------------------------------------------
+Codigo Paciente				: '3341'
+Paciente						: 'MARISTELA APARECIDA GABRIEL'
+Convênio						: 'UNIMED'
+Peso							: '77'
+Altura							: '1,50'
+Sup Corp						: '1,79'
+Indicacao Clinica				: 'CA DE PANCREAS '
+Data do Diagnostico			: ''2025-01-14''
+CID							: 'C25'
+Estadiamento					: 'IV'
+Tipo Quimio (Linha)			: '1 Linha'
+Finalidade						: 'Curativo'
+Tipo de Tumor					: 'Nao Se Aplica'
+Tipo de Nodulo					: 'Nao Se Aplica'
+Tipo de Metastase				: 'Nao Se Aplica'
+Plano Terapêutio				: 'GENCITABINA 1790MG EV D1, D8 E D15 EMEND 01 FRA EV D1, D8 E D15'
+Informações Relevantes			: 'CARCINOMA; MARCADOR ELEVADO CA 19.9; TUMOR CABEÇA DE PANCREAS; ASCITE; CARCINOMATOSE'
+Diagnóstico Histopatologico	: ''
+Tipo de Cirurgia				: ''
+Área Irradiada					: ''
+Data de Realização				: ''2025-01-14''
+Data da Aplicação				: ''2025-01-14''
+Observação Justificativa		: ''
+Quantidade de Ciclos Prevsitos	: '06'
+Ciclo Atual					: '01'
+Dias do ciclo atual			: '03'
+Intervalo de Ciclos			: '28'
+Nome do medico encaminhador	: 'CHRISTIANE MEURER'
+
+
+-----------------------------------------------------------------------------------
+---------------------Log de Inclusao do Pedido de Tratamento------------------------
+Mensagem gerada pelo usuario	: 'anapaula.rizzo' em 14/01/2025
+-----------------------------------------------------------------------------------
+Codigo Paciente				: '3102'
+Paciente						: 'SIMONE ALVIM VIEIRA'
+Convênio						: 'UNIMED'
+Peso							: '65.00'
+Altura							: '166.00'
+Sup Corp						: '1.70'
+Indicacao Clinica				: 'NEOPLASIA DA MAMA D , OPERADA - IN SITU COM RECEPTRES HORMONAIS. NECESSITA DE HORMONIOTERAPIA POR 05 ANOS.'
+Data do Diagnostico			: ''2024-10-07''
+CID							: 'C50'
+Estadiamento					: 'I'
+Tipo Quimio (Linha)			: '1 Linha'
+Finalidade						: 'Adjuvante'
+Tipo de Tumor					: 'T1'
+Tipo de Nodulo					: 'N0'
+Tipo de Metastase				: 'M0'
+Plano Terapêutio				: 'LETROZOL 2,5MG POR 05 ANOS '
+Informações Relevantes			: 'PACIENTE TABAGISTA DE LONGA DATA CONTRAINDICADO TAMOXIFENO EVOLUINDO COM ALERGIA AO ANASTROZOL, PRURIDO E LESÕES. '
+Diagnóstico Histopatologico	: 'EGMENTECTOMIA DA MAMA DIREITA+ AMPLIAÇÃO DA MARGEM (07/10/24): CARCINOMA INTRADUCTAL, GRAU II, TAMANHO DO TUMOR 0.4 CM , INVASÕES AUSENTE, MARGEM SÚPERO MEDIAL ESTÁ COMPROMETIDA POR TUMOR IN SITU, DEMAIS MARGENS LIVRES. LINFONODOS: 0/2 ESTUDADOS T1N0MX - EC I 
+'
+Tipo de Cirurgia				: 'EGMENTECTOMIA DA MAMA DIREITA+ AMPLIAÇÃO DA MARGEM (07/10/24): CARCINOMA INTRADUCTAL, GRAU II, TAMANHO DO TUMOR 0.4 CM , INVASÕES AUSENTE, MARGEM SÚPERO MEDIAL ESTÁ COMPROMETIDA POR TUMOR IN SITU, DEMAIS MARGENS LIVRES. LINFONODOS: 0/2 ESTUDADOS T1N0MX - EC I 
+'
+Área Irradiada					: ''
+Data de Realização				: ''2024-10-07''
+Data da Aplicação				: ''2024-10-24''
+Observação Justificativa		: 'NEOPLASIA MALIGNA DA MAMA ABORDADA VÁRIAS VEZES COM DIAGNÓSTICO FINAL POR IMH DE NEOPLASIA MALIGNA DA MAMA IN SITU. SOLICITO LETROZOL DEVIDO A PACIENTE SER TABAGISTA DE LONGA DATA. '
+Quantidade de Ciclos Prevsitos	: '60'
+Ciclo Atual					: '01'
+Dias do ciclo atual			: '30'
+Intervalo de Ciclos			: '30'
+Nome do medico encaminhador	: ''
+
+
+-----------------------------------------------------------------------------------
+---------------------Log de Inclusao do Pedido de Tratamento------------------------
+Mensagem gerada pelo usuario	: 'monise.freitas' em 14/01/2025
+-----------------------------------------------------------------------------------
+Codigo Paciente				: '1940'
+Paciente						: 'FERNANDO GONCALVES DE OLIVEIRA '
+Convênio						: 'PM'
+Peso							: '80.00'
+Altura							: '170.00'
+Sup Corp						: '0.00'
+Indicacao Clinica				: 'LINFOMA DIFUSO DE GRANSDES CÉLULAS B'
+Data do Diagnostico			: ''2024-12-11''
+CID							: 'C83'
+Estadiamento					: 'IV'
+Tipo Quimio (Linha)			: '2 Linha'
+Finalidade						: 'Curativo'
+Tipo de Tumor					: 'Nao Se Aplica'
+Tipo de Nodulo					: 'Nao Se Aplica'
+Tipo de Metastase				: 'Nao Se Aplica'
+Plano Terapêutio				: 'GEMCITABINA 1000 MG/M2 + OXALIPLATINA 100 MG/M2 D1 E D15
+RITUXIMABE D1 375 MG/M2'
+Informações Relevantes			: 'RECIDIVA APÓS R-CHOP E RADIOTERAPIA'
+Diagnóstico Histopatologico	: 'LINFOMA DIFUSO DE GRANDES CÉLULAS B'
+Tipo de Cirurgia				: ''
+Área Irradiada					: 'COXA'
+Data de Realização				: ''2025-01-09''
+Data da Aplicação				: ''2025-01-09''
+Observação Justificativa		: 'RECIDIVA DE LINFOMA DIFUSO'
+Quantidade de Ciclos Prevsitos	: '6'
+Ciclo Atual					: '1'
+Dias do ciclo atual			: '28'
+Intervalo de Ciclos			: '28'
+Nome do medico encaminhador	: ''
+
+
+-----------------------------------------------------------------------------------
+---------------------Log de Inclusao do Pedido de Tratamento------------------------
+Mensagem gerada pelo usuario	: 'paulla.chaves' em 16/01/2025
+-----------------------------------------------------------------------------------
+Codigo Paciente				: '2993'
+Paciente						: 'EDUARDO PEDRETTI COUTINHO'
+Convênio						: 'SAUDE SINAI'
+Peso							: '72,0'
+Altura							: '178'
+Sup Corp						: '1.88'
+Indicacao Clinica				: 'Paciente jovem com ferropenia persistente a despeito de reposição oral. Ainda sem definição etiológica.
+Com Hb:5,5'
+Data do Diagnostico			: ''2025-01-16''
+CID							: ''
+Estadiamento					: ''
+Tipo Quimio (Linha)			: '1 Linha'
+Finalidade						: 'Paliativo'
+Tipo de Tumor					: 'Nao Se Aplica'
+Tipo de Nodulo					: 'Nao Se Aplica'
+Tipo de Metastase				: 'Nao Se Aplica'
+Plano Terapêutio				: 'CID 10: D50.9
+Solicito reposição de 2 ampolas de Ferrinject a cada 2 meses'
+Informações Relevantes			: '-'
+Diagnóstico Histopatologico	: '-'
+Tipo de Cirurgia				: '-'
+Área Irradiada					: '-'
+Data de Realização				: ''2025-01-16''
+Data da Aplicação				: ''2025-01-16''
+Observação Justificativa		: 'Anemia ferropriva grave e sintomática sem definição etiológica.'
+Quantidade de Ciclos Prevsitos	: '4'
+Ciclo Atual					: '1'
+Dias do ciclo atual			: '2'
+Intervalo de Ciclos			: '60'
+Nome do medico encaminhador	: ''
+
+
+-----------------------------------------------------------------------------------
+---------------------Log de Inclusao do Pedido de Tratamento------------------------
+Mensagem gerada pelo usuario	: 'paulla.chaves' em 16/01/2025
+-----------------------------------------------------------------------------------
+Codigo Paciente				: '633'
+Paciente						: 'PATRICIA MARTINS DE ALMEIDA MAGALHAES'
+Convênio						: 'FUSEX'
+Peso							: '60'
+Altura							: '165'
+Sup Corp						: '1.65'
+Indicacao Clinica				: 'Paciente com menopausa precoce em seguimento nesse serviço devido talassemia, contudo com osteoporose. 
+Solicito infusão de Prolia'
+Data do Diagnostico			: ''2025-01-16''
+CID							: ''
+Estadiamento					: ''
+Tipo Quimio (Linha)			: '2 Linha'
+Finalidade						: 'Paliativo'
+Tipo de Tumor					: 'Nao Se Aplica'
+Tipo de Nodulo					: 'Nao Se Aplica'
+Tipo de Metastase				: 'Nao Se Aplica'
+Plano Terapêutio				: 'Prolia'
+Informações Relevantes			: '-'
+Diagnóstico Histopatologico	: '-'
+Tipo de Cirurgia				: '-'
+Área Irradiada					: '-'
+Data de Realização				: ''2025-01-16''
+Data da Aplicação				: ''2025-01-16''
+Observação Justificativa		: '-'
+Quantidade de Ciclos Prevsitos	: '1'
+Ciclo Atual					: '01'
+Dias do ciclo atual			: '01'
+Intervalo de Ciclos			: '0365'
+Nome do medico encaminhador	: ''
+
+
+-----------------------------------------------------------------------------------
+---------------------Log de Inclusao do Pedido de Tratamento------------------------
+Mensagem gerada pelo usuario	: 'monise.freitas' em 16/01/2025
+-----------------------------------------------------------------------------------
+Codigo Paciente				: '1815'
+Paciente						: 'MARIA CONSUELO BERTELLI BENATTI'
+Convênio						: 'UNIMED'
+Peso							: '55.00'
+Altura							: '1.65'
+Sup Corp						: '1.60'
+Indicacao Clinica				: 'MIELOMA MÚLTIPLO EM PACIENTE FRÁGIL'
+Data do Diagnostico			: ''2023-10-07''
+CID							: 'C90'
+Estadiamento					: 'II'
+Tipo Quimio (Linha)			: '2 Linha'
+Finalidade						: 'Curativo'
+Tipo de Tumor					: 'Nao Se Aplica'
+Tipo de Nodulo					: 'Nao Se Aplica'
+Tipo de Metastase				: 'Nao Se Aplica'
+Plano Terapêutio				: 'ACRESCIMO EPREX 40000 UI -  (04 FRS/ AMP POR CICLO) . CICLO 01
+'
+Informações Relevantes			: 'IDOSA FRÁGIL COM QUADRO DE INSUFICIÊNCIA CARDIÁCA GRAVE POR INIBIDOR DE PROTEASSOMA
+'
+Diagnóstico Histopatologico	: 'MIELOMA MULTIPLO
+
+'
+Tipo de Cirurgia				: ''
+Área Irradiada					: ''
+Data de Realização				: ''0001-01-01''
+Data da Aplicação				: ''0001-01-01''
+Observação Justificativa		: ''
+Quantidade de Ciclos Prevsitos	: 'IND'
+Ciclo Atual					: '01'
+Dias do ciclo atual			: '01'
+Intervalo de Ciclos			: '28'
+Nome do medico encaminhador	: ''
+
+
+-----------------------------------------------------------------------------------
+---------------------Log de Inclusao do Pedido de Tratamento------------------------
+Mensagem gerada pelo usuario	: 'anapaula.rizzo' em 21/01/2025
+-----------------------------------------------------------------------------------
+Codigo Paciente				: '1572'
+Paciente						: 'CLAUDIO CESAR TREVISAN'
+Convênio						: 'PMMG'
+Peso							: '86.0'
+Altura							: '182'
+Sup Corp						: '2.0'
+Indicacao Clinica				: 'Tumor de bexiga ressecado papilifero não inavsor de baixo grau.
+'
+Data do Diagnostico			: ''2023-08-25''
+CID							: 'C67'
+Estadiamento					: 'I'
+Tipo Quimio (Linha)			: '1 Linha'
+Finalidade						: 'Adjuvante'
+Tipo de Tumor					: 'T1'
+Tipo de Nodulo					: 'NX'
+Tipo de Metastase				: 'M0'
+Plano Terapêutio				: '  BCG na dose de 81 mg por 6 semanas consecutivas seguida de manutenção nos meses 3, 6, 12.
+'
+Informações Relevantes			: 'Tumor de bexiga ressecado, evoluindo com recidiva vista em laudo da RTU.
+Devido ao risco, solicito BCG intravesical'
+Diagnóstico Histopatologico	: 'BIOPSIA DE BEXIGA (25/08/23): CARCINOMA DE CELULAS UROTELIAIS PAPILIFERO NÃO INVASOR DE BAIXO GRAU
+ 
+'
+Tipo de Cirurgia				: ''
+Área Irradiada					: ''
+Data de Realização				: ''2025-01-21''
+Data da Aplicação				: ''2025-01-21''
+Observação Justificativa		: 'Tumor de bexiga ressecado, evoluindo com recidiva vista em laudo da RTU.
+Devido ao risco, solicito BCG intravesical'
+Quantidade de Ciclos Prevsitos	: '06'
+Ciclo Atual					: '01'
+Dias do ciclo atual			: '01'
+Intervalo de Ciclos			: '07'
+Nome do medico encaminhador	: 'luiz rogerio araujo'
+
+
+-----------------------------------------------------------------------------------
+---------------------Log de Inclusao do Pedido de Tratamento------------------------
+Mensagem gerada pelo usuario	: 'monise.freitas' em 22/01/2025
+-----------------------------------------------------------------------------------
+Codigo Paciente				: '3319'
+Paciente						: 'LUCIANE DE FATIMA CARVALHO'
+Convênio						: 'AMAGIS'
+Peso							: '0.0'
+Altura							: '0.0'
+Sup Corp						: '0.0'
+Indicacao Clinica				: 'FERROPENIA'
+Data do Diagnostico			: ''2025-01-22''
+CID							: ''
+Estadiamento					: ''
+Tipo Quimio (Linha)			: ''
+Finalidade						: ''
+Tipo de Tumor					: ''
+Tipo de Nodulo					: ''
+Tipo de Metastase				: ''
+Plano Terapêutio				: '1 APLICAÇÃO DE FERINJECT 10ML'
+Informações Relevantes			: 'PACIENTE COM DOENÇA RENAÇ CRÔNICA COM FERROPENIA, SEM RESPOSTA ADEQUADA A REPOSIÇÃO DE FERRO VIA ORAL'
+Diagnóstico Histopatologico	: ''
+Tipo de Cirurgia				: ''
+Área Irradiada					: ''
+Data de Realização				: ''2025-01-22''
+Data da Aplicação				: ''2025-01-22''
+Observação Justificativa		: ''
+Quantidade de Ciclos Prevsitos	: '1'
+Ciclo Atual					: '1'
+Dias do ciclo atual			: '1'
+Intervalo de Ciclos			: '0'
+Nome do medico encaminhador	: ''
+
+
+-----------------------------------------------------------------------------------
+---------------------Log de Inclusao do Pedido de Tratamento------------------------
+Mensagem gerada pelo usuario	: 'talira.matias' em 22/01/2025
+-----------------------------------------------------------------------------------
+Codigo Paciente				: '1343'
+Paciente						: 'ADAIR PAULINO TEODORO'
+Convênio						: 'CASEMBRAPA'
+Peso							: '0.0'
+Altura							: '0.0'
+Sup Corp						: '0.0'
+Indicacao Clinica				: ''
+Data do Diagnostico			: ''2025-01-22''
+CID							: ''
+Estadiamento					: ''
+Tipo Quimio (Linha)			: ''
+Finalidade						: ''
+Tipo de Tumor					: ''
+Tipo de Nodulo					: ''
+Tipo de Metastase				: ''
+Plano Terapêutio				: ''
+Informações Relevantes			: ''
+Diagnóstico Histopatologico	: ''
+Tipo de Cirurgia				: ''
+Área Irradiada					: ''
+Data de Realização				: ''2025-01-22''
+Data da Aplicação				: ''2025-01-22''
+Observação Justificativa		: ''
+Quantidade de Ciclos Prevsitos	: '0'
+Ciclo Atual					: '0'
+Dias do ciclo atual			: '0'
+Intervalo de Ciclos			: '0'
+Nome do medico encaminhador	: ''
+Crioterapia					: 'Em análise'
+
+
+-----------------------------------------------------------------------------------
+---------------------Log de Inclusao do Pedido de Tratamento------------------------
+Mensagem gerada pelo usuario	: 'talira.matias' em 22/01/2025
+-----------------------------------------------------------------------------------
+Codigo Paciente				: '1343'
+Paciente						: 'ADAIR PAULINO TEODORO'
+Convênio						: 'CEMIG SAUDE'
+Peso							: '0.0'
+Altura							: '0.0'
+Sup Corp						: '0.0'
+Indicacao Clinica				: ''
+Data do Diagnostico			: ''2025-01-22''
+CID							: ''
+Estadiamento					: ''
+Tipo Quimio (Linha)			: ''
+Finalidade						: ''
+Tipo de Tumor					: ''
+Tipo de Nodulo					: ''
+Tipo de Metastase				: ''
+Plano Terapêutio				: ''
+Informações Relevantes			: ''
+Diagnóstico Histopatologico	: ''
+Tipo de Cirurgia				: ''
+Área Irradiada					: ''
+Data de Realização				: ''2025-01-22''
+Data da Aplicação				: ''2025-01-22''
+Observação Justificativa		: ''
+Quantidade de Ciclos Prevsitos	: '0'
+Ciclo Atual					: '0'
+Dias do ciclo atual			: '0'
+Intervalo de Ciclos			: '0'
+Nome do medico encaminhador	: ''
+Crioterapia					: 'Sim'
+
+
+-----------------------------------------------------------------------------------

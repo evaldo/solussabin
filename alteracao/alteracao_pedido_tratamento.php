@@ -43,6 +43,7 @@
 				, dt_altr 
 				, cd_cnvo
 				, nm_mdco_encaminhador
+				, ic_crioterapia
 				from tratamento.tb_pddo_trtmto
 	where id_pddo_trtmto = ".$_POST['id_pddo_trtmto']." ";
 
@@ -677,6 +678,38 @@
 											<td ><input type="date" class="form-control" id="dt_aplc" name="dt_aplc" value="<?php echo $rowpddotrtmto[18]; ?>"></td>
 									 </tr>
 									 
+									 <tr>  
+										<td style="width:150px"><label>Crioterapia:</label></td>  										
+										<td style="width:150px">
+											<select  id="sl_ic_crioterapia" class="form-control" onchange=" 
+														var selObj = document.getElementById('sl_ic_crioterapia');
+														var selValue = selObj.options[selObj.selectedIndex].value;
+														document.getElementById('ic_crioterapia').value = selValue;">
+												<option value="">Escolha uma opção</option>
+												<?php if($rowpddotrtmto[36]=='Sim') { ?>
+													<option value="Sim" selected>Sim</option>													
+													<option value="Não">Não</option>
+													<option value="Em análise">Em análise</option>																								
+												<?php } ?>
+												<?php if($rowpddotrtmto[36]=='Não') { ?>
+													<option value="Sim">Sim</option>													
+													<option value="Não" selected>Não</option>
+													<option value="Em análise">Em análise</option>																								
+												<?php } ?>
+												<?php if($rowpddotrtmto[36]=='Em análise') { ?>
+													<option value="Sim">Sim</option>													
+													<option value="Não">Não</option>
+													<option value="Em análise" selected>Em análise</option>												
+												<?php } ?>																				
+												<?php if($rowpddotrtmto[36]=='') { ?>														
+													<option value="Sim">Sim</option>													
+													<option value="Não">Não</option>
+													<option value="Em análise">Em análise</option>		
+												<?php }  ?>
+											</select>
+										</td>	
+									 </tr>
+									 
 									  <tr>
 									 
 											<td style="width:150px"><label>Observação/Justificativa:</label></td>  
@@ -716,6 +749,7 @@
 									 <input type="text" id="ic_tipo_tumor" name="ic_tipo_tumor" value="<?php echo $rowpddotrtmto[27]; ?>" style="display:none"> 
 									 <input type="text" id="ic_tipo_nodulo" name="ic_tipo_nodulo" value="<?php echo $rowpddotrtmto[28]; ?>" style="display:none"> 
 									 <input type="text" id="ic_tipo_metastase" name="ic_tipo_metastase" value="<?php echo $rowpddotrtmto[29]; ?>" style="display:none"> 
+									 <input type="text" id="ic_crioterapia" name="ic_crioterapia" value="<?php echo $rowpddotrtmto[36]; ?>" style="display:none"
 									  
 								</table>																
 							</div>								

@@ -351,6 +351,21 @@
 											<td ><input type="date" class="form-control" id="dt_aplc" name="dt_aplc" value="<?php $hoje = date ( 'Y-m-d' ); echo $hoje ; ?>"></td>
 									 </tr>
 									 
+									 <tr>  
+										<td style="width:150px"><label>Crioterapia:</label></td>  										
+										<td style="width:150px">
+											<select  id="sl_ic_crioterapia" class="form-control" onchange=" 
+														var selObj = document.getElementById('sl_ic_crioterapia');
+														var selValue = selObj.options[selObj.selectedIndex].value;
+														document.getElementById('ic_crioterapia').value = selValue;">
+												<option value="">Escolha uma opção</option>
+												<option value="Sim">Sim</option>											
+												<option value="Não">Não</option>														
+												<option value="Em análise">Em análise</option>																																				
+											</select>
+										</td>	
+									 </tr>
+									 
 									  <tr>
 									 
 											<td style="width:150px"><label>Observação/Justificativa:</label></td>  
@@ -387,7 +402,8 @@
 									 <input type="text" id="ds_fnlde" name="ds_fnlde" style="display:none"> 
 									 <input type="text" id="ic_tipo_tumor" name="ic_tipo_tumor" style="display:none"> 
 									 <input type="text" id="ic_tipo_nodulo" name="ic_tipo_nodulo" style="display:none"> 
-									 <input type="text" id="ic_tipo_metastase" name="ic_tipo_metastase" style="display:none"> 
+									 <input type="text" id="ic_tipo_metastase" name="ic_tipo_metastase" style="display:none">
+									 <input type="text" id="ic_crioterapia" name="ic_crioterapia" style="display:none">
 									 
 								</table>																
 							</div>								

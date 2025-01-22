@@ -43,6 +43,7 @@
 				, dt_altr 
 				, cd_cnvo
 				, nm_mdco_encaminhador
+				, ic_crioterapia
 				from tratamento.tb_pddo_trtmto
 	where id_pddo_trtmto = ".$_POST['id_pddo_trtmto']."  ";
 	
@@ -118,6 +119,8 @@
 					<p><b>Data da Realiza&ccedil;&atilde;o: </b>'.$row[17].' </p>
 					
 					<p><b>Data da Aplica&ccedil;&atilde;o: </b>'.$row[18].'</p>
+					
+					<p><b>Crioterapia: </b>'.$row[36].' .</p>
 					
 					<p><b>Observa&ccedil;&atilde;o/Justificativa: </b>'.$row[19].' .</p>
 					
