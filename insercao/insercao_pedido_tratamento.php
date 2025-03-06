@@ -393,6 +393,13 @@
 											<td style="width:50px"><input type="text" class="form-control" value="0" name="ds_intrv_entre_ciclo_dia" id="ds_intrv_entre_ciclo_dia"></td>
 									 </tr>
 									 
+									 <tr>
+									 
+										<td style="width:150px"><label>Exames enviados:</label></td>  
+										<td style="width:200px"><textarea rows="6" cols="50" id="ds_exame_enviado" class="form-control" name="ds_exame_enviado" value=" "></textarea></td> 
+									 
+									   </tr>
+									 
 									 <input type="text" id="cd_pcnt" name="cd_pcnt" style="display:none"> 									 
 									 <input type="text" id="cd_cnvo" name="cd_cnvo" style="display:none"> 									 
 									 <input type="text" id="cd_cid" name="cd_cid" style="display:none"> 									 
@@ -407,8 +414,8 @@
 									 
 								</table>																
 							</div>								
-							<div class="modal-footer">	
-								<input type="submit" class="btn btn-danger" name="insere" value="Inserir">&nbsp;&nbsp;&nbsp;&nbsp;
+							<div class="modal-footer">
+								<input type="submit" class="btn btn-danger" name="insere" value="Inserir" onclick="if (document.getElementById('ds_exame_enviado').value=='') {alert('ATENÇÃO: Campo Exames Enviados, não preenchido!!'); return false;} else {document.getElementById('formInsere').submit();} ">&nbsp;&nbsp;&nbsp;&nbsp;
 								<input type="submit" class="btn btn-primary" onclick="history.go()" value="Voltar">						
 							</div>									
 						</div>

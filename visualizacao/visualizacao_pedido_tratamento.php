@@ -44,6 +44,7 @@
 				, cd_cnvo
 				, nm_mdco_encaminhador
 				, ic_crioterapia
+				, ds_exame_enviado
 				from tratamento.tb_pddo_trtmto
 	where id_pddo_trtmto = ".$_POST['id_pddo_trtmto']."  ";
 	
@@ -140,6 +141,8 @@
 							</tr>
 						</tbody>
 					</table>
+					
+					<p><b>Exames enviados: </b>'.$row[37].' .</p>
 					
 					<p>&nbsp;</p>';
 					

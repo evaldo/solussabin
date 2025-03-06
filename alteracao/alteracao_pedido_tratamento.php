@@ -44,6 +44,7 @@
 				, cd_cnvo
 				, nm_mdco_encaminhador
 				, ic_crioterapia
+				, ds_exame_enviado
 				from tratamento.tb_pddo_trtmto
 	where id_pddo_trtmto = ".$_POST['id_pddo_trtmto']." ";
 
@@ -73,7 +74,7 @@
 					<div class="container">						
 						<h4 class="modal-title">Alteração do Pedido de Tratamento</h4>
 					</div>								
-					<form class="form-inline" method="post" >
+					<form class="form-inline" method="post" id="formAltera">
 						<div class="modal-body">
 							<div class="table-responsive">  							
 								<table class="table table-bordered">
@@ -737,6 +738,13 @@
 											<td style="width:50px"><input type="text" class="form-control" value="<?php echo $rowpddotrtmto[23]; ?>" name="ds_intrv_entre_ciclo_dia" id="ds_intrv_entre_ciclo_dia"></td>
 									 </tr>
 									 
+									 <tr>
+									 
+										<td style="width:150px"><label>Exames enviados:</label></td>  
+											<td style="width:200px"><textarea rows="6" cols="50" id="ds_exame_enviado" class="form-control" name="ds_exame_enviado"><?php echo $rowpddotrtmto[37]; ?></textarea></td> 
+									 
+									   </tr>
+									 
 									 <input type="text" id="cd_pcnt" name="cd_pcnt" value="<?php echo $rowpddotrtmto[2]; ?>" style="display:none"> 
 									 <input type="text" id="cd_cnvo" name="cd_cnvo" value="<?php echo $rowpddotrtmto[34]; ?>" style="display:none"> 
 									 <input type="text" id="cd_cid" name="cd_cid" value="<?php echo $rowpddotrtmto[11]; ?>" style="display:none"> 
@@ -749,14 +757,14 @@
 									 <input type="text" id="ic_tipo_tumor" name="ic_tipo_tumor" value="<?php echo $rowpddotrtmto[27]; ?>" style="display:none"> 
 									 <input type="text" id="ic_tipo_nodulo" name="ic_tipo_nodulo" value="<?php echo $rowpddotrtmto[28]; ?>" style="display:none"> 
 									 <input type="text" id="ic_tipo_metastase" name="ic_tipo_metastase" value="<?php echo $rowpddotrtmto[29]; ?>" style="display:none"> 
-									 <input type="text" id="ic_crioterapia" name="ic_crioterapia" value="<?php echo $rowpddotrtmto[36]; ?>" style="display:none"
+									 <input type="text" id="ic_crioterapia" name="ic_crioterapia" value="<?php echo $rowpddotrtmto[36]; ?>" style="display:none">
 									  
 								</table>																
 							</div>								
 							<div class="modal-footer">	
-								<input type="submit" class="btn btn-danger" name="altera" value="Alterar">&nbsp;&nbsp;&nbsp;&nbsp;
+								<input type="submit" class="btn btn-danger" name="altera" value="Alterar" onclick="if (document.getElementById('ds_exame_enviado').value=='') {alert('ATENÇÃO: Campo Exames Enviados, não preenchido!!'); return false;} else {document.getElementById('formAltera').submit();} " >&nbsp;&nbsp;&nbsp;&nbsp;
 								<input type="submit" class="btn btn-primary" onclick="history.go()" value="Voltar">						
-							</div>									
+							</div>								
 						</div>
 					</form>
 				</div>

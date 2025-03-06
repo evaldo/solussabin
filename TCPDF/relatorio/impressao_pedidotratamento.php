@@ -46,6 +46,7 @@ if(isset($_GET['id_pddo_trtmto'])){
 				, cd_cnvo
 				, nm_mdco_encaminhador
 				, ic_crioterapia
+				, ds_exame_enviado
 				from tratamento.tb_pddo_trtmto
 		where id_pddo_trtmto = ".$id_pddo_trtmto." ";			
 		
@@ -221,6 +222,8 @@ if(isset($_GET['id_pddo_trtmto'])){
 					<p><b>Crioterapia: </b>'.$row[36].'</p>
 					
 					<p><b>Observa&ccedil;&atilde;o/Justificativa: </b>'.htmlspecialchars($row[19], ENT_QUOTES).' .</p>
+					
+					<p><b>Exames enviados: </b>'.htmlspecialchars($row[37], ENT_QUOTES).' .</p>
 					
 					<table style="border-collapse: collapse; width: 70%;" border="1">
 						<tbody>

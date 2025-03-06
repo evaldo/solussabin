@@ -46,6 +46,12 @@
 		try
 		{	
 		
+			if ($_POST['ds_exame_enviado']=='' || $_POST['ds_exame_enviado']==null){
+				echo "<div class=\"alert alert-warning alert-dismissible\">
+						<a href=\"#\" class=\"close\" data-dismiss=\"alert\" aria-label=\"close\">&times;</a>
+						<strong>Atenção!</strong> ATENÇÃO. Campo Exames Enviados não pode estar em branco. Clique em <input type='submit' class='btn btn-primary' onclick='history.go()' value='Voltar'> caso necessite repetir a operação.</div>";
+			}
+		
 			$inserenovotratamento=0;
 		
 			if ($_POST['id_hstr_pnel_solic_trtmto']=='null' || $_POST['id_hstr_pnel_solic_trtmto']==null || $_POST['id_hstr_pnel_solic_trtmto']=='') {
@@ -330,8 +336,8 @@
 				
 			$rowpcnt = pg_fetch_row($retnmpcnt);
 		
-			$sql = "INSERT INTO tratamento.tb_pddo_trtmto(id_pddo_trtmto, id_hstr_pnel_solic_trtmto, cd_pcnt, nm_pcnt, dt_nasc_pcnt, vl_idade_pcnt, nu_peso_pcnt, vl_altura_pcnt, vl_sup_corp, ds_indic_clnic, dt_diagn, cd_cid, ds_plano_trptco, ds_info_rlvnte, ds_diagn_cito_hstpagico, ds_tp_cirurgia, ds_area_irrda, dt_rlzd, dt_aplc, ds_obs_jfta, nu_qtde_ciclo_prta, ds_ciclo_atual, ds_dia_ciclo_atual, ds_intrv_entre_ciclo_dia, ds_estmt, ds_tipo_linha_trtmto, ds_fnlde, ic_tipo_tumor, ic_tipo_nodulo, ic_tipo_metastase, cd_usua_incs, dt_incs, cd_cnvo, nm_mdco_encaminhador, ic_crioterapia)
-	VALUES ((select NEXTVAL('tratamento.sq_pddo_trtmto')), ". $id_hstr_pnel_solic_trtmto.", '". $_POST['cd_pcnt']."', (select nm_pcnt from tratamento.tb_c_pcnt where cd_pcnt = '". $_POST['cd_pcnt']."'), (select dt_nasc_pcnt from tratamento.tb_c_pcnt where cd_pcnt = '". $_POST['cd_pcnt']."'), (select date_part('year', age(now(), (select dt_nasc_pcnt from tratamento.tb_c_pcnt where cd_pcnt = '". $_POST['cd_pcnt']."')))), ". str_replace(",", ".", $_POST['nu_peso_pcnt']).", ". str_replace(",", ".", $_POST['vl_altura_pcnt']).", ". str_replace(",", ".", $_POST['vl_sup_corp']).", UPPER('".str_replace("'", " ",$_POST['ds_indic_clnic'])."'), ".$dt_diagn.", '". $_POST['cd_cid']."', UPPER('". str_replace("'", " ",$_POST['ds_plano_trptco'])."'), UPPER('". str_replace("'", " ",$_POST['ds_info_rlvnte'])."'), UPPER('". str_replace("'", " ",$_POST['ds_diagn_cito_hstpagico'])."'), UPPER('". str_replace("'", " ",$_POST['ds_tp_cirurgia'])."'), UPPER('". str_replace("'", " ",$_POST['ds_area_irrda'])."'), ".$dt_rlzd.", ".$dt_aplc.", UPPER('". str_replace("'", " ",$_POST['ds_obs_jfta'])."'), '". $_POST['nu_qtde_ciclo_prta']."', '". $_POST['ds_ciclo_atual']."', '". $_POST['ds_dia_ciclo_atual']."', '". $_POST['ds_intrv_entre_ciclo_dia']."', '". $_POST['ds_estmt']."' ,'". $_POST['ds_tipo_linha_trtmto']."', '".$_POST['ds_fnlde']."', '". $_POST['ic_tipo_tumor']."', '". $_POST['ic_tipo_nodulo']."', '". $_POST['ic_tipo_metastase']."', '".$_SESSION['usuario']."', current_timestamp, '". $_POST['cd_cnvo']."', '". $_POST['nm_mdco_encaminhador']."', '". $_POST['ic_crioterapia']."');";
+			$sql = "INSERT INTO tratamento.tb_pddo_trtmto(id_pddo_trtmto, id_hstr_pnel_solic_trtmto, cd_pcnt, nm_pcnt, dt_nasc_pcnt, vl_idade_pcnt, nu_peso_pcnt, vl_altura_pcnt, vl_sup_corp, ds_indic_clnic, dt_diagn, cd_cid, ds_plano_trptco, ds_info_rlvnte, ds_diagn_cito_hstpagico, ds_tp_cirurgia, ds_area_irrda, dt_rlzd, dt_aplc, ds_obs_jfta, nu_qtde_ciclo_prta, ds_ciclo_atual, ds_dia_ciclo_atual, ds_intrv_entre_ciclo_dia, ds_estmt, ds_tipo_linha_trtmto, ds_fnlde, ic_tipo_tumor, ic_tipo_nodulo, ic_tipo_metastase, cd_usua_incs, dt_incs, cd_cnvo, nm_mdco_encaminhador, ic_crioterapia, ds_exame_enviado)
+	VALUES ((select NEXTVAL('tratamento.sq_pddo_trtmto')), ". $id_hstr_pnel_solic_trtmto.", '". $_POST['cd_pcnt']."', (select nm_pcnt from tratamento.tb_c_pcnt where cd_pcnt = '". $_POST['cd_pcnt']."'), (select dt_nasc_pcnt from tratamento.tb_c_pcnt where cd_pcnt = '". $_POST['cd_pcnt']."'), (select date_part('year', age(now(), (select dt_nasc_pcnt from tratamento.tb_c_pcnt where cd_pcnt = '". $_POST['cd_pcnt']."')))), ". str_replace(",", ".", $_POST['nu_peso_pcnt']).", ". str_replace(",", ".", $_POST['vl_altura_pcnt']).", ". str_replace(",", ".", $_POST['vl_sup_corp']).", UPPER('".str_replace("'", " ",$_POST['ds_indic_clnic'])."'), ".$dt_diagn.", '". $_POST['cd_cid']."', UPPER('". str_replace("'", " ",$_POST['ds_plano_trptco'])."'), UPPER('". str_replace("'", " ",$_POST['ds_info_rlvnte'])."'), UPPER('". str_replace("'", " ",$_POST['ds_diagn_cito_hstpagico'])."'), UPPER('". str_replace("'", " ",$_POST['ds_tp_cirurgia'])."'), UPPER('". str_replace("'", " ",$_POST['ds_area_irrda'])."'), ".$dt_rlzd.", ".$dt_aplc.", UPPER('". str_replace("'", " ",$_POST['ds_obs_jfta'])."'), '". $_POST['nu_qtde_ciclo_prta']."', '". $_POST['ds_ciclo_atual']."', '". $_POST['ds_dia_ciclo_atual']."', '". $_POST['ds_intrv_entre_ciclo_dia']."', '". $_POST['ds_estmt']."' ,'". $_POST['ds_tipo_linha_trtmto']."', '".$_POST['ds_fnlde']."', '". $_POST['ic_tipo_tumor']."', '". $_POST['ic_tipo_nodulo']."', '". $_POST['ic_tipo_metastase']."', '".$_SESSION['usuario']."', current_timestamp, '". $_POST['cd_cnvo']."', '". $_POST['nm_mdco_encaminhador']."', '". $_POST['ic_crioterapia']."', '". $_POST['ds_exame_enviado']."');";
 	
 			//echo $sql;
 			
@@ -362,7 +368,8 @@
 			$_SESSION['ds_dia_ciclo_atual'] = $_POST['ds_dia_ciclo_atual'];			
 			$_SESSION['ds_intrv_entre_ciclo_dia'] = $_POST['ds_intrv_entre_ciclo_dia'];
 			$_SESSION['nm_mdco_encaminhador'] = $_POST['nm_mdco_encaminhador'];
-			$_SESSION['ic_crioterapia'] = $_POST['ic_crioterapia'];
+			$_SESSION['ic_crioterapia'] = $_POST['ic_crioterapia'];			
+			$_SESSION['ds_exame_enviado'] = $_POST['ds_exame_enviado'];
 			
 			$fp = fopen("log_pedido.txt", "a");
 			
@@ -398,6 +405,7 @@
 			$msg .= "Dias do ciclo atual			: '".$_POST['ds_dia_ciclo_atual']."'\n";			
 			$msg .= "Intervalo de Ciclos			: '".$_POST['ds_intrv_entre_ciclo_dia']."'\n";			
 			$msg .= "Nome do medico encaminhador	: '".$_POST['nm_mdco_encaminhador']."'\n";
+			$msg .= "Exames Enviados				: '".$_POST['ds_exame_enviado']."'\n";
 			$msg .= "Crioterapia					: '".$_POST['ic_crioterapia']."'\n";
 			$msg .= "\n";			
 			$msg .= "\n";			
@@ -550,7 +558,7 @@
 			if ($_POST['id_status_trtmto'] == '0'){ $id_hstr_pnel_solic_trtmto="null";}
 			
 			$sql = "UPDATE tratamento.tb_pddo_trtmto
-	SET id_hstr_pnel_solic_trtmto = ". $id_hstr_pnel_solic_trtmto." ,nu_peso_pcnt=". str_replace(",", ".", $_POST['nu_peso_pcnt']).", vl_altura_pcnt=". str_replace(",", ".", $_POST['vl_altura_pcnt']).", vl_sup_corp=". str_replace(",", ".", $_POST['vl_sup_corp']).", ds_indic_clnic=UPPER('". str_replace("'", " ",$_POST['ds_indic_clnic'])."'), dt_diagn=". $dt_diagn.", cd_cid='". $_POST['cd_cid']."', ds_plano_trptco=UPPER('". str_replace("'", " ",$_POST['ds_plano_trptco'])."'), ds_info_rlvnte=UPPER('". str_replace("'", " ",$_POST['ds_info_rlvnte'])."'), ds_diagn_cito_hstpagico=UPPER('". str_replace("'", " ",$_POST['ds_diagn_cito_hstpagico'])."'), ds_tp_cirurgia=UPPER('". str_replace("'", " ",$_POST['ds_tp_cirurgia'])."'), ds_area_irrda=UPPER('". str_replace("'", " ",$_POST['ds_area_irrda'])."'), dt_rlzd=".$dt_rlzd.", dt_aplc=". $dt_aplc.", ds_obs_jfta=UPPER('". str_replace("'", " ",$_POST['ds_obs_jfta'])."'), nu_qtde_ciclo_prta='". $_POST['nu_qtde_ciclo_prta']."', ds_ciclo_atual='". $_POST['ds_ciclo_atual']."', ds_dia_ciclo_atual='". $_POST['ds_dia_ciclo_atual']."', ds_intrv_entre_ciclo_dia='". $_POST['ds_intrv_entre_ciclo_dia']."', ds_estmt='". $_POST['ds_estmt']."', ds_tipo_linha_trtmto='". $_POST['ds_tipo_linha_trtmto']."', ds_fnlde='". $_POST['ds_fnlde']."', ic_tipo_tumor='". $_POST['ic_tipo_tumor']."', ic_tipo_nodulo='". $_POST['ic_tipo_nodulo']."', ic_tipo_metastase='". $_POST['ic_tipo_metastase']."', cd_usua_altr = '".$_SESSION['usuario']."', dt_altr = current_timestamp, cd_cnvo='". $_POST['cd_cnvo']."', nm_mdco_encaminhador='". $_POST['nm_mdco_encaminhador']."', ic_crioterapia='". $_POST['ic_crioterapia']."' where id_pddo_trtmto = ". $_SESSION['id_pddo_trtmto']."";	
+	SET id_hstr_pnel_solic_trtmto = ". $id_hstr_pnel_solic_trtmto." ,nu_peso_pcnt=". str_replace(",", ".", $_POST['nu_peso_pcnt']).", vl_altura_pcnt=". str_replace(",", ".", $_POST['vl_altura_pcnt']).", vl_sup_corp=". str_replace(",", ".", $_POST['vl_sup_corp']).", ds_indic_clnic=UPPER('". str_replace("'", " ",$_POST['ds_indic_clnic'])."'), dt_diagn=". $dt_diagn.", cd_cid='". $_POST['cd_cid']."', ds_plano_trptco=UPPER('". str_replace("'", " ",$_POST['ds_plano_trptco'])."'), ds_info_rlvnte=UPPER('". str_replace("'", " ",$_POST['ds_info_rlvnte'])."'), ds_diagn_cito_hstpagico=UPPER('". str_replace("'", " ",$_POST['ds_diagn_cito_hstpagico'])."'), ds_tp_cirurgia=UPPER('". str_replace("'", " ",$_POST['ds_tp_cirurgia'])."'), ds_area_irrda=UPPER('". str_replace("'", " ",$_POST['ds_area_irrda'])."'), dt_rlzd=".$dt_rlzd.", dt_aplc=". $dt_aplc.", ds_obs_jfta=UPPER('". str_replace("'", " ",$_POST['ds_obs_jfta'])."'), nu_qtde_ciclo_prta='". $_POST['nu_qtde_ciclo_prta']."', ds_ciclo_atual='". $_POST['ds_ciclo_atual']."', ds_dia_ciclo_atual='". $_POST['ds_dia_ciclo_atual']."', ds_intrv_entre_ciclo_dia='". $_POST['ds_intrv_entre_ciclo_dia']."', ds_estmt='". $_POST['ds_estmt']."', ds_tipo_linha_trtmto='". $_POST['ds_tipo_linha_trtmto']."', ds_fnlde='". $_POST['ds_fnlde']."', ic_tipo_tumor='". $_POST['ic_tipo_tumor']."', ic_tipo_nodulo='". $_POST['ic_tipo_nodulo']."', ic_tipo_metastase='". $_POST['ic_tipo_metastase']."', cd_usua_altr = '".$_SESSION['usuario']."', dt_altr = current_timestamp, cd_cnvo='". $_POST['cd_cnvo']."', nm_mdco_encaminhador='". $_POST['nm_mdco_encaminhador']."', ic_crioterapia='". $_POST['ic_crioterapia']."', ds_exame_enviado='". $_POST['ds_exame_enviado']."' where id_pddo_trtmto = ". $_SESSION['id_pddo_trtmto']."";	
 			
 			//echo $sql;
 			
@@ -603,6 +611,7 @@
 			$msg .= "Dias do ciclo atual		: '".$_POST['ds_dia_ciclo_atual']."'\n";			
 			$msg .= "Intervalo de Ciclos		: '".$_POST['ds_intrv_entre_ciclo_dia']."'\n";
 			$msg .= "Nome do medico encaminhador: '".$_POST['nm_mdco_encaminhador']."'\n";
+			$msg .= "Exames Enviados			: '".$_POST['ds_exame_enviado']."'\n";
 			$msg .= "Crioterapia				: '".$_POST['ic_crioterapia']."'\n";			
 			$msg .= "\n";			
 			$msg .= "\n";			
@@ -618,13 +627,20 @@
 				echo "";
 			}
 			
-			$secondsWait = 0;
-			header("Refresh:$secondsWait");
-			
-		} catch(PDOException $e)
-		{
-			die($e->getMessage());
-		}
+			if ($_POST['ds_exame_enviado']=='' || $_POST['ds_exame_enviado']==null){
+					echo "<div class=\"alert alert-warning alert-dismissible\">
+							<a href=\"#\" class=\"close\" data-dismiss=\"alert\" aria-label=\"close\">&times;</a>
+							<strong>Atenção!</strong> ATENÇÃO. Campo Exames Enviados não pode estar em branco. Clique em <input type='submit' class='btn btn-primary' onclick='history.go()' value='Voltar'> caso necessite repetir a operação.</div>";
+				} else {
+				
+					$secondsWait = 0;
+					header("Refresh:$secondsWait");
+				}
+				
+			} catch(PDOException $e)
+			{
+				die($e->getMessage());
+			}
 	}
 	
 	if(isset($_POST['deleta'])){					
@@ -695,6 +711,7 @@
 				, cd_cnvo
 				, nm_mdco_encaminhador
 				, ic_crioterapia
+				, ds_exame_enviado
 				from tratamento.tb_pddo_trtmto
 				where id_pddo_trtmto = ".$_SESSION['id_pddo_trtmto']." ";
 
@@ -742,7 +759,8 @@
 				$msg .= "Dias do ciclo atual			: '".$rowpddotrtmto[22]."'\n";			
 				$msg .= "Intervalo de Ciclos			: '".$rowpddotrtmto[23]."'\n";			
 				$msg .= "Nome do médico encaminhador	: '".$rowpddotrtmto[35]."'\n";
-				$msg .= "Crioterapia					: '".$rowpddotrtmto[36]."'\n";				
+				$msg .= "Crioterapia					: '".$rowpddotrtmto[36]."'\n";
+				$msg .= "Exames enviados				: '".$rowpddotrtmto[37]."'\n";				
 				$msg .= "\n";			
 				$msg .= "\n";			
 				$msg .= "-----------------------------------------------------------------------------------\n";
