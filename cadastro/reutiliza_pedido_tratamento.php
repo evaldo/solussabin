@@ -42,6 +42,9 @@
 				, cd_usua_altr
 				, dt_altr 
 				, cd_cnvo
+				, nm_mdco_encaminhador
+				, ic_crioterapia
+				, ds_exame_enviado
 				from tratamento.tb_pddo_trtmto
 	where id_pddo_trtmto = ".$_POST['id_pddo_trtmto']." ";
 
@@ -71,7 +74,7 @@
 					<div class="container">						
 						<h4 class="modal-title">Reutilização do Pedido de Tratamento</h4>
 					</div>								
-					<form class="form-inline" method="post" >
+					<form class="form-inline" method="post" id="formAltera">
 						<div class="modal-body">
 							<div class="table-responsive">  							
 								<table class="table table-bordered">
@@ -80,7 +83,7 @@
 										<td style="width:150px"><label>Paciente:</label></td>  
 										<?php
 										
-										$sql = "SELECT cd_pcnt, nm_pcnt from tratamento.tb_c_pcnt order by 2";
+										$sql = "SELECT cd_pcnt, substring(nm_pcnt, 1, 30) as nm_pcnt from tratamento.tb_c_pcnt order by 2";
 										
 										if ($pdo==null){
 												header(Config::$webLogin);
@@ -243,6 +246,11 @@
 												$cont=$cont+1;} ?>	
 										
 										</td>	
+									   </tr>
+									   
+									   <tr>
+											<td style="width:50px"><label>Nome do médico encaminhador:</label></td> 
+											<td style="width:10px"><input type="text" class="form-control" name="nm_mdco_encaminhador" value="<?php echo $rowpddotrtmto[35]; ?>"></td>
 									   </tr>
 									   
 									   <tr>
@@ -671,6 +679,38 @@
 											<td ><input type="date" class="form-control" id="dt_aplc" name="dt_aplc" value="<?php echo $rowpddotrtmto[18]; ?>"></td>
 									 </tr>
 									 
+									 <tr>  
+										<td style="width:150px"><label>Crioterapia:</label></td>  										
+										<td style="width:150px">
+											<select  id="sl_ic_crioterapia" class="form-control" onchange=" 
+														var selObj = document.getElementById('sl_ic_crioterapia');
+														var selValue = selObj.options[selObj.selectedIndex].value;
+														document.getElementById('ic_crioterapia').value = selValue;">
+												<option value="">Escolha uma opção</option>
+												<?php if($rowpddotrtmto[36]=='Sim') { ?>
+													<option value="Sim" selected>Sim</option>													
+													<option value="Não">Não</option>
+													<option value="Em análise">Em análise</option>																								
+												<?php } ?>
+												<?php if($rowpddotrtmto[36]=='Não') { ?>
+													<option value="Sim">Sim</option>													
+													<option value="Não" selected>Não</option>
+													<option value="Em análise">Em análise</option>																								
+												<?php } ?>
+												<?php if($rowpddotrtmto[36]=='Em análise') { ?>
+													<option value="Sim">Sim</option>													
+													<option value="Não">Não</option>
+													<option value="Em análise" selected>Em análise</option>												
+												<?php } ?>																				
+												<?php if($rowpddotrtmto[36]=='') { ?>														
+													<option value="Sim">Sim</option>													
+													<option value="Não">Não</option>
+													<option value="Em análise">Em análise</option>		
+												<?php }  ?>
+											</select>
+										</td>	
+									 </tr>
+									 
 									  <tr>
 									 
 											<td style="width:150px"><label>Observação/Justificativa:</label></td>  
@@ -698,6 +738,13 @@
 											<td style="width:50px"><input type="text" class="form-control" value="<?php echo $rowpddotrtmto[23]; ?>" name="ds_intrv_entre_ciclo_dia" id="ds_intrv_entre_ciclo_dia"></td>
 									 </tr>
 									 
+									 <tr>
+									 
+										<td style="width:150px"><label>Exames enviados:</label></td>  
+											<td style="width:200px"><textarea rows="6" cols="50" id="ds_exame_enviado" class="form-control" name="ds_exame_enviado"><?php echo $rowpddotrtmto[37]; ?></textarea></td> 
+									 
+									   </tr>
+									 
 									 <input type="text" id="cd_pcnt" name="cd_pcnt" value="<?php echo $rowpddotrtmto[2]; ?>" style="display:none"> 
 									 <input type="text" id="cd_cnvo" name="cd_cnvo" value="<?php echo $rowpddotrtmto[34]; ?>" style="display:none"> 
 									 <input type="text" id="cd_cid" name="cd_cid" value="<?php echo $rowpddotrtmto[11]; ?>" style="display:none"> 
@@ -710,13 +757,14 @@
 									 <input type="text" id="ic_tipo_tumor" name="ic_tipo_tumor" value="<?php echo $rowpddotrtmto[27]; ?>" style="display:none"> 
 									 <input type="text" id="ic_tipo_nodulo" name="ic_tipo_nodulo" value="<?php echo $rowpddotrtmto[28]; ?>" style="display:none"> 
 									 <input type="text" id="ic_tipo_metastase" name="ic_tipo_metastase" value="<?php echo $rowpddotrtmto[29]; ?>" style="display:none"> 
+									 <input type="text" id="ic_crioterapia" name="ic_crioterapia" value="<?php echo $rowpddotrtmto[36]; ?>" style="display:none">
 									  
 								</table>																
 							</div>								
 							<div class="modal-footer">	
-								<input type="submit" class="btn btn-danger" name="insere" value="Reutilizar">&nbsp;&nbsp;&nbsp;&nbsp;
+								<input type="submit" class="btn btn-danger" name="insere" value="Reutilizar" onclick="if (document.getElementById('ds_exame_enviado').value=='') {alert('ATENÇÃO: Campo Exames Enviados, não preenchido!!'); return false;} else {document.getElementById('formAltera').submit();} " >&nbsp;&nbsp;&nbsp;&nbsp;
 								<input type="submit" class="btn btn-primary" onclick="history.go()" value="Voltar">						
-							</div>									
+							</div>								
 						</div>
 					</form>
 				</div>

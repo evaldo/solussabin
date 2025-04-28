@@ -34,7 +34,7 @@
 										<td style="width:150px"><label>Paciente:</label></td>  
 										<?php
 										
-										$sql = "SELECT cd_pcnt, nm_pcnt from tratamento.tb_c_pcnt order by 2";
+										$sql = "SELECT cd_pcnt, substring(nm_pcnt, 1, 30) as nm_pcnt from tratamento.tb_c_pcnt order by 2";
 										
 										if ($pdo==null){
 												header(Config::$webLogin);
@@ -114,11 +114,55 @@
 										<td style="width:150px"><label>Tratamento:</label></td>  
 										<?php
 										
-										$sql = "SELECT id_hstr_pnel_solic_trtmto
-													 , nm_pcnt||'-'||ds_status_trtmto
-												FROM tratamento.tb_hstr_pnel_solic_trtmto trtmto
-												  WHERE trtmto.fl_trtmto_fchd = 0
-													and trtmto.ds_equipe = 'Oncologistas';";
+										$statustratamentoatual = '';
+										
+										$sql = "SELECT count(id_hstr_pnel_solic_trtmto) FROM tratamento.tb_hstr_pnel_solic_trtmto WHERE cd_pcnt = '".$_SESSION['cd_pcnt']."' and id_equipe = 13 and fl_trtmto_fchd = 0  ";
+					
+										$retcountpanelsolictrtmto = pg_query($pdo, $sql);
+											
+										if(!$retcountpanelsolictrtmto) {
+											echo pg_last_error($pdo);		
+											exit;
+										}
+											
+										$rowcountpanelsolictrtmto = pg_fetch_row($retcountpanelsolictrtmto);
+										
+										if ($rowcountpanelsolictrtmto[0] > 0) {
+										
+										
+											$sql = "SELECT MAX(id_hstr_pnel_solic_trtmto) FROM tratamento.tb_hstr_pnel_solic_trtmto WHERE cd_pcnt = '".$_SESSION['cd_pcnt']."' and id_equipe = 13 and fl_trtmto_fchd = 0 ";
+						
+											$retmaxpanelsolictrtmto = pg_query($pdo, $sql);
+												
+											if(!$retmaxpanelsolictrtmto) {
+												echo pg_last_error($pdo);		
+												exit;
+											}
+												
+											$rowmaxpanelsolictrtmto = pg_fetch_row($retmaxpanelsolictrtmto);
+														
+											$sql = "SELECT id_status_trtmto, ds_status_trtmto 
+													  FROM tratamento.tb_hstr_pnel_solic_trtmto 
+													WHERE cd_pcnt = '".$_SESSION['cd_pcnt']."' and id_equipe = 13 and fl_trtmto_fchd = 0 and id_hstr_pnel_solic_trtmto = ".$rowmaxpanelsolictrtmto[0]." ";
+
+											//echo $sql;
+
+											$rethstrtratamento = pg_query($pdo, $sql);
+
+											if(!$rethstrtratamento) {
+												echo pg_last_error($pdo);		
+												exit;
+											}
+
+											$rowhstrtratamento = pg_fetch_row($rethstrtratamento);
+											$idstatustratamentoatual = $rowhstrtratamento[0];
+											$statustratamentoatual = $rowhstrtratamento[1];
+										}
+										
+										$sql = "SELECT trtmto.id_status_trtmto, trtmto.ds_status_trtmto 
+												FROM tratamento.tb_c_status_trtmto trtmto
+												  WHERE trtmto.id_equipe = 13 
+												order by 2 asc";
 										
 										if ($pdo==null){
 												header(Config::$webLogin);
@@ -128,25 +172,36 @@
 											echo pg_last_error($pdo);
 											exit;
 										}
+										
 										?>
 										<td style="width:150px">
-											<select  id="sel_hstr_pnel_solic_trtmto" class="form-control" onchange=" 
-														var selObj = document.getElementById('sel_hstr_pnel_solic_trtmto');
+											<select  id="sel_id_status_trtmto" class="form-control" onchange=" 
+														var selObj = document.getElementById('sel_id_status_trtmto');
 														var selValue = selObj.options[selObj.selectedIndex].value;
-														document.getElementById('id_hstr_pnel_solic_trtmto').value = selValue;">
-														<option value="null"></option>
+														document.getElementById('id_status_trtmto').value = selValue;">
+														<option value="0"></option>
 																									
 											<?php
+											
 												$cont=1;																	
 											
 												while($row = pg_fetch_row($ret)) {
+													if($row[1]==$statustratamentoatual){														
+												?>												
+													<option value="<?php echo $row[0]; ?>" selected><?php echo $row[1]; ?></option>
+												<?php																		
+													} else {
 												?>
 													<option value="<?php echo $row[0]; ?>"><?php echo $row[1]; ?></option>												
-													<?php  
+													<?php } 
 												$cont=$cont+1;} ?>	
-											</select>
 										
 										</td>	
+									   </tr>
+									   
+									   <tr>
+											<td style="width:50px"><label>Nome do médico encaminhador:</label></td> 
+											<td style="width:10px"><input type="text" class="form-control" name="nm_mdco_encaminhador" value="<?php echo $_SESSION['nm_mdco_encaminhador']; ?>"></td>
 									   </tr>
 									   
 									   <tr>
@@ -575,7 +630,39 @@
 											<td ><input type="date" class="form-control" id="dt_aplc" name="dt_aplc" value="<?php echo $_SESSION['dt_aplc']; ?>"></td>
 									 </tr>
 									 
-									  <tr>
+									 <tr>  
+										<td style="width:150px"><label>Crioterapia:</label></td>  										
+										<td style="width:150px">
+											<select  id="sl_ic_crioterapia" class="form-control" onchange=" 
+														var selObj = document.getElementById('sl_ic_crioterapia');
+														var selValue = selObj.options[selObj.selectedIndex].value;
+														document.getElementById('ic_crioterapia').value = selValue;">
+												<option value="">Escolha uma opção</option>
+												<?php if($_SESSION['ic_crioterapia']=='Sim') { ?>
+													<option value="Sim" selected>Sim</option>													
+													<option value="Não">Não</option>
+													<option value="Em análise">Em análise</option>																								
+												<?php } ?>
+												<?php if($_SESSION['ic_crioterapia']=='Não') { ?>
+													<option value="Sim">Sim</option>													
+													<option value="Não" selected>Não</option>
+													<option value="Em análise">Em análise</option>																								
+												<?php } ?>
+												<?php if($_SESSION['ic_crioterapia']=='Em análise') { ?>
+													<option value="Sim">Sim</option>													
+													<option value="Não">Não</option>
+													<option value="Em análise" selected>Em análise</option>												
+												<?php } ?>																				
+												<?php if($_SESSION['ic_crioterapia']=='') { ?>														
+													<option value="Sim">Sim</option>													
+													<option value="Não">Não</option>
+													<option value="Em análise">Em análise</option>		
+												<?php }  ?>
+											</select>
+										</td>	
+									 </tr>
+									 
+									 <tr>
 									 
 											<td style="width:150px"><label>Observação/Justificativa:</label></td>  
 											<td style="width:200px"><textarea rows="6" cols="50" id="ds_obs_jfta" class="form-control" name="ds_obs_jfta"><?php echo $_SESSION['ds_obs_jfta']; ?></textarea></td> 
@@ -600,6 +687,13 @@
 									 <tr>
 											<td style="width:50px"><label>Intervalo entre Ciclos (em dias):</label></td> 
 											<td style="width:50px"><input type="text" class="form-control" value="<?php echo $_SESSION['ds_intrv_entre_ciclo_dia']; ?>" name="ds_intrv_entre_ciclo_dia" id="ds_intrv_entre_ciclo_dia"></td>
+									 </tr>
+									 
+									 <tr>
+									 
+										<td style="width:150px"><label>Exames enviados:</label></td>  
+											<td style="width:200px"><textarea rows="6" cols="50" id="ds_exame_enviado" class="form-control" name="ds_exame_enviado"><?php echo $_SESSION['ds_exame_enviado']; ?></textarea></td> 
+									 
 									 </tr>
 									 
 									 <input type="text" id="cd_pcnt" name="cd_pcnt" value="<?php echo $_SESSION['cd_pcnt']; ?>" style="display:none"> 
