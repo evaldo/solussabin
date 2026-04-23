@@ -743,7 +743,7 @@
 										<td style="width:150px"><label>Exames enviados:</label></td>  
 											<td style="width:200px"><textarea rows="6" cols="50" id="ds_exame_enviado" class="form-control" name="ds_exame_enviado"><?php echo $rowpddotrtmto[37]; ?></textarea></td> 
 									 
-									   </tr>
+									 </tr>
 									 
 									 <input type="text" id="cd_pcnt" name="cd_pcnt" value="<?php echo $rowpddotrtmto[2]; ?>" style="display:none"> 
 									 <input type="text" id="cd_cnvo" name="cd_cnvo" value="<?php echo $rowpddotrtmto[34]; ?>" style="display:none"> 

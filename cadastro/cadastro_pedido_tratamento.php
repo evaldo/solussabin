@@ -816,6 +816,7 @@
 				<input type="button" style="font-size: 11px;"  value="Novo Registro" class="btn btn-primary btn-xs insere"/>&nbsp;&nbsp;&nbsp;&nbsp;
 				<input class="btn btn-primary" style="font-size: 11px;"  type="button" value="Exportar Última Digitação" id="exportarultimopedido">&nbsp;&nbsp;&nbsp;&nbsp;
 				<input class="btn btn-primary" style="font-size: 11px;"  type="button" value="Recuperar Última Digitação" id="recuperaulitmo">&nbsp;&nbsp;&nbsp;&nbsp;
+				<input type="button" style="font-size: 11px;"  value="Novo Registro por listagem de paciente" class="btn btn-primary btn-xs inserelistapaciente"/>
 			</form>
 		</div> <!-- /#top -->
 	 	
@@ -978,6 +979,18 @@
 					$("html").append(completeHtmlPage);
 				}
 			});
+		});	
+		
+		$(document).on('click', '.inserelistapaciente', function(){
+			event.preventDefault();			
+			$.ajax({
+				type: "POST",
+				url:"../insercao/insercao_pedido_listagem_paciente.php",															
+				success : function(completeHtmlPage) {				
+					$("html").empty();
+					$("html").append(completeHtmlPage);
+				}
+			});			
 		});	
 
 		$('#exportarultimopedido').click(function(){			
