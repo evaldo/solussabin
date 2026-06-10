@@ -16,7 +16,7 @@
 		
 		$CSVvar = fopen('c:/pedidotratamento/'.$_POST['fileUploaded'], "r");		
 		$_SESSION['fileUploaded'] = $_POST['fileUploaded'];
-				
+		
 	}	
 	if(isset($_POST['btsalvar'])){
 		
@@ -67,32 +67,32 @@
 						$id_reg = $data[0];
 						$nm_pcnt=strtoupper($data[1]);
 						$cd_cnvo=strtoupper($data[2]);
-						$nu_peso_pcnt=$data[3];
-						$vl_altura_pcnt=$data[4];
-						$vl_sup_corp=$data[5];
-						$ds_indic_clnic = str_replace(["'", ";", ","], ["", " ", " "], $data[6]);
+						$nu_peso_pcnt=is_numeric($data[3]) ? $data[3] : 0;
+						$vl_altura_pcnt=is_numeric($data[4]) ? $data[4] : 0;
+						$vl_sup_corp=is_numeric($data[5]) ? $data[5] : 0;
+						$ds_indic_clnic = str_replace("'", "", $data[6]);
 						$dt_diagn=$data[7];
 						$cd_cid=$data[8];
-						$ds_estmt=str_replace(["'", ";", ","], ["", " ", " "], $data[9]);
-						$ds_tipo_linha_trtmto=str_replace(["'", ";", ","], ["", " ", " "], $data[10]);
-						$ds_fnlde=str_replace(["'", ";", ","], ["", " ", " "], $data[11]);
+						$ds_estmt=str_replace("'", "", trim($data[9]));
+						$ds_tipo_linha_trtmto=str_replace("'", "", trim($data[10]));
+						$ds_fnlde=str_replace("'", "", trim($data[11]));
 						$ic_tipo_tumor=$data[12];
 						$ic_tipo_nodulo=$data[13];
 						$ic_tipo_metastase=$data[14];
-						$ds_plano_trptco=str_replace(["'", ";", ","], ["", " ", " "], $data[15]);
-						$ds_info_rlvnte=str_replace(["'", ";", ","], ["", " ", " "], $data[16]);
-						$ds_diagn_cito_hstpagico=str_replace(["'", ";", ","], ["", " ", " "], $data[17]);
-						$ds_tp_cirurgia=str_replace(["'", ";", ","], ["", " ", " "], $data[18]);
-						$ds_area_irrda=str_replace(["'", ";", ","], ["", " ", " "], $data[19]);
+						$ds_plano_trptco=str_replace("'", "", trim($data[15]));
+						$ds_info_rlvnte=str_replace("'", "", trim($data[16]));
+						$ds_diagn_cito_hstpagico=str_replace("'", "", trim($data[17]));
+						$ds_tp_cirurgia=str_replace("'", "", trim($data[18]));
+						$ds_area_irrda = str_replace("'", "", trim($data[19]));
 						$dt_rlzd=$data[20];
 						$dt_aplc=$data[21];
-						$ds_obs_jfta=str_replace(["'", ";", ","], ["", " ", " "], $data[22]);
+						$ds_obs_jfta=str_replace("'", "", trim($data[22]));
 						$nu_qtde_ciclo_prta=$data[23];
-						$ds_ciclo_atual=$data[24];
-						$ds_dia_ciclo_atual=$data[25];
-						$ds_intrv_entre_ciclo_dia=$data[26];
-						$nm_mdco_encaminhador=str_replace(["'", ";", ","], ["", " ", " "], $data[27]);
-						$ds_exame_enviado=str_replace(["'", ";", ","], ["", " ", " "], $data[28]);
+						$ds_ciclo_atual=str_replace("'", "", trim($data[24]));
+						$ds_dia_ciclo_atual=str_replace("'", "", trim($data[25]));
+						$ds_intrv_entre_ciclo_dia=str_replace("'", "", trim($data[26]));
+						$nm_mdco_encaminhador=str_replace("'", "", trim($data[27]));
+						$ds_exame_enviado=str_replace("'", "", trim($data[28]));
 						$ic_crioterapia=$data[29];
 						
 						if ($dt_rlzd == null || $dt_rlzd == ''){
@@ -165,9 +165,7 @@
 							$sql = "update tratamento.tb_hstr_pnel_solic_trtmto set id_status_trtmto = 130, ds_status_trtmto = (select ds_status_trtmto from tratamento.tb_c_status_trtmto where id_status_trtmto = 130), cd_cor_status_trtmto = (select cd_cor_status_trtmto from tratamento.tb_c_status_trtmto where id_status_trtmto = 130), cd_usua_altr = '".$_SESSION['usuario']."', dt_altr = current_timestamp where id_hstr_pnel_solic_trtmto = ".$id_hstr_pnel_solic_trtmto."";
 									
 							//echo $sql;
-
 							$result = pg_query($pdo, $sql);
-
 							if($result){
 								echo "";
 							}
@@ -186,7 +184,6 @@
 							$sql = "insert into tratamento.tb_log_alrt (id_log_alrt, cd_alrt, ds_alrt, cd_usua_incs_alrt, dt_incs_alrt, nm_pcnt) values ((select NEXTVAL('tratamento.sq_log_alrt')),'INSERCAO DE STATUS DE TRATAMENTO', (select nm_pcnt from tratamento.tb_c_pcnt where cd_pcnt = '".$cd_pcnt."')||' - '||(select ds_equipe from tratamento.tb_c_equipe where id_equipe = 13)||' - '||(select ds_status_trtmto from tratamento.tb_c_status_trtmto where id_status_trtmto = 130), '".$_SESSION['usuario']."', current_timestamp, '".$rowpcnt[0]."')";
 
 							$result = pg_query($pdo, $sql);
-
 							if($result){
 								echo "";
 							}
@@ -198,7 +195,6 @@
 				//echo $sql;
 
 				$result = pg_query($pdo, $sql);
-
 				if($result){
 					echo "";
 				} 
@@ -208,7 +204,6 @@
 				//echo $sql;
 
 				$result = pg_query($pdo, $sql);
-
 				if($result){
 					echo "";
 				} 
@@ -225,8 +220,7 @@
 					echo pg_last_error($pdo);		
 					exit;
 				}					
-				$rowdataatual = pg_fetch_row($retdataatual);
-				
+				$rowdataatual = pg_fetch_row($retdataatual);				
 				
 				$sqlpcnt = "SELECT nm_pcnt, dt_nasc_pcnt, ds_mncp_pcnt FROM tratamento.tb_c_pcnt WHERE cd_pcnt = '".$cd_pcnt."' ";					
 				$retpcnt = pg_query($pdo, $sqlpcnt);									
