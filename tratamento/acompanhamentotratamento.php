@@ -893,17 +893,17 @@
 									
 									<td data-toggle="tooltip" data-placement="top" title="<?php echo $row[20];?>" style="text-align:center" id="<?php echo $row[20];?>" value="<?php echo $row[20];?>" ><?php echo $row[20];?></td>
 									
-									<td data-toggle="tooltip" data-placement="top" title="<?php echo $row[8];?>" style="text-align:center;background-color:<?php echo $row[14] ;?>" id="<?php echo $row[2];?>" value="<?php echo $row[2];?>" ><?php echo $row[2];?></td>
-									
-									<td data-toggle="tooltip" data-placement="top" title="<?php echo $row[9];?>" style=" text-align:center;background-color:<?php echo $row[15] ;?>" id="<?php echo $row[3];?>" value="<?php echo $row[3];?>" ><?php echo $row[3];?></td>
-									
-									<td data-toggle="tooltip" data-placement="top" title="<?php echo $row[10];?>" style="text-align:center;background-color:<?php echo $row[16] ;?> " id="<?php echo $row[4];?>" value="<?php echo $row[4];?>" ><?php echo $row[4];?></td>
-									
-									<td data-toggle="tooltip" data-placement="top" title="<?php echo $row[11];?>" style="text-align:center;background-color:<?php echo $row[17] ;?> " id="<?php echo $row[5];?>" value="<?php echo $row[5];?>" ><?php echo $row[5];?></td>				
-									
-									<td data-toggle="tooltip" data-placement="top" title="<?php echo $row[12];?>" style=" text-align:center;background-color:<?php echo $row[18] ;?>" id="<?php echo $row[6];?>" value="<?php echo $row[6];?>" ><?php echo $row[6];?></td>
-									
-									<td data-toggle="tooltip" data-placement="top" title="<?php echo $row[13];?>" style=" text-align:center;background-color:<?php echo $row[19] ;?>" id="<?php echo $row[7];?>" value="<?php echo $row[7];?>" ><?php echo $row[7];?></td>
+									<td data-toggle="tooltip" data-placement="top" title="<?php echo $row[8];?>" style="text-align:center;background-color:<?php echo $row[14];?>;<?php if(strtolower($row[14])=='black') echo 'color:white;font-weight:bold;'; ?>" id="<?php echo $row[2];?>" value="<?php echo $row[2];?>"><?php echo $row[2];?></td>
+
+									<td data-toggle="tooltip" data-placement="top" title="<?php echo $row[9];?>" style="text-align:center;background-color:<?php echo $row[15];?>;<?php if(strtolower($row[15])=='black') echo 'color:white;font-weight:bold;'; ?>" id="<?php echo $row[3];?>" value="<?php echo $row[3];?>"><?php echo $row[3];?></td>
+
+									<td data-toggle="tooltip" data-placement="top" title="<?php echo $row[10];?>" style="text-align:center;background-color:<?php echo $row[16];?>;<?php if(strtolower($row[16])=='black') echo 'color:white;font-weight:bold;'; ?>" id="<?php echo $row[4];?>" value="<?php echo $row[4];?>"><?php echo $row[4];?></td>
+
+									<td data-toggle="tooltip" data-placement="top" title="<?php echo $row[11];?>" style="text-align:center;background-color:<?php echo $row[17];?>;<?php if(strtolower($row[17])=='black') echo 'color:white;font-weight:bold;'; ?>" id="<?php echo $row[5];?>" value="<?php echo $row[5];?>"><?php echo $row[5];?></td>
+
+									<td data-toggle="tooltip" data-placement="top" title="<?php echo $row[12];?>" style="text-align:center;background-color:<?php echo $row[18];?>;<?php if(strtolower($row[18])=='black') echo 'color:white;font-weight:bold;'; ?>" id="<?php echo $row[6];?>" value="<?php echo $row[6];?>"><?php echo $row[6];?></td>
+
+									<td data-toggle="tooltip" data-placement="top" title="<?php echo $row[13];?>" style="text-align:center;background-color:<?php echo $row[19];?>;<?php if(strtolower($row[19])=='black') echo 'color:white;font-weight:bold;'; ?>" id="<?php echo $row[7];?>" value="<?php echo $row[7];?>"><?php echo $row[7];?></td>
 	
 									<?php
 									if ($inserestatus=="nao_inserestatus"){
@@ -1093,7 +1093,7 @@
 														   manut.fl_alrt_excluido = 1
 														   )
 												 )
-						and cd_alrt in ('INSERCAO DE PEDIDO DE TRATAMENTO', 'ALTERACAO DE PEDIDO DE TRATAMENTO', 'DELEÇÃO DE PEDIDO DE TRATAMENTO', '')";
+						and cd_alrt in ('INSERCAO DE PEDIDO DE TRATAMENTO', 'ALTERACAO DE PEDIDO DE TRATAMENTO', 'DELEÇÃO DE PEDIDO DE TRATAMENTO')";
 						
 						$ret = pg_query($pdo, $sql);
 						if(!$ret) {
