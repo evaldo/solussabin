@@ -31097,3 +31097,2413 @@ Crioterapia					: ''
 
 
 -----------------------------------------------------------------------------------
+---------------------Log de Inclusao do Pedido de Tratamento------------------------
+Mensagem gerada pelo usuario	: 'tatiane.neto' em 27/04/2026
+-----------------------------------------------------------------------------------
+Codigo Paciente				: '4565'
+Paciente						: 'SANDRA MARIA DARROZ NOGUEIRA'
+Convênio						: 'UNIMED'
+Peso							: '85.00'
+Altura							: '167.00'
+Sup Corp						: '1.94'
+Indicacao Clinica				: 'CARCINOMA IN SITU DE MAMA '
+Data do Diagnostico			: ''2025-07-03''
+CID							: 'C50'
+Estadiamento					: 'I'
+Tipo Quimio (Linha)			: '1 Linha'
+Finalidade						: 'Adjuvante'
+Tipo de Tumor					: 'TIS'
+Tipo de Nodulo					: 'N0'
+Tipo de Metastase				: 'M0'
+Plano Terapêutio				: 'TAMOXIFENO 100MG/DIA POR 3 ANOS '
+Informações Relevantes			: 'PACIENTE COM CARCINOMA INTRADUCTAL ( DUCTAL IN SITU) TIPO CRIBIFORME DE GRAU INTERMEDIARIO, NECROSE NAO OBSERVADA RECEPTOR HORMONAL POSITIVO, REALIZOU CIRURGIA E ATUALMENTE COM PROPOSTA DE PROFILAXIA COM HORMONIOTERAPIA - SOLICITO TAMOXIFENO 10MG NA TENTATIVA DE REDUZIR EFEITOS COLATERAIS E POSSIBILIDADE DE REDUÇÃO DE DOSE NOS ESTUDOS DE CARCINOMA IN SITU
+'
+Diagnóstico Histopatologico	: 'CARCINOMA INTRADUCTAL'
+Tipo de Cirurgia				: 'SETOR QSL DA MAMA ESQ '
+Área Irradiada					: 'NAO '
+Data de Realização				: ''2025-10-17''
+Data da Aplicação				: ''2025-11-24''
+Observação Justificativa		: ''
+Quantidade de Ciclos Prevsitos	: '36'
+Ciclo Atual					: '1'
+Dias do ciclo atual			: '30'
+Intervalo de Ciclos			: '30'
+Nome do medico encaminhador	: 'dra jordana '
+Exames Enviados				: 'biopsia da mamotomia 
+biopsia da cirurgia 
+ihq 
+'
+Crioterapia					: 'Não'
+
+
+-----------------------------------------------------------------------------------
+---------------------Log de Inclusao do Pedido de Tratamento------------------------
+Mensagem gerada pelo usuario	: 'tatiane.neto' em 27/04/2026
+-----------------------------------------------------------------------------------
+Codigo Paciente				: '4565'
+Paciente						: 'SANDRA MARIA DARROZ NOGUEIRA'
+Convênio						: 'UNIMED'
+Peso							: '85.00'
+Altura							: '167.00'
+Sup Corp						: '1.94'
+Indicacao Clinica				: 'CARCINOMA IN SITU DE MAMA '
+Data do Diagnostico			: ''2025-07-03''
+CID							: 'C50'
+Estadiamento					: 'I'
+Tipo Quimio (Linha)			: '1 Linha'
+Finalidade						: 'Adjuvante'
+Tipo de Tumor					: 'TIS'
+Tipo de Nodulo					: 'N0'
+Tipo de Metastase				: 'M0'
+Plano Terapêutio				: 'TAMOXIFENO 10MG/DIA POR 3 ANOS '
+Informações Relevantes			: 'PACIENTE COM CARCINOMA INTRADUCTAL ( DUCTAL IN SITU) TIPO CRIBIFORME DE GRAU INTERMEDIARIO, NECROSE NAO OBSERVADA RECEPTOR HORMONAL POSITIVO, REALIZOU CIRURGIA E ATUALMENTE COM PROPOSTA DE PROFILAXIA COM HORMONIOTERAPIA - SOLICITO TAMOXIFENO 10MG NA TENTATIVA DE REDUZIR EFEITOS COLATERAIS E POSSIBILIDADE DE REDUÇÃO DE DOSE NOS ESTUDOS DE CARCINOMA IN SITU
+'
+Diagnóstico Histopatologico	: 'CARCINOMA INTRADUCTAL'
+Tipo de Cirurgia				: 'SETOR QSL DA MAMA ESQ '
+Área Irradiada					: 'NAO '
+Data de Realização				: ''2025-10-17''
+Data da Aplicação				: ''2025-11-24''
+Observação Justificativa		: ''
+Quantidade de Ciclos Prevsitos	: '36'
+Ciclo Atual					: '1'
+Dias do ciclo atual			: '30'
+Intervalo de Ciclos			: '30'
+Nome do medico encaminhador	: 'dra jordana '
+Exames Enviados				: 'biopsia da mamotomia 
+biopsia da cirurgia 
+ihq 
+'
+Crioterapia					: 'Não'
+
+
+-----------------------------------------------------------------------------------
+---------------------Log de Inclusao do Pedido de Tratamento------------------------
+Mensagem gerada pelo usuario	: 'milena.ribeiral' em 28/04/2026
+-----------------------------------------------------------------------------------
+Codigo Paciente				: '5026'
+Paciente						: 'BRENDA APARECIDA LOTI DE BARROS'
+Convênio						: 'UNIMED'
+Peso							: '128,5'
+Altura							: '173'
+Sup Corp						: '2,37'
+Indicacao Clinica				: 'ADENOCARCINOMA ENDOCÉRVICE  IIIC ( PACIENTE EXTREMAMENTE JOVEM, 27 ANOS, COM DOENÇA LOCALMENTE AVANÇADA, COM  LINFONODO COMPROMETIDO) '
+Data do Diagnostico			: ''0226-03-05''
+CID							: 'C53'
+Estadiamento					: 'III'
+Tipo Quimio (Linha)			: '1 Linha'
+Finalidade						: 'Adjuvante'
+Tipo de Tumor					: 'T1'
+Tipo de Nodulo					: 'N1'
+Tipo de Metastase				: 'M0'
+Plano Terapêutio				: '-cisplatina, 40 mg/m/semana= 94MG EV
+por 5 semanas (iniciando no D1 da RT externa),  
+ -pembrolizumabe, 200 mg EV, a cada 3 semanas, por 5 ciclos( iniciando junto com a cisplatina), 
+-emend 1 ampola ev semanal por 5 semanas  
+-granisetrona 1 ampola ev semanal por 5 ciclos 
+seguido por :
+por pembrolizumabe isolado, 400 mg EV, a cada 6 semanas, por mais 15 ciclos '
+Informações Relevantes			: 'PACIENTE EXTREMAMENTE NOVA, 27 ANOS, EM 1/4 SUBMETIDA A HISTERECTOMIA RADICAL TIPO C1 + SALPINGECTOMIA BILATERAL +
+PRESERVAÇÃO DE AMBOS OVÁRIOS COM TRANSPOSIÇÃO PARA GOTEIRA NO ANDAR SUPERIOR + LINFADENECTOMIA PÉLVICA DIREITA (NO MIGROU O AZUL PATENTE) +
+PESQUISA DE LINFONODO PÉLVICO ESQUERDO (FOSSA OBTURATÓRIA E ILIACA EXTERNA POR LAPAROSCOPIA. OPTADO POR INCISÃO DE PFANNESTIEL PARA
+COLPOTOMIA E COLPORRAFIA.PET DE ESTADIMENTO NÃO EVIDENCIOU DOEBÇA METASTATICA. ANATOMOPATOLOGICO DA PEÇA CIRRUGICA COM DOENÇA LOCO REGIONAL, INCLUINDO COMPROMETIMENTO LINFONODAL :MATERIAL ROTULADO LINFONODO SENTINELA PÉLVICO ESQUERDO - FOSSA OBTURATÓRIA:
+- ADENOCARCINOMA METASTATICO PARA 01 LINFONODO SENTINELA.
+- Medida da lesão: 4mm.
+- Ausência de extensão extracapsular.
+MATERIAL ROTULADO LINFONODO SENTINELA PÉLVICO ESQUERDO - ILÍACA EXTERNA:
+- AUSÊNCIA DE METASTASE PARA 01 LINFONODO SENTINELA.
+MATERIAL ROTULADO LINFONODOS PÉLVICOS DIREITO:
+- AUSÊNCIA DE METÁSTASES PARA 18 LINFONODOS ISOLADOS.
+PRODUTO DE HISTERECTOMIA TOTAL + PARAMETRECTOMIA E COLPECTOMIA + TROMPAS:
+- COLO:
+* ADENOCARCINOMA ENDOCERVICAL TIPO HPV INDUZIDO pT1b2 pN1a FIGO IIIC1.
+* Profundidade de invasão: cerca de 6mm (terço superior).
+* Medida da lesão: cerca de 28mm.
+* Invasão angiolinfática: presente.
+* Invasão perineural: ausente.
+- Corpo: endométrio proliferativo.
+- Manguitos vaginais 01 e 02: livres.
+- Paramétrios 01 e 02: livres.
+- Tubas 01 e 02 + fimbrias: sem particularidades microscópicas. 
+DESSA FORMA INDICADO ADJUVANCIA COM QUIMIORADIOTERAPIA  ASSOCIADO A IMUNOTERAPIA COM PEMBROLIZUMABE 
+'
+Diagnóstico Histopatologico	: 'ADENOCARCINOMA ENDOCERVICAL'
+Tipo de Cirurgia				: 'HISTERECTOMIA RADICAL TIPO C1 + SALPINGECTOMIA BILATERAL +
+PRESERVAÇÃO DE AMBOS OVÁRIOS COM TRANSPOSIÇÃO PARA GOTEIRA NO ANDAR SUPERIOR + LINFADENECTOMIA PÉLVICA DIREITA (NO MIGROU O AZUL PATENTE) +
+PESQUISA DE LINFONODO PÉLVICO ESQUERDO (FOSSA OBTURATÓRIA E ILIACA EXTERNA POR LAPAROSCOPIA. OPTADO POR INCISÃO DE PFANNESTIEL PARA
+COLPOTOMIA E COLPORRAFIA'
+Área Irradiada					: ''
+Data de Realização				: ''2026-04-28''
+Data da Aplicação				: ''2026-04-28''
+Observação Justificativa		: 'APÓS TERMINO DE QUIMIORADIOTERAPIA  SEGUIRA COM MANUTENÇÃO COM PEMBROLIZUMABE ISOLADO .'
+Quantidade de Ciclos Prevsitos	: '05( PACLITAXEL) E 20 PEMBROLIZUMABE '
+Ciclo Atual					: '01'
+Dias do ciclo atual			: '1'
+Intervalo de Ciclos			: '7PACLITAXEL E 21 PEMBROLIZUMABE NA FASE CONCOMITANTE '
+Nome do medico encaminhador	: 'Roberto Heleno '
+Exames Enviados				: 'ENVIAR: BIOPSIA INICIAL DE 3/2026, BIOPAISA DA PEÇA CIRURGICA, PET CT '
+Crioterapia					: 'Não'
+
+
+-----------------------------------------------------------------------------------
+---------------------Log de Inclusao do Pedido de Tratamento------------------------
+Mensagem gerada pelo usuario	: 'anapaula.rizzo' em 29/04/2026
+-----------------------------------------------------------------------------------
+Codigo Paciente				: '5003'
+Paciente						: 'RITA PAULA CAMPISSI DE SOUZA '
+Convênio						: 'UNIMED'
+Peso							: '84'
+Altura							: '155'
+Sup Corp						: '1,90'
+Indicacao Clinica				: 'Tumor de colon sigmoide operado com perfuração associado a risco evidenciado em exames para recidiva tumoral.'
+Data do Diagnostico			: ''2026-03-09''
+CID							: 'C19'
+Estadiamento					: 'II'
+Tipo Quimio (Linha)			: '1 Linha'
+Finalidade						: 'Adjuvante'
+Tipo de Tumor					: 'T3'
+Tipo de Nodulo					: 'N0'
+Tipo de Metastase				: 'M0'
+Plano Terapêutio				: 'CAPOX – capecitabina: 2.000 mg/m²/dia VO - dose de 98 comp a cada 14 dias por 04 ciclos  (tomar 03 comp pela manhã e 04 comp a noite)
+ Oxaliplatina- 130 mg/m² EV- dose de 245mg no  D1 a cada 21 dias por 04 ciclos 
+Granisetrona 1mg - 01 ampola iv a cda 21 dias por 04 ciclos '
+Informações Relevantes			: 'TUMOR DE COLON SIGMOIDE - EC II - ALTO RISCO - PERFURAÇÃO TUMORAL E TUMOR BUDDING ALTO GRAU(MAIOR RISCO DE METÁSATSE LINFONODAL  E MAIOR RISCO DE RECIDIVA) + ESTÁVEL MICROSSATELITE'
+Diagnóstico Histopatologico	: 'LHP RETOSIGMOIDE (09/03/26): ADENOCARCINOMA INVASOR, TAMANHO 45MM, BEM DIFERENCIADO, INAVSÃO ANGIOLINFÁTICA E PERINEURAL NÃO IDENTIFICADA, RESPOSTA LINFOCITICA PERITUMORAL INTENSA: HÁ PERFURAÇÃO TUMORAL COM ABSCEDAÇÃO, BUDDING TUMORAL ALTO GRAU!!!, MARGENS LIVRES, LINFONODOS: 0/38 ESTUDADOS - pT3pN0 - EC II (PORÉM TUMOR PERFURADO, BUDDING ALTO GRAU).
+'
+Tipo de Cirurgia				: 'LHP RETOSIGMOIDE (09/03/26): ADENOCARCINOMA INVASOR, TAMANHO 45MM, BEM DIFERENCIADO, INAVSÃO ANGIOLINFÁTICA E PERINEURAL NÃO IDENTIFICADA, RESPOSTA LINFOCITICA PERITUMORAL INTENSA: HÁ PERFURAÇÃO TUMORAL COM ABSCEDAÇÃO, BUDDING TUMORAL ALTO GRAU!!!, MARGENS LIVRES, LINFONODOS: 0/38 ESTUDADOS - pT3pN0 - EC II (PORÉM TUMOR PERFURADO, BUDDING ALTO GRAU).
+'
+Área Irradiada					: ''
+Data de Realização				: ''2026-03-09''
+Data da Aplicação				: ''2026-04-29''
+Observação Justificativa		: 'TUMOR DE COLON SIGMOIDE - EC II - ALTO RISCO - PERFURAÇÃO TUMORAL E TUMOR BUDDING ALTO GRAU(MAIOR RISCO DE METÁSATSE LINFONODAL  E MAIOR RISCO DE RECIDIVA) + ESTÁVEL MICROSSATELITE'
+Quantidade de Ciclos Prevsitos	: '04'
+Ciclo Atual					: '01'
+Dias do ciclo atual			: '01'
+Intervalo de Ciclos			: '21'
+Nome do medico encaminhador	: 'Hester'
+Exames Enviados				: 'Em anexo'
+Crioterapia					: ''
+
+
+-----------------------------------------------------------------------------------
+---------------------Log de Inclusao do Pedido de Tratamento------------------------
+Mensagem gerada pelo usuario	: 'tatyene.nehrer' em 05/05/2026
+-----------------------------------------------------------------------------------
+Codigo Paciente				: '1517'
+Paciente						: 'NARCISO LOPES DA SILVA'
+Convênio						: 'VITALLIS - GNDI MINAS'
+Peso							: '88'
+Altura							: '1,70'
+Sup Corp						: '1,9'
+Indicacao Clinica				: 'PACIENTE COM DIAGNÓSTICO DE CANCER DE PROSTATA DESDE 2023, PORTADOR DE DPOC SEVERO DEPENDENTE DE OXIGENIO CATETER CONTÍNUO E ESTAVA SOB USO DE BICALUTAMIDA ISOLADAMENTE DADA CONJUNTURA CLÍNICA QUE INVIABILIZA A REALIZAÇÃO DE RADIOTERAPIA/CIRURGIA ( NÃO TOLERA DECUBITO//ORTOPNEIA).EVOLUINDO COM 3º AUMENTO SUCESSIVO DE PSA ( PROGRESSÃO DE DOENÇA) E NECESSITA TROCA DE TRATAMENTO PARA ZOLADEX LAR 10,8MG 1 FR SC A CADA 12 SEMANAS E ABIRATERONA  250MG/COMP 4 COMPS AO DIA DE FORMA CONTÍNUA POR PERÍODO INDETERMINADO.'
+Data do Diagnostico			: ''2023-02-07''
+CID							: 'C61'
+Estadiamento					: 'IV'
+Tipo Quimio (Linha)			: '2 Linha'
+Finalidade						: 'Paliativo'
+Tipo de Tumor					: 'T2'
+Tipo de Nodulo					: 'NX'
+Tipo de Metastase				: 'M1'
+Plano Terapêutio				: ' NECESSITA TROCA DE TRATAMENTO VIGENTE ( BICALUTAMIDA MONOTERPIA) PARA :
+1)ZOLADEX LAR 10,8MG 1 FR SC A CADA 12 SEMANAS 
+2) ABIRATERONA  250MG/COMP 4 COMPS AO DIA DE FORMA CONTÍNUA POR PERÍODO INDETERMINADO.'
+Informações Relevantes			: 'PACIENTE COM DIAGNÓSTICO DE CANCER DE PROSTATA DESDE 2023, PORTADOR DE DPOC SEVERO DEPENDENTE DE OXIGENIO CATETER CONTÍNUO E ESTAVA SOB USO DE BICALUTAMIDA ISOLADAMENTE DADA CONJUNTURA CLÍNICA QUE INVIABILIZA A REALIZAÇÃO DE RADIOTERAPIA/CIRURGIA ( NÃO TOLERA DECUBITO//ORTOPNEIA).EVOLUINDO COM 3º AUMENTO SUCESSIVO DE PSA ( PROGRESSÃO DE DOENÇA) E NECESSITA TROCA DE TRATAMENTO PARA ZOLADEX LAR 10,8MG 1 FR SC A CADA 12 SEMANAS E ABIRATERONA  250MG/COMP 4 COMPS AO DIA DE FORMA CONTÍNUA POR PERÍODO INDETERMINADO.'
+Diagnóstico Histopatologico	: 'ADENOCARCINOMA ACINAR USUAL DA PROSTATA GLEASON 7 '
+Tipo de Cirurgia				: 'SEM INDICAÇÃO'
+Área Irradiada					: 'SEM INDICAÇÃO'
+Data de Realização				: ''2026-05-05''
+Data da Aplicação				: ''2026-05-05''
+Observação Justificativa		: 'PACIENTE COM DIAGNÓSTICO DE CANCER DE PROSTATA DESDE 2023, PORTADOR DE DPOC SEVERO DEPENDENTE DE OXIGENIO CATETER CONTÍNUO E ESTAVA SOB USO DE BICALUTAMIDA ISOLADAMENTE DADA CONJUNTURA CLÍNICA QUE INVIABILIZA A REALIZAÇÃO DE RADIOTERAPIA/CIRURGIA ( NÃO TOLERA DECUBITO//ORTOPNEIA).EVOLUINDO COM 3º AUMENTO SUCESSIVO DE PSA ( PROGRESSÃO DE DOENÇA) E NECESSITA TROCA DE TRATAMENTO PARA ZOLADEX LAR 10,8MG 1 FR SC A CADA 12 SEMANAS E ABIRATERONA  250MG/COMP 4 COMPS AO DIA DE FORMA CONTÍNUA POR PERÍODO INDETERMINADO.'
+Quantidade de Ciclos Prevsitos	: 'INDETERMINADOS'
+Ciclo Atual					: '01'
+Dias do ciclo atual			: '01( ZOLADEX)///DIARIO ABIRATERONA'
+Intervalo de Ciclos			: '12 SEMANAS ZOLADEX E 30 DIAS ABIRATERONA'
+Nome do medico encaminhador	: 'HUMBERTO ELIAS'
+Exames Enviados				: 'BIOPSIA DE 2023, RESSONANCIA PELVE DE 25/11/22 E ULTIMO PSA DE 30/4/26 ( COSTES VILELA QUE TEM GRAFICO MOSTRANDO OS VALORES ANTERIORES)'
+Crioterapia					: ''
+
+
+-----------------------------------------------------------------------------------
+---------------------Log de Inclusao do Pedido de Tratamento------------------------
+Mensagem gerada pelo usuario	: 'milena.ribeiral' em 12/05/2026
+-----------------------------------------------------------------------------------
+Codigo Paciente				: '5198'
+Paciente						: 'MARIA DE FATIMA CARVALHO DE MENDONÇA'
+Convênio						: 'UNIMED'
+Peso							: '76'
+Altura							: '1,7'
+Sup Corp						: '1,65'
+Indicacao Clinica				: 'carcinoma  in situ de mama receptores hormonais positivos'
+Data do Diagnostico			: ''2026-03-09''
+CID							: 'C50'
+Estadiamento					: 'I'
+Tipo Quimio (Linha)			: '1 Linha'
+Finalidade						: 'Adjuvante'
+Tipo de Tumor					: 'TIS'
+Tipo de Nodulo					: 'N0'
+Tipo de Metastase				: 'M0'
+Plano Terapêutio				: 'tamoxifeno 20 mg 1 cp ao dia por 5 anos '
+Informações Relevantes			: 'paciente submetida a cirurgia  conservadora devera realizar quimiprofilaxia com tamoxifeno '
+Diagnóstico Histopatologico	: ''
+Tipo de Cirurgia				: 'setorectomia de mama esquerda '
+Área Irradiada					: ''
+Data de Realização				: ''2026-04-08''
+Data da Aplicação				: ''2026-05-12''
+Observação Justificativa		: 'paciente com carcinoma in situ de mama receptores hormonais positivos '
+Quantidade de Ciclos Prevsitos	: '60'
+Ciclo Atual					: '01'
+Dias do ciclo atual			: '30'
+Intervalo de Ciclos			: '0'
+Nome do medico encaminhador	: 'patricia'
+Exames Enviados				: 'biopsias, imunohistoquimica e rnm das mamas '
+Crioterapia					: 'Não'
+
+
+-----------------------------------------------------------------------------------
+---------------------Log de Inclusao do Pedido de Tratamento------------------------
+Mensagem gerada pelo usuario	: 'milena.ribeiral' em 26/05/2026
+-----------------------------------------------------------------------------------
+Codigo Paciente				: '5228'
+Paciente						: 'NILSON LUIZ DE OLIVEIRA '
+Convênio						: 'GEAP'
+Peso							: '81'
+Altura							: '172'
+Sup Corp						: '1,74'
+Indicacao Clinica				: 'carcinoma urotelial de bexiga alto grau '
+Data do Diagnostico			: ''2026-01-21''
+CID							: 'C67'
+Estadiamento					: 'I'
+Tipo Quimio (Linha)			: '1 Linha'
+Finalidade						: 'Adjuvante'
+Tipo de Tumor					: 'T1'
+Tipo de Nodulo					: 'N0'
+Tipo de Metastase				: 'M0'
+Plano Terapêutio				: 'BCG 80MG SEMANAL POR 06 SEMANAS SEGUIDO DE BCG 80MG SEMANAL POR 03 SEMANAS NOS MESES 3, 6, 12, 18, 24, 30 E 36.'
+Informações Relevantes			: 'paciente submetido a rtu com indicação de adjuvancia '
+Diagnóstico Histopatologico	: 'carcinoma urotelial de bexiga '
+Tipo de Cirurgia				: 'rtu'
+Área Irradiada					: ''
+Data de Realização				: ''2026-01-19''
+Data da Aplicação				: ''2026-05-26''
+Observação Justificativa		: 'risco de recidiva ( alto grau) '
+Quantidade de Ciclos Prevsitos	: '27'
+Ciclo Atual					: '01'
+Dias do ciclo atual			: '01'
+Intervalo de Ciclos			: 'fase inicial semanal, fase de manutenção 3 semanas a cada 3 e 6 meses '
+Nome do medico encaminhador	: 'luiz carlos araujo'
+Exames Enviados				: 'histopatologico de rtu de bexiga  e exames de imagem rnm e tc de abdome total '
+Crioterapia					: ''
+
+
+-----------------------------------------------------------------------------------
+---------------------Log de Inclusao do Pedido de Tratamento------------------------
+Mensagem gerada pelo usuario	: 'anapaula.rizzo' em 27/05/2026
+-----------------------------------------------------------------------------------
+Codigo Paciente				: '5064'
+Paciente						: 'LUIS FERNANDO DA SILVA  BASTOS'
+Convênio						: 'UNIMED'
+Peso							: '69'
+Altura							: '1.58'
+Sup Corp						: '1,74'
+Indicacao Clinica				: 'Neoplasia maligna da bexiga musculo invasor. '
+Data do Diagnostico			: ''2026-03-18''
+CID							: 'C67'
+Estadiamento					: 'II'
+Tipo Quimio (Linha)			: '1 Linha'
+Finalidade						: 'Neo-Adjuvante'
+Tipo de Tumor					: 'T2'
+Tipo de Nodulo					: 'N0'
+Tipo de Metastase				: 'M0'
+Plano Terapêutio				: ' Durvalumabe, 1.500 mg - EV - D1 a cada 21 dias  por 4 ciclos
+Cisplatina, 70 mg/m² EV - dose 121mg no D1  cada 21 dias  por 4 ciclos
+Gencitabina, 1.000 mg/m² EV, dose de 1.740mg no D1e D8 a cada 21 dias  por 4 ciclos
+Emend 150mg - D1 a cada 21 dias por 04 ciclos
+Granisetrona D1 e D8 a cada 21 dias por 04 ciclos '
+Informações Relevantes			: 'Paciente portador de tumor de bexiga visto em rnm de pelve com inavsão definida na biópsia. Solicito qt + imunoterapia neoadjuvante. '
+Diagnóstico Histopatologico	: 'BIÓPSIA - LESÃO VEGETANTE DE BEXIGA (18/03/26): CARCINOMA POUCO DIFERENCIADO INFILTRADO MÚSCULO LISO (UROTELIAL?)
+
+RNM DA PELVE (11/05/26): PERSISTE ESTÁVEL O ESPESSAMENTO PARIETAL FOCAL DA LINHA MEDIANA NA PAREDE POSTERIOR E SUPERIOR DA BEXIGAESPESSURA 1,5CM COM EXTENSÃO 3,1 CM. HÁ INTERRUPEÇÃO DA LINHA DA CAMADA MUSCULAR PRÓPRIA DA BEXIGA COM SINAL DA GORDURA PERIVESICAL PRESERVADO. VI-RADS 4 . (CAMADA MUSCULAR PRÓPRIA DA BEXIGA É PROVÁVEL)'
+Tipo de Cirurgia				: ''
+Área Irradiada					: ''
+Data de Realização				: ''2026-05-27''
+Data da Aplicação				: ''2026-05-27''
+Observação Justificativa		: 'Tumor de bexiga músculo invasor com indicação de tratamento oncológico neoadjuvante.'
+Quantidade de Ciclos Prevsitos	: '04'
+Ciclo Atual					: '01'
+Dias do ciclo atual			: 'd1/d8'
+Intervalo de Ciclos			: '21'
+Nome do medico encaminhador	: 'LUIZ ROGÉRIO '
+Exames Enviados				: 'em anexo - biópsia e ressonancia de pelve '
+Crioterapia					: ''
+
+
+-----------------------------------------------------------------------------------
+---------------------Log de Inclusao do Pedido de Tratamento------------------------
+Mensagem gerada pelo usuario	: 'tatyene.nehrer' em 02/06/2026
+-----------------------------------------------------------------------------------
+Codigo Paciente				: '5291'
+Paciente						: 'LUCIENE APARECIDA PEREIRA SODRE'
+Convênio						: 'UNIMED'
+Peso							: '74,5'
+Altura							: '1,61'
+Sup Corp						: '1,79'
+Indicacao Clinica				: 'PACIENTE JOVEM COM RECÉM DIAGNÓSTICO DE CANCER DE MAMA DIREITA TRIPLO NEGATIVO COM LESÃO DE CRESCIMENTO RÁPICO E CLINICAMENTE T2N1.PEÇO QT + IMUNOTERAPIA NEOADJUVANTES.'
+Data do Diagnostico			: ''2026-05-08''
+CID							: 'C50'
+Estadiamento					: 'II'
+Tipo Quimio (Linha)			: '1 Linha'
+Finalidade						: 'Neo-Adjuvante'
+Tipo de Tumor					: 'T2'
+Tipo de Nodulo					: 'N1'
+Tipo de Metastase				: 'M0'
+Plano Terapêutio				: 'PEÇO QT/IMUNOTERAPIA NEOADJUVANTES:
+1ª ETAPA:
+PACLITAXEL 80MG/M² ( TOTAL 143MG) + CARBOPLATINA AUC 1,5 ( TOTAL 200MG) IV D1 A CADA 7 DIAS POR 12 SEMANAS EM CONCOMITANCIA A PEMBROLIZUMABE 200MG IV D1 A CADA 21 DIAS ININTERRUPTO( ESTE SERÃO 8 APLICAÇÕES).
+ANTIEMÉTICOS: FOSAPREPITANTO 150MG + GRANISETRONA 1MG IV D1 A CADA 7 DIAS POR 12 SEMANAS 
+2ª ETAPA:
+ADRIBLASTINA 60MG/M2 ( DOSE TOTAL 120MG) + CICLOFOSFAMIDA 600MG/M2 ( TOTAL 1200MG) A CADA 14 DIAS POR 4 CICLOS CONCOMITANTE A MANUTENÇÃO DO PEMBROLIZUMABE A CADA 21 DIAS ( TOTAL DE 8 INFUSÕES)
+NEULASTIM 6MG SC POR 4 CICLOS EM CONCOMITANCIA À AC DENSO
+ANTIEMÉTICOS: FOSAPREPITANTO 150MG + GRANISETRONA 1MG IV D1 A CADA 14 DIAS POR 4 CICLOS'
+Informações Relevantes			: 'PACIENTE JOVEM COM RECÉM DIAGNÓSTICO DE CANCER DE MAMA DIREITA TRIPLO NEGATIVO COM LESÃO DE CRESCIMENTO RÁPICO E CLINICAMENTE T2N1.
+PEÇO QT + IMUNOTERAPIA NEOADJUVANTES.NOS MOLDES DO KEYNOTE 522'
+Diagnóstico Histopatologico	: 'CARCINOMA MAMARIO INVASOR POUCO DIFERENCIADO TRIPLO NEGATIVO'
+Tipo de Cirurgia				: 'AINDA NAO'
+Área Irradiada					: 'AINDA NÃO'
+Data de Realização				: ''2026-06-02''
+Data da Aplicação				: ''2026-06-02''
+Observação Justificativa		: 'PACIENTE JOVEM COM RECÉM DIAGNÓSTICO DE CANCER DE MAMA DIREITA TRIPLO NEGATIVO COM LESÃO DE CRESCIMENTO RÁPICO E CLINICAMENTE T2N1.PEÇO QT + IMUNOTERAPIA NEOADJUVANTES.'
+Quantidade de Ciclos Prevsitos	: '12 ( 1ª ETAPA)/4 (2ª ETAPA)'
+Ciclo Atual					: '01'
+Dias do ciclo atual			: '01'
+Intervalo de Ciclos			: '07( 1ª ETAPA)/14 ( 2ª ETAPA)'
+Nome do medico encaminhador	: 'DR JOAO CARLOS ARANTES JR'
+Exames Enviados				: 'ENVIAR RESSONANCIA DE MAMAS, BIÓPSIA E IMUNOHISTOQUIMICA ( AMBOS CIDAP), TC DE TÓRAX E ABDOME E CINTILOGRAFIA ÓSSEA'
+Crioterapia					: ''
+
+
+-----------------------------------------------------------------------------------
+---------------------Log de Inclusao do Pedido de Tratamento------------------------
+Mensagem gerada pelo usuario	: 'tatiane.neto' em 15/06/2026
+-----------------------------------------------------------------------------------
+Codigo Paciente				: '4389'
+Paciente						: 'ROSELENA STACH SIMOES'
+Convênio						: 'FUSEX'
+Peso							: '83.00'
+Altura							: '1.57'
+Sup Corp						: '1.84'
+Indicacao Clinica				: 'CANCER DE MAMA '
+Data do Diagnostico			: ''2025-09-02''
+CID							: 'C50'
+Estadiamento					: 'II'
+Tipo Quimio (Linha)			: '1 Linha'
+Finalidade						: 'Adjuvante'
+Tipo de Tumor					: 'T2'
+Tipo de Nodulo					: 'N1'
+Tipo de Metastase				: 'M0'
+Plano Terapêutio				: 'letrozol 2,5 mg/ dia por 5 anos '
+Informações Relevantes			: ' PACIENTE ECOG 0 COM CANCER DE MAMA LUMINAL , LINFONODO SENTINELA POSITIVO, REALIZOU QUIMI ADJUVANTE E ATUALMENTE COM PROPOSTA DE LETROZOL 2,5 MG/DIA '
+Diagnóstico Histopatologico	: 'carcinoma invasor da mama '
+Tipo de Cirurgia				: 'SEGMENTECTOMIA + LINFONODO SENTINELA '
+Área Irradiada					: 'NÃO '
+Data de Realização				: ''2025-12-23''
+Data da Aplicação				: ''0001-01-01''
+Observação Justificativa		: ''
+Quantidade de Ciclos Prevsitos	: '60'
+Ciclo Atual					: '1'
+Dias do ciclo atual			: '30'
+Intervalo de Ciclos			: '30'
+Nome do medico encaminhador	: 'Nathalia knopp'
+Exames Enviados				: 'BIÓPSIA DA CIRURGIA + IHQ + USG DE MAMA '
+Crioterapia					: 'Não'
+
+
+-----------------------------------------------------------------------------------
+---------------------Log de Inclusao do Pedido de Tratamento------------------------
+Mensagem gerada pelo usuario	: 'tatiane.neto' em 15/06/2026
+-----------------------------------------------------------------------------------
+Codigo Paciente				: '4494'
+Paciente						: 'JOSE CARLOS DORO FELIX'
+Convênio						: 'UNIMED'
+Peso							: '93'
+Altura							: '177'
+Sup Corp						: '2,1'
+Indicacao Clinica				: 'cancer de pulmão'
+Data do Diagnostico			: ''2026-06-15''
+CID							: 'C34'
+Estadiamento					: ''
+Tipo Quimio (Linha)			: '1 Linha'
+Finalidade						: 'Curativo'
+Tipo de Tumor					: 'T2'
+Tipo de Nodulo					: 'N3'
+Tipo de Metastase				: 'M0'
+Plano Terapêutio				: 'kytril 1 amp por semana  
+carboplatina, AUC 2 (250mg)  e paclitaxel, 50 mg/m² EV semanalmente por 8 semanas - concomitante a radio 
+seguido de consolidação com durvalumabe, 10 mg/kg EV, a cada 2 semanas, por 12 meses.'
+Informações Relevantes			: 'Paciente com diagnóstico prévio de câncer de reto e cancer renal ambos operados, após apresentou nódulo em pulmão que na biópsia confirmou terceiro primário - adenocarcinoma de pulmão EC III sem inidcação cirurgica ocm proposta de radio e qt definitiva e durva de manutenção a depender da resposta '
+Diagnóstico Histopatologico	: 'adenocarcinoma '
+Tipo de Cirurgia				: 'nao '
+Área Irradiada					: 'nao '
+Data de Realização				: ''2026-06-15''
+Data da Aplicação				: ''2026-06-15''
+Observação Justificativa		: 'conversar com o paciente '
+Quantidade de Ciclos Prevsitos	: '8 / 24 ( durvalumabe) '
+Ciclo Atual					: '1'
+Dias do ciclo atual			: '1'
+Intervalo de Ciclos			: '7 dias / durva a cada 2 semanas '
+Nome do medico encaminhador	: 'jose roberto lanzioti '
+Exames Enviados				: 'encaminho biopsia de pulmao  + IHQ + PET de 05/2026 
+'
+Crioterapia					: 'Em análise'
+
+
+-----------------------------------------------------------------------------------
+---------------------Log de Inclusao do Pedido de Tratamento------------------------
+Mensagem gerada pelo usuario	: 'monise.freitas' em 22/06/2026
+-----------------------------------------------------------------------------------
+Codigo Paciente				: '2092'
+Paciente						: 'ONIR BARRA DE SOUZA'
+Convênio						: 'FUSEX'
+Peso							: '56'
+Altura							: '1.58'
+Sup Corp						: '1,56'
+Indicacao Clinica				: 'PACIENTE PORTADORA DE ADENOCARCINOMA DE PULMÃO ESTADIO I APRESENTANDO ATUALMENTE COM METASTASE PARA SUPRARRRENAL . PACIENTE COM  PROGRESSÃO DE DOENÇA PULMONAR E ADRENAL NECESSITA MUDANÇA DE PROTOCOLO. '
+Data do Diagnostico			: ''2023-12-12''
+CID							: 'C34'
+Estadiamento					: 'I'
+Tipo Quimio (Linha)			: '2 Linha'
+Finalidade						: 'Paliativo'
+Tipo de Tumor					: 'T1'
+Tipo de Nodulo					: 'N0'
+Tipo de Metastase				: 'M1'
+Plano Terapêutio				: 'GENCITABINA 1000MG/M² D1; D8 E D15 DOSE 1560MG/DIA A CADA 28 DIAS. 
+KYTRIL 01 MG SEMANAL D1,D8,D15 A CADA 28 DIAS'
+Informações Relevantes			: ''
+Diagnóstico Histopatologico	: 'ADENOCARCINOMA'
+Tipo de Cirurgia				: 'LOBECTOMIA LSE ESQUERDA + LINFADENECTOMIA- ADENOCARCINOMA DE PULMÃO'
+Área Irradiada					: 'NÃO'
+Data de Realização				: ''2023-12-12''
+Data da Aplicação				: ''2024-10-14''
+Observação Justificativa		: ''
+Quantidade de Ciclos Prevsitos	: 'IND'
+Ciclo Atual					: '1'
+Dias do ciclo atual			: '4'
+Intervalo de Ciclos			: '28'
+Nome do medico encaminhador	: ''
+Exames Enviados				: 'TC'
+Crioterapia					: ''
+
+
+-----------------------------------------------------------------------------------
+---------------------Log de Inclusao do Pedido de Tratamento------------------------
+Mensagem gerada pelo usuario	: 'tatyene.nehrer' em 23/06/2026
+-----------------------------------------------------------------------------------
+Codigo Paciente				: '4866'
+Paciente						: 'CAROLINA PINTO SIRIMARCO DE ALMEIDA '
+Convênio						: 'UNIMED'
+Peso							: '85 '
+Altura							: '1.62'
+Sup Corp						: '1.90'
+Indicacao Clinica				: 'PACIENTE COM DIAGNÓSTICO DE CÂNCER DE MAMA ESQUERDA COM PERFIL DE HER2 SUPEREXPRESSO E LESÃO DE 2,5CM PALPAVEL TENDO REALIZADO TRATAMENTO NEOADJUVANTE COM DUPLO BLOQUEIO ANTIHER2 E QT E EVOLUINDO COM RESPOSTA PATOLÓGICA COMPLETA EM PEÇA CIRURGICA MAMARIA.'
+Data do Diagnostico			: ''2025-12-29''
+CID							: 'C50'
+Estadiamento					: 'II'
+Tipo Quimio (Linha)			: '1 Linha'
+Finalidade						: 'Adjuvante'
+Tipo de Tumor					: 'T2'
+Tipo de Nodulo					: 'N0'
+Tipo de Metastase				: 'M0'
+Plano Terapêutio				: 'PEÇO TRATAMENTO ADJUVANTE COM BLOQUEIO ANTIHER2 ATÉ COMPLETAR 1 ANO DE EXPOSIÇÃO:
+TRASTUZUMABE  6MG/KG ( DOSE 510MG TOTAL) IV D1 A CADA 21 DIAS POR 12 CICLOS 
+ANTI EMETICO:
+GRANISETRONA 1MG'
+Informações Relevantes			: 'PACIENTE COM DIAGNÓSTICO DE CÂNCER DE MAMA ESQUERDA COM PERFIL DE HER2 SUPEREXPRESSO E LESÃO DE 2,5CM PALPAVEL TENDO REALIZADO TRATAMENTO NEOADJUVANTE COM DUPLO BLOQUEIO ANTIHER2 E QT E EVOLUINDO COM RESPOSTA PATOLÓGICA COMPLETA EM PEÇA CIRURGICA MAMARIA.'
+Diagnóstico Histopatologico	: 'CARCINOMA MAMÁRIO INVASOR SOE RECEPTORES HORMONAIS NEGATIVOS E HER 2( 3+)'
+Tipo de Cirurgia				: 'REALIZADA: SEGMENTECTOMIA MAMARIA + SENTINELA AXILAR EM 10/6/2026'
+Área Irradiada					: 'AINDA NÃO'
+Data de Realização				: ''2026-06-10''
+Data da Aplicação				: ''2026-01-20''
+Observação Justificativa		: 'PACIENTE COM DIAGNÓSTICO DE CÂNCER DE MAMA ESQUERDA COM PERFIL DE HER2 SUPEREXPRESSO E LESÃO DE 2,5CM PALPAVEL TENDO REALIZADO TRATAMENTO NEOADJUVANTE COM DUPLO BLOQUEIO ANTIHER2 E QT E EVOLUINDO COM RESPOSTA PATOLÓGICA COMPLETA EM PEÇA CIRURGICA MAMARIA.'
+Quantidade de Ciclos Prevsitos	: '12'
+Ciclo Atual					: '01'
+Dias do ciclo atual			: '01'
+Intervalo de Ciclos			: '21'
+Nome do medico encaminhador	: 'Joao Carlos Arantes Jr'
+Exames Enviados				: 'ENVIAR BIOPSIA EBLEN, IMUNOHISTOQUIMICA INICIAL DA BIÓPSIA,  LAUDO DA CIRURGIA DE 10/6/26 (CIDAP)'
+Crioterapia					: 'Não'
+
+
+-----------------------------------------------------------------------------------
+---------------------Log de Inclusao do Pedido de Tratamento------------------------
+Mensagem gerada pelo usuario	: 'anapaula.rizzo' em 24/06/2026
+-----------------------------------------------------------------------------------
+Codigo Paciente				: '3102'
+Paciente						: 'SIMONE ALVIM VIEIRA'
+Convênio						: 'UNIMED'
+Peso							: '65.00'
+Altura							: '166.00'
+Sup Corp						: '1.70'
+Indicacao Clinica				: 'NEOPLASIA DA MAMA D , OPERADA - IN SITU COM RECEPTRES HORMONAIS. NECESSITA DE HORMONIOTERAPIA POR 05 ANOS.'
+Data do Diagnostico			: ''2024-10-07''
+CID							: 'C50'
+Estadiamento					: 'I'
+Tipo Quimio (Linha)			: '1 Linha'
+Finalidade						: 'Adjuvante'
+Tipo de Tumor					: 'T1'
+Tipo de Nodulo					: 'N0'
+Tipo de Metastase				: 'M0'
+Plano Terapêutio				: 'tamoxifeno 20 mg - 4 anos '
+Informações Relevantes			: 'PACIENTE TABAGISTA DE LONGA DATA CONTRAINDICADO TAMOXIFENO EVOLUINDO COM ALERGIA AO ANASTROZOL, PRURIDO E LESÕES. E PIORA DA DOR ARTICULAR COM LETROZOL. SOLICITO TROCA POR TAMOXIFENO'
+Diagnóstico Histopatologico	: 'EGMENTECTOMIA DA MAMA DIREITA+ AMPLIAÇÃO DA MARGEM (07/10/24): CARCINOMA INTRADUCTAL, GRAU II, TAMANHO DO TUMOR 0.4 CM , INVASÕES AUSENTE, MARGEM SÚPERO MEDIAL ESTÁ COMPROMETIDA POR TUMOR IN SITU, DEMAIS MARGENS LIVRES. LINFONODOS: 0/2 ESTUDADOS T1N0MX - EC I 
+'
+Tipo de Cirurgia				: 'EGMENTECTOMIA DA MAMA DIREITA+ AMPLIAÇÃO DA MARGEM (07/10/24): CARCINOMA INTRADUCTAL, GRAU II, TAMANHO DO TUMOR 0.4 CM , INVASÕES AUSENTE, MARGEM SÚPERO MEDIAL ESTÁ COMPROMETIDA POR TUMOR IN SITU, DEMAIS MARGENS LIVRES. LINFONODOS: 0/2 ESTUDADOS T1N0MX - EC I 
+'
+Área Irradiada					: ''
+Data de Realização				: ''2024-10-07''
+Data da Aplicação				: ''2024-10-24''
+Observação Justificativa		: 'NEOPLASIA MALIGNA DA MAMA ABORDADA VÁRIAS VEZES COM DIAGNÓSTICO FINAL POR IMH DE NEOPLASIA MALIGNA DA MAMA IN SITU. SOLICITO TAMOXIFENO '
+Quantidade de Ciclos Prevsitos	: '60'
+Ciclo Atual					: '01'
+Dias do ciclo atual			: '30'
+Intervalo de Ciclos			: '30'
+Nome do medico encaminhador	: ''
+Exames Enviados				: 'INDICAÇÃO CLÍNICA'
+Crioterapia					: ''
+
+
+-----------------------------------------------------------------------------------
+---------------------Log de Inclusao do Pedido de Tratamento------------------------
+Mensagem gerada pelo usuario	: 'anapaula.rizzo' em 24/06/2026
+-----------------------------------------------------------------------------------
+Codigo Paciente				: '3185'
+Paciente						: 'WASHINGTON LUIZ CAMPOS BONIFÁCIO'
+Convênio						: 'PMMG'
+Peso							: '91'
+Altura							: '1.75'
+Sup Corp						: '2,0'
+Indicacao Clinica				: 'NEOPLASIA MALIGNA DO CÓLON OPERADO COM LESÃO HEPÁTICA SUGESTIVA DE IMPLANTE SECUNDÁRIO, OPERADO, REALIZOU 12 CICLOS DE FOLFOX COM TÉRMINO EM JULHO DE 2025, EVOLUINDO COM RECIDIVA DA DOENÇA, HEPÁTICA, LINFONODAL E PULMONAR'
+Data do Diagnostico			: ''2024-10-10''
+CID							: 'C18'
+Estadiamento					: 'IV'
+Tipo Quimio (Linha)			: '1 Linha'
+Finalidade						: 'Paliativo'
+Tipo de Tumor					: 'T3'
+Tipo de Nodulo					: 'N1'
+Tipo de Metastase				: 'M1'
+Plano Terapêutio				: '5-FU - 400MG/M2 - DOSE DE 800MG - IV A CADA 14 DIAS POR 12 CICLOS 
+5-FU- 2400 - DOSE 4.800MG - IV A CADA 14 DIAS POR 12 CICLOS
+OXALIPLATINA 85MG/M2 - DOSE DE 170MG A CADA 14 DIAS POR 12 CICLOS
+LEUCOVORIN 400MG /M2 - DOSE 800MG - IV A CADA 14 DIAS POR 12 CICLOS.
+BEVACIZUMABE - DOSE 5MG/KG - 455MG - IV A CADA 14 DIAS 
+
+ONDANSETRONA 8MG - 01 AMPOLA  NO D1 E D3 IV  CADA 14 DIAS POR 12 CICLOS '
+Informações Relevantes			: 'TUMOR DE COLON EM CONTROLE EVOLUINDO COM RECIDIVA DA DOENÇA PULMONAR, HGEPÁTICA E LINFONODAL. SOLICITO RETORNO DE TRATAMENTO PALIATIVO'
+Diagnóstico Histopatologico	: 'BIÓPSIA (14/10/24): FORTEMENTE SUGESTIVO DE ADENOCARCINOMA '
+Tipo de Cirurgia				: '::::: ENTERECTOMIA + ENTEROANASTOMOSE JEJUNO-JEJUNAL LATERO-LATERAL  => LHP ( 18/10/224):ADENOCARCINOMA ADENOMA LIKE , BAIXO GRAU MODERADAMENTE DIFERENCIADO INFILTRNDO ATÉ SUBMUCOSA E TECIDO ADIPOSO PERI-INTESTINAL, IAL E IPN AUSENTE, MAGENS LIVRES N+ 3/25  , OMENTECTOMIA SEM PARTICULARIDADES- PT3PN1B
+'
+Área Irradiada					: ''
+Data de Realização				: ''2024-10-18''
+Data da Aplicação				: ''2024-11-19''
+Observação Justificativa		: 'TUMOR DE COLON EM CONTROLE EVOLUINDO COM RECIDIVA DA DOENÇA PULMONAR, HGEPÁTICA E LINFONODAL. SOLICITO RETORNO DE TRATAMENTO PALIATIVO. '
+Quantidade de Ciclos Prevsitos	: '12'
+Ciclo Atual					: '01'
+Dias do ciclo atual			: 'd1/d3'
+Intervalo de Ciclos			: '14'
+Nome do medico encaminhador	: 'CONRADO'
+Exames Enviados				: 'PET SCAN JUNH/2020
+KRAS MUTADO 
+CEA ABRIL - 2026'
+Crioterapia					: ''
+
+
+-----------------------------------------------------------------------------------
+---------------------Log de Inclusao do Pedido de Tratamento------------------------
+Mensagem gerada pelo usuario	: 'paulla.chaves' em 25/06/2026
+-----------------------------------------------------------------------------------
+Codigo Paciente				: '2403'
+Paciente						: 'ROMEU LEANDRO FERREIRA'
+Convênio						: 'FUSEX'
+Peso							: '55.5'
+Altura							: '170'
+Sup Corp						: '1.619'
+Indicacao Clinica				: 'Paciente com doença refratária após 2 linha terapêutica com Bendamustina e Rituximabe. 
+Solicito terapia com epicoritamabe.
+'
+Data do Diagnostico			: ''2026-06-25''
+CID							: 'C82'
+Estadiamento					: 'IV'
+Tipo Quimio (Linha)			: '3 Linha'
+Finalidade						: 'Paliativo'
+Tipo de Tumor					: 'Nao Se Aplica'
+Tipo de Nodulo					: 'Nao Se Aplica'
+Tipo de Metastase				: 'Nao Se Aplica'
+Plano Terapêutio				: 'Ciclo 1: Dia 1 0,16 mg 
+             Dia 8: 0,8mg
+             Dia 15: 48 mg - com internação no dia 14 a 16
+             Dia  22: 48 mg 
+
+Ciclo 2 e 3: D1,8,15,22: 48 mg 
+Ciclo 4-9 : D1 e D15: 48 mg
+Ciclo 10: D1:48 mg até progressão ou reação'
+Informações Relevantes			: '-'
+Diagnóstico Histopatologico	: 'Linfoma Folicular'
+Tipo de Cirurgia				: '-'
+Área Irradiada					: ''
+Data de Realização				: ''2026-06-25''
+Data da Aplicação				: ''2026-06-25''
+Observação Justificativa		: 'Recaída'
+Quantidade de Ciclos Prevsitos	: '10'
+Ciclo Atual					: '1'
+Dias do ciclo atual			: '1'
+Intervalo de Ciclos			: '28'
+Nome do medico encaminhador	: 'Paulla Rayane Chaves Utsch'
+Exames Enviados				: 'PET-TC'
+Crioterapia					: 'Não'
+
+
+-----------------------------------------------------------------------------------
+---------------------Log de Inclusao do Pedido de Tratamento------------------------
+Mensagem gerada pelo usuario	: 'monise.freitas' em 25/06/2026
+-----------------------------------------------------------------------------------
+Codigo Paciente				: '4496'
+Paciente						: 'MÁRCIO CUSTODIO DO NASCIMETO'
+Convênio						: 'UNIMED'
+Peso							: '86.00'
+Altura							: '174.00'
+Sup Corp						: '2.04'
+Indicacao Clinica				: 'ESTADIAMENTO AVANÇAD, MASSA ABDMINAL E ASCITE VOLUMOSA. SINTOMÁTICO.
+Linfoma folicular - manutenção'
+Data do Diagnostico			: ''102025-12-24''
+CID							: 'C83'
+Estadiamento					: 'IV'
+Tipo Quimio (Linha)			: '1 Linha'
+Finalidade						: 'Curativo'
+Tipo de Tumor					: 'Nao Se Aplica'
+Tipo de Nodulo					: 'Nao Se Aplica'
+Tipo de Metastase				: 'Nao Se Aplica'
+Plano Terapêutio				: '
+RITUXIMABE 375MG/M²  750MG de 2/2 meses por 2 anos, ondansetrona 8mg EV
+
+'
+Informações Relevantes			: 'ESTADIAMENTO AVANÇAD, MASSA ABDMINAL E ASCITE VOLUMOSA. SINTOMÁTICO. Resposta parcial ao tratamento'
+Diagnóstico Histopatologico	: ''
+Tipo de Cirurgia				: ''
+Área Irradiada					: ''
+Data de Realização				: ''0001-01-01''
+Data da Aplicação				: ''0001-01-01''
+Observação Justificativa		: 'ESTADIAMENTO AVANÇADO, MASSA ABDMINAL E ASCITE VOLUMOSA. SINTOMÁTICO. 
+Atuamente assintomatico em remissão/manutenção'
+Quantidade de Ciclos Prevsitos	: '12'
+Ciclo Atual					: '01'
+Dias do ciclo atual			: '01'
+Intervalo de Ciclos			: '60'
+Nome do medico encaminhador	: ''
+Exames Enviados				: 'IMUNOHistoquimica + PETCT '
+Crioterapia					: ''
+
+
+-----------------------------------------------------------------------------------
+---------------------Log de Inclusao do Pedido de Tratamento------------------------
+Mensagem gerada pelo usuario	: 'tatiane.neto' em 29/06/2026
+-----------------------------------------------------------------------------------
+Codigo Paciente				: '2199'
+Paciente						: 'VALMIR ADRIANO SILVA NETTO'
+Convênio						: 'PM'
+Peso							: '85.00'
+Altura							: '1.77'
+Sup Corp						: '2,02'
+Indicacao Clinica				: 'CANCER DE RETO'
+Data do Diagnostico			: ''2024-02-29''
+CID							: 'C20'
+Estadiamento					: 'IV'
+Tipo Quimio (Linha)			: '1 Linha'
+Finalidade						: 'Paliativo'
+Tipo de Tumor					: 'T3'
+Tipo de Nodulo					: 'N1'
+Tipo de Metastase				: 'M1'
+Plano Terapêutio				: ' FOLFIRI- + BEVACIZUMABE 
+ONDANSENTRONA D1 E E3 
+- BEVACIZUMABE 5MG/KG -D1
+- 5 FU 400MG/M2  400MG/M2 D1
+- 5 FU 2400 MG/M2 EM BOMBA DE INFUSAO EM 46H
+- IRINOTECANO 180MG/M2 - D1
+- LEUCOVORIN 400MG/M2 -D1 
+A CADA 14 DIAS POR PERIODO INDETERMINADO 
+
+
+
+'
+Informações Relevantes			: 'PACIENTE JOVEM COM TUMOR DE RETO LOCALMENTE AVANÇADO REALIZOU TRATAMENTO NEOADJUVANTE TOTAL, COM QUIMIOTERAPIA DE INDUÇÃO SEGUIDO DE RADIO E CAPECITABINA, FOI PARA A CIRURGIA. EM EXAMES DE IMAGEM 11/24 - PROGRESSAO DE DOENÇA NO FIGADO , REALIZOU QUIMIOTERAPIA E HEPATECTOMIA PARCIAL - EM EXAMES DE  06/2026 APRESENTOU ELEVAÇÃO DE MARCADOR E PROGRESSAO DE DOENÇA CONFIRMADA PELO PET EM FIGADO E LINFONODO RETROPERITONEAL. '
+Diagnóstico Histopatologico	: 'ADENOCARCINOMA'
+Tipo de Cirurgia				: 'RETOSSIGMOIDECTOMIA COM LINFADENECTOMIA PELVICA E RETROPERITONEAL '
+Área Irradiada					: 'RETO'
+Data de Realização				: ''2024-10-30''
+Data da Aplicação				: ''2024-06-10''
+Observação Justificativa		: 'ENCAMINHAR BIOPSIA DA CIRURGIA E EXAMES DE IMAGEM ATUAIS + PET + MARCADOR '
+Quantidade de Ciclos Prevsitos	: 'INDETERMINADO '
+Ciclo Atual					: '01'
+Dias do ciclo atual			: '1,3 '
+Intervalo de Ciclos			: '14'
+Nome do medico encaminhador	: 'Luis Henrique Felga '
+Exames Enviados				: 'ENCAMINHAR BIOPSIA DA CIRURGIA E EXAMES DE IMAGEM ATUAIS + PET + MARCADOR'
+Crioterapia					: ''
+
+
+-----------------------------------------------------------------------------------
+---------------------Log de Inclusao do Pedido de Tratamento------------------------
+Mensagem gerada pelo usuario	: 'tatyene.nehrer' em 30/06/2026
+-----------------------------------------------------------------------------------
+Codigo Paciente				: '4635'
+Paciente						: 'NELMA SANABIO MAZZETTI'
+Convênio						: 'UNIMED'
+Peso							: '66.00'
+Altura							: '1.55'
+Sup Corp						: '1.69'
+Indicacao Clinica				: 'PACIENTE COM DIAGNÓSTICO DE CANCER DE MAMA DIREITA , LESÃO PALPAVEL DE 1,5CM, TRIPLO NEGATIVO E TENDO REALIZADO TRATAMENTO NEOADJUVANTE COM QT + IMUNOTERAPIA (PROTOCOLO KEYNOTE 522/PACLI + CARBO SEGUIDO DE AC DENSO E COM PEMBRO EM PARALELO).
+MUTAÇÃO BRCA1.SUBMETIDA A SEGMENTECTOMIA MAMRIA D + SENTINELA ( RESPOSTA PATOLOGICA COMPLETA) E SALPINGOOFORECTOMIA REDUTORA DE RISCO EM JUNHO/26.PEÇO COMPLETAR PEMBROLIZUMABE POR 1 ANO.
+'
+Data do Diagnostico			: ''2025-09-26''
+CID							: 'C50'
+Estadiamento					: 'II'
+Tipo Quimio (Linha)			: '1 Linha'
+Finalidade						: 'Adjuvante'
+Tipo de Tumor					: 'T1'
+Tipo de Nodulo					: 'N0'
+Tipo de Metastase				: 'M0'
+Plano Terapêutio				: 'PEÇO TRATAMENTO ADJUVANTE PARA TUMOR TRIPLO NEGATIVO PT1 (T ENTRE 1 E 2 CM) COM RESPOSTA PATOLOGICA COMPLETA  APÓS NEOADJUVANCIA COM QT/IMUNOTERAPIA CONFORME ESTUDO KEYNOTE 522::
+PEMBROLIZUMABE 200MG IV D1 A CADA 21 DIAS POR 10 CICLOS ( JA REALIZOU 7 CICLOS NEOADJUVANTES) OBJETIVANDO COMPLETAR 1 ANO DE TRATAMENTO IMUNOTERÁPICO.'
+Informações Relevantes			: ' PACIENTE COM DIAGNÓSTICO DE CANCER DE MAMA DIREITA , LESÃO PALPAVEL DE 1,5CM, TRIPLO NEGATIVO E TENDO REALIZADO TRATAMENTO NEOADJUVANTE COM QT + IMUNOTERAPIA (PROTOCOLO KEYNOTE 522/PACLI + CARBO SEGUIDO DE AC DENSO E COM PEMBRO EM PARALELO).
+MUTAÇÃO BRCA1.SUBMETIDA A SEGMENTECTOMIA MAMRIA D + SENTINELA ( RESPOSTA PATOLOGICA COMPLETA) E SALPINGOOFORECTOMIA REDUTORA DE RISCO EM JUNHO/26.
+PEÇO COMPLETAR PEMBROLIZUMABE POR 1 ANO.'
+Diagnóstico Histopatologico	: 'CARCINOMA MAMARIO INVASOR TRIPLO NEGATIVO POUCO DIFERENCIADO'
+Tipo de Cirurgia				: 'SEGMENTECTOMIA MAMRIA D + SENTINELA + SALPINGOOFORECTOMIA BILATERAL'
+Área Irradiada					: 'FARA NA SEQUENCIA'
+Data de Realização				: ''2026-06-03''
+Data da Aplicação				: ''2025-01-01''
+Observação Justificativa		: 'PACIENTE COM DIAGNÓSTICO DE CANCER DE MAMA DIREITA , LESÃO PALPAVEL DE 1,5CM, TRIPLO NEGATIVO E TENDO REALIZADO TRATAMENTO NEOADJUVANTE COM QT + IMUNOTERAPIA (PROTOCOLO KEYNOTE 522/PACLI + CARBO SEGUIDO DE AC DENSO E COM PEMBRO EM PARALELO).
+MUTAÇÃO BRCA1.SUBMETIDA A SEGMENTECTOMIA MAMRIA D + SENTINELA ( RESPOSTA PATOLOGICA COMPLETA) E SALPINGOOFORECTOMIA REDUTORA DE RISCO EM JUNHO/26.PEÇO COMPLETAR PEMBROLIZUMABE POR 1 ANO.'
+Quantidade de Ciclos Prevsitos	: '10'
+Ciclo Atual					: '01'
+Dias do ciclo atual			: '01'
+Intervalo de Ciclos			: '21'
+Nome do medico encaminhador	: 'DR JOAO CARLOS ARANTES JR'
+Exames Enviados				: 'BIOPSIA DE MAMA DIREITA, IMUNOHISTOQUIMICA, LAUDO DE SEGMENTECTOMIA MAMRIA + SENTINELA DE JUNHO 26 ( CITO)'
+Crioterapia					: 'Não'
+
+
+-----------------------------------------------------------------------------------
+---------------------Log de Inclusao do Pedido de Tratamento------------------------
+Mensagem gerada pelo usuario	: 'monise.freitas' em 30/06/2026
+-----------------------------------------------------------------------------------
+Codigo Paciente				: '4635'
+Paciente						: 'NELMA SANABIO MAZZETTI'
+Convênio						: 'UNIMED'
+Peso							: '66.00'
+Altura							: '1.55'
+Sup Corp						: '1.69'
+Indicacao Clinica				: 'PACIENTE COM DIAGNÓSTICO DE CANCER DE MAMA DIREITA , LESÃO PALPAVEL DE 1,5CM  E AXILA CLINICAMENTE POSITIVA ÀAPRESENTAÇÃO INICIAL,TRIPLO NEGATIVO E TENDO REALIZADO TRATAMENTO NEOADJUVANTE COM QT + IMUNOTERAPIA (PROTOCOLO KEYNOTE 522/PACLI + CARBO SEGUIDO DE AC DENSO E COM PEMBRO EM PARALELO).
+MUTAÇÃO BRCA1.SUBMETIDA A SEGMENTECTOMIA MAMARIA D + SENTINELA ( RESPOSTA PATOLOGICA COMPLETA) E SALPINGOOFORECTOMIA REDUTORA DE RISCO EM JUNHO/26.PEÇO COMPLETAR PEMBROLIZUMABE POR 1 ANO.
+'
+Data do Diagnostico			: ''2025-09-26''
+CID							: 'C50'
+Estadiamento					: 'II'
+Tipo Quimio (Linha)			: '1 Linha'
+Finalidade						: 'Adjuvante'
+Tipo de Tumor					: 'T1'
+Tipo de Nodulo					: 'N0'
+Tipo de Metastase				: 'M0'
+Plano Terapêutio				: 'PEÇO TRATAMENTO ADJUVANTE PARA TUMOR TRIPLO NEGATIVO PT1 (T ENTRE 1 E 2 CM) COM RESPOSTA PATOLOGICA COMPLETA  APÓS NEOADJUVANCIA COM QT/IMUNOTERAPIA CONFORME ESTUDO KEYNOTE 522::
+PEMBROLIZUMABE 200MG IV D1 A CADA 21 DIAS POR 10 CICLOS ( JA REALIZOU 7 CICLOS NEOADJUVANTES) OBJETIVANDO COMPLETAR 1 ANO DE TRATAMENTO IMUNOTERÁPICO.'
+Informações Relevantes			: ' PACIENTE COM DIAGNÓSTICO DE CANCER DE MAMA DIREITA , LESÃO PALPAVEL DE 1,5CM, E AXILA CLINICAMENTE POSITIVA À APRESENTAÇÃO INICIALTRIPLO NEGATIVO E TENDO REALIZADO TRATAMENTO NEOADJUVANTE COM QT + IMUNOTERAPIA (PROTOCOLO KEYNOTE 522/PACLI + CARBO SEGUIDO DE AC DENSO E COM PEMBRO EM PARALELO).
+MUTAÇÃO BRCA1.SUBMETIDA A SEGMENTECTOMIA MAMRIA D + SENTINELA ( RESPOSTA PATOLOGICA COMPLETA) E SALPINGOOFORECTOMIA REDUTORA DE RISCO EM JUNHO/26.
+PEÇO COMPLETAR PEMBROLIZUMABE POR 1 ANO.'
+Diagnóstico Histopatologico	: 'CARCINOMA MAMARIO INVASOR TRIPLO NEGATIVO POUCO DIFERENCIADO'
+Tipo de Cirurgia				: 'SEGMENTECTOMIA MAMRIA D + SENTINELA + SALPINGOOFORECTOMIA BILATERAL'
+Área Irradiada					: 'FARA NA SEQUENCIA'
+Data de Realização				: ''2026-06-03''
+Data da Aplicação				: ''2025-01-01''
+Observação Justificativa		: 'PACIENTE COM DIAGNÓSTICO DE CANCER DE MAMA DIREITA , LESÃO PALPAVEL DE 1,5CM,E AXILA CLINICAMENTE POSITIVA À APRESENTAÇÃO INICIAL TRIPLO NEGATIVO E TENDO REALIZADO TRATAMENTO NEOADJUVANTE COM QT + IMUNOTERAPIA (PROTOCOLO KEYNOTE 522/PACLI + CARBO SEGUIDO DE AC DENSO E COM PEMBRO EM PARALELO).
+MUTAÇÃO BRCA1.SUBMETIDA A SEGMENTECTOMIA MAMRIA D + SENTINELA ( RESPOSTA PATOLOGICA COMPLETA) E SALPINGOOFORECTOMIA REDUTORA DE RISCO EM JUNHO/26.PEÇO COMPLETAR PEMBROLIZUMABE POR 1 ANO.'
+Quantidade de Ciclos Prevsitos	: '10'
+Ciclo Atual					: '01'
+Dias do ciclo atual			: '01'
+Intervalo de Ciclos			: '21'
+Nome do medico encaminhador	: 'DR JOAO CARLOS ARANTES JR'
+Exames Enviados				: 'BIOPSIA DE MAMA DIREITA, IMUNOHISTOQUIMICA, LAUDO DE SEGMENTECTOMIA MAMRIA + SENTINELA DE JUNHO 26 ( CITO)'
+Crioterapia					: 'Não'
+
+
+-----------------------------------------------------------------------------------
+---------------------Log de Inclusao do Pedido de Tratamento------------------------
+Mensagem gerada pelo usuario	: 'paulla.chaves' em 07/07/2026
+-----------------------------------------------------------------------------------
+Codigo Paciente				: '913'
+Paciente						: 'MARIA DE FATIMA SILVA FILHO '
+Convênio						: 'PMMG'
+Peso							: '100'
+Altura							: '165'
+Sup Corp						: '2.141'
+Indicacao Clinica				: 'Paciente com perda de resposta molecular em terceira linha terapêutica.'
+Data do Diagnostico			: ''2026-07-07''
+CID							: 'C92'
+Estadiamento					: ''
+Tipo Quimio (Linha)			: '3 Linha'
+Finalidade						: 'Paliativo'
+Tipo de Tumor					: 'Nao Se Aplica'
+Tipo de Nodulo					: 'Nao Se Aplica'
+Tipo de Metastase				: 'Nao Se Aplica'
+Plano Terapêutio				: 'Ponatinibe 45 mg diário.'
+Informações Relevantes			: 'Paciente com toxicidade hepática e progressão de doença com Imatinibe.
+Em uso de dasatinibe desde 01/2023 com perda de resposta molecular no ultimo exame.'
+Diagnóstico Histopatologico	: 'LMC em perda de resposta'
+Tipo de Cirurgia				: '-'
+Área Irradiada					: '-'
+Data de Realização				: ''2026-07-07''
+Data da Aplicação				: ''2026-07-07''
+Observação Justificativa		: ''
+Quantidade de Ciclos Prevsitos	: '36'
+Ciclo Atual					: '1'
+Dias do ciclo atual			: '30'
+Intervalo de Ciclos			: '1'
+Nome do medico encaminhador	: 'Paulla Rayane Chaves Utsch'
+Exames Enviados				: '-'
+Crioterapia					: ''
+
+
+-----------------------------------------------------------------------------------
+---------------------Log de Inclusao do Pedido de Tratamento------------------------
+Mensagem gerada pelo usuario	: 'monise.freitas' em 08/07/2026
+-----------------------------------------------------------------------------------
+Codigo Paciente				: '5064'
+Paciente						: 'LUIS FERNANDO DA SILVA  BASTOS'
+Convênio						: 'UNIMED'
+Peso							: '69.00'
+Altura							: '1.58'
+Sup Corp						: '1.74'
+Indicacao Clinica				: 'NEOPLASIA MALIGNA DA BEXIGA MUSCULO INVASOR. '
+Data do Diagnostico			: ''2026-03-18''
+CID							: 'C67'
+Estadiamento					: 'II'
+Tipo Quimio (Linha)			: '1 Linha'
+Finalidade						: 'Neo-Adjuvante'
+Tipo de Tumor					: 'T2'
+Tipo de Nodulo					: 'N0'
+Tipo de Metastase				: 'M0'
+Plano Terapêutio				: ' DURVALUMABE, 1.500 MG - EV - D1 A CADA 21 DIAS  POR 4 CICLOS
+CISPLATINA, 70 MG/M² EV - DOSE 121MG NO D1  CADA 21 DIAS  POR 4 CICLOS
+GENCITABINA, 1.000 MG/M² EV, DOSE DE 1.740MG NO D1E D8 A CADA 21 DIAS  POR 4 CICLOS
+EMEND 150MG - D1 A CADA 21 DIAS POR 04 CICLOS
+GRANISETRONA D1 E D8 A CADA 21 DIAS POR 04 CICLOS
+08/07/2026-  Solicitado inclusão de 05 ampolas de Filgrastim a partir do 2° ciclo. '
+Informações Relevantes			: 'PACIENTE PORTADOR DE TUMOR DE BEXIGA VISTO EM RNM DE PELVE COM INAVSÃO DEFINIDA NA BIÓPSIA. SOLICITO QT + IMUNOTERAPIA NEOADJUVANTE. '
+Diagnóstico Histopatologico	: 'BIÓPSIA - LESÃO VEGETANTE DE BEXIGA (18/03/26): CARCINOMA POUCO DIFERENCIADO INFILTRADO MÚSCULO LISO (UROTELIAL?)
+
+RNM DA PELVE (11/05/26): PERSISTE ESTÁVEL O ESPESSAMENTO PARIETAL FOCAL DA LINHA MEDIANA NA PAREDE POSTERIOR E SUPERIOR DA BEXIGAESPESSURA 1,5CM COM EXTENSÃO 3,1 CM. HÁ INTERRUPEÇÃO DA LINHA DA CAMADA MUSCULAR PRÓPRIA DA BEXIGA COM SINAL DA GORDURA PERIVESICAL PRESERVADO. VI-RADS 4 . (CAMADA MUSCULAR PRÓPRIA DA BEXIGA É PROVÁVEL)'
+Tipo de Cirurgia				: ''
+Área Irradiada					: ''
+Data de Realização				: ''2026-05-27''
+Data da Aplicação				: ''2026-05-27''
+Observação Justificativa		: 'TUMOR DE BEXIGA MÚSCULO INVASOR COM INDICAÇÃO DE TRATAMENTO ONCOLÓGICO NEOADJUVANTE.'
+Quantidade de Ciclos Prevsitos	: '04'
+Ciclo Atual					: '01'
+Dias do ciclo atual			: 'd1/d8'
+Intervalo de Ciclos			: '21'
+Nome do medico encaminhador	: 'LUIZ ROGÉRIO '
+Exames Enviados				: 'em anexo - biópsia e ressonancia de pelve '
+Crioterapia					: ''
+
+
+-----------------------------------------------------------------------------------
+---------------------Log de Inclusao do Pedido de Tratamento------------------------
+Mensagem gerada pelo usuario	: 'anapaula.rizzo' em 08/07/2026
+-----------------------------------------------------------------------------------
+Codigo Paciente				: '5344'
+Paciente						: 'ROCELIZA SILVA CRUZ'
+Convênio						: 'FUSEX'
+Peso							: '58'
+Altura							: '156'
+Sup Corp						: '1.59'
+Indicacao Clinica				: '  ****IMH (27/10/23): LESÃO EPITELIAL PROLIFERATIVA VERRUCOSA CERATINIZANTE
+
+BIÓPISA DE MUCOSA JUGAL (18/12/23): LESÃO EPITELIAL PROLIFERATIVA / MARGENS COMPROMETIDAS - NECESSÁRIO IMH
+
+RECIDIVA TUMORAL - SETMEBRO -2024:
+
+HIPERPLADIA VERRUCOSA - IMH (01/10/24): CARCINOMA VERRUCOSO
+
+TRATAMENTO ONCOLÓGICO: RADIOTERAPIA  (DRA LIVIA) - 30SESSÕES - 06/11/24 ATÉ 31/12/24.
+
+RECIDIVA TUMORAL - 3° CIRURGIA (30/03/26): CARCINOMA RECIDIVADO (IMH - 06/04/26).
+
+CONTRAINDICADO: NOVA CIRURGIA /RADIOTERAPIA, PDL1 POSITIVO
+
+INDICADO PEMBROLIZUMABE 
+
+ 
+'
+Data do Diagnostico			: ''2024-10-01''
+CID							: 'C02'
+Estadiamento					: 'IV'
+Tipo Quimio (Linha)			: '1 Linha'
+Finalidade						: 'Paliativo'
+Tipo de Tumor					: 'TX'
+Tipo de Nodulo					: 'N0'
+Tipo de Metastase				: 'MX'
+Plano Terapêutio				: 'PEMBROLIZUMABE 200MG - IV A CADA 21 DIAS ATÉ TOXICIDADE E/ OU  PROGRESSÃO'
+Informações Relevantes			: 'PACIENTE IDOSA, FRÁGIL COM RECIDIVA DE TUMOR DE CAVIDADE ORAL, PDL1 POSITIVO E SEM CONDIÇÕES DE REALIZAR QUIMIOTERAPIA. INDICADO IMUNOTERAPIA ISOLADO NA TENTATIVA DE AUMENTAR QUALIDADE DE VIDA E CONTROLE DA DOENÇA. '
+Diagnóstico Histopatologico	: 'HIPERPLADIA VERRUCOSA - IMH (01/10/24): CARCINOMA VERRUCOSO'
+Tipo de Cirurgia				: ''
+Área Irradiada					: 'TRATAMENTO ONCOLÓGICO: RADIOTERAPIA  (DRA LIVIA) - 30SESSÕES - 06/11/24 ATÉ 31/12/24.'
+Data de Realização				: ''2026-07-08''
+Data da Aplicação				: ''2024-11-06''
+Observação Justificativa		: 'PACIENTE IDOSA, FRÁGIL COM RECIDIVA DE TUMOR DE CAVIDADE ORAL, PDL1 POSITIVO E SEM CONDIÇÕES DE REALIZAR QUIMIOTERAPIA. INDICADO IMUNOTERAPIA ISOLADO NA TENTATIVA DE AUMENTAR QUALIDADE DE VIDA E CONTROLE DA DOENÇA. '
+Quantidade de Ciclos Prevsitos	: '31'
+Ciclo Atual					: '01'
+Dias do ciclo atual			: '01'
+Intervalo de Ciclos			: '21'
+Nome do medico encaminhador	: ''
+Exames Enviados				: 'EM ANEXO PDL1/ BIOPSIA + IMH'
+Crioterapia					: ''
+
+
+-----------------------------------------------------------------------------------
+---------------------Log de Inclusao do Pedido de Tratamento------------------------
+Mensagem gerada pelo usuario	: 'tatyene.nehrer' em 14/07/2026
+-----------------------------------------------------------------------------------
+Codigo Paciente				: '5426'
+Paciente						: 'DIRCE GOMES COSTA REIS IENNACO'
+Convênio						: 'UNIMED'
+Peso							: '50'
+Altura							: '1,60'
+Sup Corp						: '1,6'
+Indicacao Clinica				: 'PACIENTE DE 88 ANOS, EXTREMA FRAGILIDADE CLÍNICA, APRESENTANDO LESÃO MAMÁRIA DE 2X2CM ( BIÓPSIA: CARCINOMA LOBULAR INVASOR) E NECESSITANDO HMT EXCLUSIVA COM TAMOXIFENO.RECENTE NEUROCIRURGIA POR COAGULO CEREBRAL APÓS QUEDA E DIFICULDADE IMPORTANTE DE LOCOMOÇÃO.SEM CONDIÇÕES DE CIRURGIA MAMÁRIA NO MOMENTO.'
+Data do Diagnostico			: ''2026-06-18''
+CID							: 'C50'
+Estadiamento					: 'II'
+Tipo Quimio (Linha)			: '1 Linha'
+Finalidade						: 'Neo-Adjuvante'
+Tipo de Tumor					: 'T2'
+Tipo de Nodulo					: 'NX'
+Tipo de Metastase				: 'M0'
+Plano Terapêutio				: 'PEÇO HMT EXCLUSIVA SOB A FORMA DE TAMOXIFENO COMP/20MG 1 X DIA POR CERCA DE 12 MESES INICIALMENTE.PASSIVEL DE SE TORNAR HMT EXCLUSIVA SE NÃO HOUVER CONDIÇÕES CLÍNICAS DE ABRODAGEM CIRURGICA MAMARIA NA SEQUENCIA.'
+Informações Relevantes			: 'PACIENTE DE 88 ANOS, EXTREMA FRAGILIDADE CLÍNICA, APRESENTANDO LESÃO MAMÁRIA DE 2X2CM ( BIÓPSIA: CARCINOMA LOBULAR INVASOR) E NECESSITANDO HMT EXCLUSIVA COM TAMOXIFENO.RECENTE NEUROCIRURGIA POR COAGULO CEREBRAL APÓS QUEDA E DIFICULDADE IMPORTANTE DE LOCOMOÇÃO.SEM CONDIÇÕES DE CIRURGIA MAMÁRIA NO MOMENTO.'
+Diagnóstico Histopatologico	: 'CARCINOMA LOBULAR INFILTRANTE GH2 LUMINAL A'
+Tipo de Cirurgia				: 'SEM CONDIÇÕES'
+Área Irradiada					: 'SEM CONDIÇÕES'
+Data de Realização				: ''2026-07-14''
+Data da Aplicação				: ''2026-07-14''
+Observação Justificativa		: 'PACIENTE DE 88 ANOS, EXTREMA FRAGILIDADE CLÍNICA, APRESENTANDO LESÃO MAMÁRIA DE 2X2CM ( BIÓPSIA: CARCINOMA LOBULAR INVASOR) E NECESSITANDO HMT EXCLUSIVA COM TAMOXIFENO.RECENTE NEUROCIRURGIA POR COAGULO CEREBRAL APÓS QUEDA E DIFICULDADE IMPORTANTE DE LOCOMOÇÃO.SEM CONDIÇÕES DE CIRURGIA MAMÁRIA NO MOMENTO.'
+Quantidade de Ciclos Prevsitos	: '12'
+Ciclo Atual					: '01'
+Dias do ciclo atual			: '030'
+Intervalo de Ciclos			: '030'
+Nome do medico encaminhador	: 'DR JOAO CARLOS ARANTES JR'
+Exames Enviados				: 'BIOPSIA E IMUNOHISTOQUIMICA + CARTA DE ENCAMINHAMENTO DO DR JOAO CARLOS ARANTES JR'
+Crioterapia					: ''
+
+
+-----------------------------------------------------------------------------------
+---------------------Log de Inclusao do Pedido de Tratamento------------------------
+Mensagem gerada pelo usuario	: 'anapaula.rizzo' em 15/07/2026
+-----------------------------------------------------------------------------------
+Codigo Paciente				: '4513'
+Paciente						: 'ERIKA DE CARVALHO SCARLATELLI'
+Convênio						: 'UNIMED'
+Peso							: '71.00'
+Altura							: '1.67'
+Sup Corp						: '1.78'
+Indicacao Clinica				: 'PACIENTE PORTADORA DE NEOPLASIA MALIGNA DA MAMA ESQUERDA, OPERADA - T2N1- EC IIB COM NECESSIDADE DE INICIAR TRATAMENTO ONCOLÓGICO. REALIZOU QT ADUVANTE E COM INDICAÇAO DE ABEMACICLIBE + LETROZOL '
+Data do Diagnostico			: ''2025-09-01''
+CID							: 'C50'
+Estadiamento					: 'II'
+Tipo Quimio (Linha)			: '1 Linha'
+Finalidade						: 'Adjuvante'
+Tipo de Tumor					: 'T2'
+Tipo de Nodulo					: 'N1'
+Tipo de Metastase				: 'M0'
+Plano Terapêutio				: 'ABEMACICLIBE 150MG - 01 COMP DE 12/12 HORAS POR 2 ANOS + LETROZOL 2,5MG  - 01 COMP AO DIA POR 2 ANOS '
+Informações Relevantes			: 'PATOLOGIA DA CIRURGIA + IMH + FISH'
+Diagnóstico Histopatologico	: ' 
+
+BIÓPSIA DA MAMA (01/09/25): CARCINOMA DA MAMA INVASOR, GRAU II
+
+IMH (19/09/25): RE 100% / RP NEGATIVO / KI67 15-20%/ HER 2 : 1+
+'
+Tipo de Cirurgia				: 'SETORECTOMIA DA MAMA ESQUERDA (11/11/25): CARCINOMA DUCTAL INFILTRANTE,TAMANHO 2,7X2,3 , GRAU 2, MODERADAMENTE DIFERENCIADO, INVASÕES PERINEURAIS E ANGIOLINFÁTICAS NÃO DETECTADAS, MARGENS LIVRES.  CARCINOMA DUCTAL METASTÁTICO 1 DE 3 LINFONODOS - T2 N1 - EC IIB
+
+IMH (29/12/25): RE 80-90% / RP NEGATIVO / KI67 10-20% / HER 2 2+
+IMH DO LINFODO (02/02/26): RE 90-100% / RP NEGATIVO / HER 2 : 1/ KI67: 10-20%'
+Área Irradiada					: ''
+Data de Realização				: ''2025-11-11''
+Data da Aplicação				: ''2026-02-24''
+Observação Justificativa		: 'TUMOR DE MAMA ESQUERDA, OPERADA, EC II, REALIZOU QT ADJUVANTE (AC + TAXOL SEMNALA) COM INDICAÇÃO DE ABEMACICLIBE + LETROZOL POR 2 ANOS
+LINFONODO POSITIVO COM KI67 20%'
+Quantidade de Ciclos Prevsitos	: '24'
+Ciclo Atual					: '01'
+Dias do ciclo atual			: '30'
+Intervalo de Ciclos			: '30'
+Nome do medico encaminhador	: 'João Carlos ARANTES'
+Exames Enviados				: 'SETORECTOMIA, IMH, IMH DO LINFONODO, FISH'
+Crioterapia					: ''
+
+
+-----------------------------------------------------------------------------------
+---------------------Log de Inclusao do Pedido de Tratamento------------------------
+Mensagem gerada pelo usuario	: 'tatyene.nehrer' em 21/07/2026
+-----------------------------------------------------------------------------------
+Codigo Paciente				: '1565'
+Paciente						: 'MARCOS CORREA'
+Convênio						: 'SAUDE SINAI'
+Peso							: '83.00'
+Altura							: '1.83'
+Sup Corp						: '2.00'
+Indicacao Clinica				: 'PACIENTE COM RECENTE DIAGNÓSTICO DE LESÃO NEOPLÁSICA DE COLON DIREITO ( SEM OBSTRUÇÃO SIGNIFICATIVA) E METASTASES HEPÁTICAS IRRESSECAVEIS.SOB QT PALIATIVA FOLFOX +  BEVACIZUMABE E EVOLUINDO COM ANEMIA MISTA ( INFLAMATÓRIA + FERROPRIVA).FADIGA IMPORTANTE //CARDIOPATA'
+Data do Diagnostico			: ''2026-03-25''
+CID							: 'C18'
+Estadiamento					: 'IV'
+Tipo Quimio (Linha)			: '1 Linha'
+Finalidade						: 'Paliativo'
+Tipo de Tumor					: 'T2'
+Tipo de Nodulo					: 'NX'
+Tipo de Metastase				: 'M1'
+Plano Terapêutio				: 'PEÇO CARBOXIMALTOSE FERRICA ( FERINJET) 1000MG IV DOSE ÚNICA EM INFUSAO DE 30MIN.
+SERÃO 2 FRASCOS DE FERINJECT DE 50ML/ML APRESENTAÇÃO DE 10ML'
+Informações Relevantes			: 'PACIENTE COM RECENTE DIAGNÓSTICO DE LESÃO NEOPLÁSICA DE COLON DIREITO ( SEM OBSTRUÇÃO SIGNIFICATIVA) E METASTASES HEPÁTICAS IRRESSECAVEIS.SOB QT PALIATIVA FOLFOX +  BEVACIZUMABE E EVOLUINDO COM ANEMIA MISTA ( INFLAMATÓRIA + FERROPRIVA).FADIGA IMPORTANTE //CARDIOPATA'
+Diagnóstico Histopatologico	: 'ADENOCARCINOMA  COLON DIREITO'
+Tipo de Cirurgia				: 'SEM INDICAÇÃO NO MOMENTO'
+Área Irradiada					: 'NAO'
+Data de Realização				: ''2026-03-31''
+Data da Aplicação				: ''2026-03-31''
+Observação Justificativa		: 'PACIENTE COM RECENTE DIAGNÓSTICO DE LESÃO NEOPLÁSICA DE COLON DIREITO ( SEM OBSTRUÇÃO SIGNIFICATIVA) E METASTASES HEPÁTICAS IRRESSECAVEIS.SOB QT PALIATIVA FOLFOX +  BEVACIZUMABE E EVOLUINDO COM ANEMIA MISTA ( INFLAMATÓRIA + FERROPRIVA).FADIGA IMPORTANTE //CARDIOPATA'
+Quantidade de Ciclos Prevsitos	: '01'
+Ciclo Atual					: '01'
+Dias do ciclo atual			: '01'
+Intervalo de Ciclos			: 'DOSE UNICA'
+Nome do medico encaminhador	: 'Hospital sabin///Dr Lucas Nicolato'
+Exames Enviados				: 'ANEXADOS ( BIOPSIA + COLONO + RM DE ABDOME DE JUNHO 26 E ULTIMO EXAME DE SANGUE COM CINETICA DE FERRO(JULHO 26)'
+Crioterapia					: 'Não'
+
+
+-----------------------------------------------------------------------------------
+---------------------Log de Inclusao do Pedido de Tratamento------------------------
+Mensagem gerada pelo usuario	: 'milena.ribeiral' em 21/07/2026
+-----------------------------------------------------------------------------------
+Codigo Paciente				: '5406'
+Paciente						: 'RITA DE CASSIA PAULA'
+Convênio						: 'FUSEX'
+Peso							: '70'
+Altura							: '161'
+Sup Corp						: '1,74'
+Indicacao Clinica				: 'ADENOCARCINOMA DE ENDOCERVICE METASTATICO PARA PERITÔNEO '
+Data do Diagnostico			: ''2026-06-02''
+CID							: 'C53'
+Estadiamento					: 'IV'
+Tipo Quimio (Linha)			: '1 Linha'
+Finalidade						: 'Paliativo'
+Tipo de Tumor					: 'TX'
+Tipo de Nodulo					: 'NX'
+Tipo de Metastase				: 'M1'
+Plano Terapêutio				: 'paclitaxel 175 mg /m2= 300mg
+carboplatina auc 5= 575mg 
+neulastim 6 mg sc
+emend 1 ampola ev
+kytril 1 ampola ev 
+a cada 21/21dias '
+Informações Relevantes			: 'A paciente possui antecedente de transplante hepático, encontrando-se em uso contínuo de terapia imunossupressora para manutenção da função do enxerto.  Diante desse contexto clínico, está indicada a realização de quimioterapia sistêmica com paclitaxel na dose de 175 mg/m² por via intravenosa, associado à carboplatina calculada pela AUC 5 , ambos administrados no primeiro dia de cada ciclo, com repetição do esquema a cada 21 dias, até progressão da doença ou ocorrência de toxicidade limitante.
+Considerando que a paciente apresenta imunossupressão crônica decorrente do transplante hepático e do uso contínuo de imunossupressores, condição que aumenta significativamente o risco de complicações infecciosas e de neutropenia durante o tratamento quimioterápico, solicita-se também a liberação de pegfilgrastim  na dose de 6 mg por via subcutânea, a ser administrado no d2 como profilaxia primária de neutropenia febril. Perfil molecular complementar em andamento na patologia e caso haja alguma mutação ou alvo identificável, o protocolo será reavaliado '
+Diagnóstico Histopatologico	: 'adenocarcinoma de endocervice hpv relacionado '
+Tipo de Cirurgia				: ''
+Área Irradiada					: ''
+Data de Realização				: ''2026-07-21''
+Data da Aplicação				: ''2026-07-21''
+Observação Justificativa		: 'adenocarcinoma colo de utero metastatico em paciente com hsitorico de transplante hepático. '
+Quantidade de Ciclos Prevsitos	: 'indeterminado '
+Ciclo Atual					: '01'
+Dias do ciclo atual			: '01'
+Intervalo de Ciclos			: '21'
+Nome do medico encaminhador	: 'JULIANA FERREIRA'
+Exames Enviados				: 'biopsias, imunohistoquimica, rnm de abdome e tc de torax '
+Crioterapia					: 'Sim'
+
+
+-----------------------------------------------------------------------------------
+---------------------Log de Inclusao do Pedido de Tratamento------------------------
+Mensagem gerada pelo usuario	: 'milena.ribeiral' em 28/07/2026
+-----------------------------------------------------------------------------------
+Codigo Paciente				: '5481'
+Paciente						: 'MIRIAM DE MELO MELQUIADES'
+Convênio						: 'UNIMED'
+Peso							: '65'
+Altura							: '168'
+Sup Corp						: '0.0'
+Indicacao Clinica				: 'ADENOMIOSE DIFUSA E SERÁ SUBMETIDA A TRANFERENCIA DE EMBRIÃO CONGELADO, RESULTANTE DE TRATAMENTO POR FERTILIZAÇÃO IN VITRO .'
+Data do Diagnostico			: ''2026-07-28''
+CID							: ''
+Estadiamento					: ''
+Tipo Quimio (Linha)			: ''
+Finalidade						: ''
+Tipo de Tumor					: ''
+Tipo de Nodulo					: ''
+Tipo de Metastase				: ''
+Plano Terapêutio				: 'NEODECA 3,75MG IM A CADA 30DIAS POR 3 CICLOS ( A  PRIMEIRA MEDICAÇÃO DEVERÁ SER APLICADA NO PRIMEIRO  DIA DA  MENSTRUAÇÃO E NA SEQUENCIA, AS DEMAIS, DEVERÃO SER APLICADAS A CADA 30 DIAS ) '
+Informações Relevantes			: 'NECESSITA DE TRATAMENTO DA ADENOMIOSE POR 3 MESES , JA QUE O PROCESSO DA ADENOMIOSE IMPACTA NEGATIVAMENTE NA IMPLANTAÇÃO '
+Diagnóstico Histopatologico	: ''
+Tipo de Cirurgia				: ''
+Área Irradiada					: ''
+Data de Realização				: ''2026-07-28''
+Data da Aplicação				: ''2026-07-28''
+Observação Justificativa		: ''
+Quantidade de Ciclos Prevsitos	: '03'
+Ciclo Atual					: '01'
+Dias do ciclo atual			: '01'
+Intervalo de Ciclos			: '30'
+Nome do medico encaminhador	: 'FERNANDA POLISSENI '
+Exames Enviados				: 'RELATORIO DA GINECOLOGISTA E RECEITA DA GINECOLOGISTA ASSISTENTE '
+Crioterapia					: ''
+
+
+-----------------------------------------------------------------------------------
+---------------------Log de Inclusao do Pedido de Tratamento------------------------
+Mensagem gerada pelo usuario	: 'tatyene.nehrer' em 29/07/2026
+-----------------------------------------------------------------------------------
+Codigo Paciente				: '5471'
+Paciente						: 'RODNEY GONÇALVES PEREIRA'
+Convênio						: 'FUSEX'
+Peso							: '74'
+Altura							: '1,58'
+Sup Corp						: '1,80'
+Indicacao Clinica				: 'PACIENTE DE 78 ANOS, MULTIPLAS CO MORBIDADES INCLUINDO INS CARDIACA DE FRAÇÃO EJEÇÃO NORMAL ( NÃO TOLERA MUITO APORTE VOLUME), CARG ALTO RISCO PARA POLIQT E FRAGILIDADE CLÍNICA IMPORTANTE.APRESENTA TUMOR MULTICÊNTRICO INVASOR DE BEXIGA, UROLOGISTA DESCARTOU CISTECTOMIA TOTAL PELA CONDIÇÃO CLÍNICA.PEÇO PROTOCOLO DE PRESERVAÇÃO VESICAL COM RXT DOSE RADICAL E QT PARA RADIOSSENSIBILIZAÇÃO (GEMCITABINA) DADA IMPOSSIBILIDADE DE UTILIZAR PLATINA.'
+Data do Diagnostico			: ''2026-04-16''
+CID							: 'C67'
+Estadiamento					: 'III'
+Tipo Quimio (Linha)			: '1 Linha'
+Finalidade						: 'Curativo'
+Tipo de Tumor					: 'T3'
+Tipo de Nodulo					: 'N0'
+Tipo de Metastase				: 'M0'
+Plano Terapêutio				: 'PEÇO  QT RADIOSSENSIBILIZANTE COM GEMCITABINA 100MG/M² IV 1X SEMANA ( DOSE TOTAL180MG) POR 2 SEMANAS SEGUIDO DE AUMENTO DE DOSE PARA 125MG/M² ( DOSE TOTAL 225MG) A PARTIR DA 3ª SEMANA SE HOUVER BOA TOLERÂNCIA.TOTAL DE SEMANAS PRETENDIDAS: 5.
+ANTI EMÉTICO:GRANISETRONA 1MG IV 1X SEMANA'
+Informações Relevantes			: 'PACIENTE DE 78 ANOS, MULTIPLAS CO MORBIDADES INCLUINDO INS CARDIACA DE FRAÇÃO EJEÇÃO NORMAL ( NÃO TOLERA MUITO APORTE VOLUME), CARG ALTO RISCO PARA POLIQT E FRAGILIDADE CLÍNICA IMPORTANTE.APRESENTA TUMOR MULTICÊNTRICO INVASOR DE BEXIGA, UROLOGISTA DESCARTOU CISTECTOMIA TOTAL PELA CONDIÇÃO CLÍNICA.PEÇO PROTOCOLO DE PRESERVAÇÃO VESICAL COM RXT DOSE RADICAL E QT PARA RADIOSSENSIBILIZAÇÃO (GEMCITABINA) DADA IMPOSSIBILIDADE DE UTILIZAR PLATINA.'
+Diagnóstico Histopatologico	: 'CARCINOMA UROTELIAL PAPILIFERO DE ALTO GRAU COM INVASÃO DE TUNICA MUSCULAR (DETRUXOR)'
+Tipo de Cirurgia				: 'INOPERÁVEL'
+Área Irradiada					: 'SOLICITAMOS AVALIAÇÃO PARA RXT  RADICAL EM CONCOMITÂNCIA'
+Data de Realização				: ''2026-07-29''
+Data da Aplicação				: ''2026-07-29''
+Observação Justificativa		: 'PACIENTE DE 78 ANOS, MULTIPLAS CO MORBIDADES INCLUINDO INS CARDIACA DE FRAÇÃO EJEÇÃO NORMAL ( NÃO TOLERA MUITO APORTE VOLUME), CARG ALTO RISCO PARA POLIQT E FRAGILIDADE CLÍNICA IMPORTANTE.APRESENTA TUMOR MULTICÊNTRICO INVASOR DE BEXIGA, UROLOGISTA DESCARTOU CISTECTOMIA TOTAL PELA CONDIÇÃO CLÍNICA.PEÇO PROTOCOLO DE PRESERVAÇÃO VESICAL COM RXT DOSE RADICAL E QT PARA RADIOSSENSIBILIZAÇÃO (GEMCITABINA) DADA IMPOSSIBILIDADE DE UTILIZAR PLATINA.'
+Quantidade de Ciclos Prevsitos	: '05'
+Ciclo Atual					: '01'
+Dias do ciclo atual			: '01'
+Intervalo de Ciclos			: '07'
+Nome do medico encaminhador	: 'GUILHERME UROLOGISTA MONTE SINAI'
+Exames Enviados				: 'ENVIAR LAUDO DA BIÓPSIA, RESSONANCIA DE ABDOME E PELVE, TOMOGRAFIA DE TÓRAX E RELATORIO DO GERIATRA DR LEONARDO.'
+Crioterapia					: 'Não'
+
+
+-----------------------------------------------------------------------------------
+---------------------Log de Inclusao do Pedido de Tratamento------------------------
+Mensagem gerada pelo usuario	: 'monise.freitas' em 04/08/2026
+-----------------------------------------------------------------------------------
+Codigo Paciente				: '5449'
+Paciente						: 'ANTONIO CARLOS PEREIRA'
+Convênio						: 'PARTICULAR'
+Peso							: '0.0'
+Altura							: '0.0'
+Sup Corp						: '0.0'
+Indicacao Clinica				: 'Biopsia de medula + Mielograma '
+Data do Diagnostico			: ''2026-07-28''
+CID							: ''
+Estadiamento					: ''
+Tipo Quimio (Linha)			: ''
+Finalidade						: ''
+Tipo de Tumor					: ''
+Tipo de Nodulo					: ''
+Tipo de Metastase				: ''
+Plano Terapêutio				: 'Biópsia de medula + Mielograma '
+Informações Relevantes			: 'Orçamento particular - aguardando pacte confirmar '
+Diagnóstico Histopatologico	: ''
+Tipo de Cirurgia				: ''
+Área Irradiada					: ''
+Data de Realização				: ''2026-08-04''
+Data da Aplicação				: ''2026-08-04''
+Observação Justificativa		: ''
+Quantidade de Ciclos Prevsitos	: '01'
+Ciclo Atual					: '01'
+Dias do ciclo atual			: '01'
+Intervalo de Ciclos			: '00'
+Nome do medico encaminhador	: 'FAMILIAR / AMIGO '
+Exames Enviados				: '.'
+Crioterapia					: ''
+
+
+-----------------------------------------------------------------------------------
+---------------------Log de Inclusao do Pedido de Tratamento------------------------
+Mensagem gerada pelo usuario	: 'monise.freitas' em 05/08/2026
+-----------------------------------------------------------------------------------
+Codigo Paciente				: '5171'
+Paciente						: 'SONIA REIS MARQUETTI'
+Convênio						: 'GEAP'
+Peso							: '53,00'
+Altura							: '1,72'
+Sup Corp						: '1,60'
+Indicacao Clinica				: 'SINDROME MIELODISPLASICA '
+Data do Diagnostico			: ''2026-07-13''
+CID							: ''
+Estadiamento					: 'IV'
+Tipo Quimio (Linha)			: '1 Linha'
+Finalidade						: 'Curativo'
+Tipo de Tumor					: 'Nao Se Aplica'
+Tipo de Nodulo					: 'Nao Se Aplica'
+Tipo de Metastase				: 'Nao Se Aplica'
+Plano Terapêutio				: 'CID D46.9 - ALFAEPOETINA 40000 UI POR SEMANA '
+Informações Relevantes			: 'PACIENTE IDOSA COM ANEMIA SINTOMATICA SECUNDARIA A SINDROME MIELODIPLASICA '
+Diagnóstico Histopatologico	: 'SINDROME MILEODIPLASICA '
+Tipo de Cirurgia				: ''
+Área Irradiada					: ''
+Data de Realização				: ''2026-08-05''
+Data da Aplicação				: ''2026-08-05''
+Observação Justificativa		: ''
+Quantidade de Ciclos Prevsitos	: 'IND '
+Ciclo Atual					: '01'
+Dias do ciclo atual			: '04'
+Intervalo de Ciclos			: '28'
+Nome do medico encaminhador	: 'FAMILIAR / AMIGO '
+Exames Enviados				: 'NGS E SANGUE '
+Crioterapia					: 'Não'
+
+
+-----------------------------------------------------------------------------------
+---------------------Log de Inclusao do Pedido de Tratamento------------------------
+Mensagem gerada pelo usuario	: 'monise.freitas' em 05/08/2026
+-----------------------------------------------------------------------------------
+Codigo Paciente				: '4440'
+Paciente						: 'JOÃO RESENDE RIBEIRO DE OLIVEIRA '
+Convênio						: 'GEAP'
+Peso							: '80,00'
+Altura							: '1,80'
+Sup Corp						: '2,0'
+Indicacao Clinica				: 'LINFOMA DE CÉLULAS B IGM MONOCLONAL'
+Data do Diagnostico			: ''2026-07-13''
+CID							: 'C82'
+Estadiamento					: 'IV'
+Tipo Quimio (Linha)			: '1 Linha'
+Finalidade						: 'Curativo'
+Tipo de Tumor					: 'Nao Se Aplica'
+Tipo de Nodulo					: 'Nao Se Aplica'
+Tipo de Metastase				: 'Nao Se Aplica'
+Plano Terapêutio				: 'IMUNOGLOBULINA  HUMANA 30 GRAMAS A CADA 28 DIAS '
+Informações Relevantes			: 'PACIENTE SUBMETIDO A TRATAMENTO QUIMIOTERÁPICO EVOLUINDO COM IMUNOGLOBULINA BAIXAS E INFECÇÕES DE REPETIÇÃO'
+Diagnóstico Histopatologico	: 'LINFOMA DE CELULAS B IGM MONOCLONAL'
+Tipo de Cirurgia				: ''
+Área Irradiada					: ''
+Data de Realização				: ''0001-01-01''
+Data da Aplicação				: ''0001-01-01''
+Observação Justificativa		: 'IMUNOFENOTIPAGEM '
+Quantidade de Ciclos Prevsitos	: 'IND'
+Ciclo Atual					: '01'
+Dias do ciclo atual			: '01'
+Intervalo de Ciclos			: '28'
+Nome do medico encaminhador	: 'FAMILIAR / AMIGO '
+Exames Enviados				: 'IMUNOFENOTIPAGEM '
+Crioterapia					: ''
+
+
+-----------------------------------------------------------------------------------
+---------------------Log de Inclusao do Pedido de Tratamento------------------------
+Mensagem gerada pelo usuario	: 'monise.freitas' em 06/08/2026
+-----------------------------------------------------------------------------------
+Codigo Paciente				: '4131'
+Paciente						: 'FRANCISCO EDUARDO ANTONIO GOULART DEL´DUCA'
+Convênio						: 'UNIMED'
+Peso							: '71,50'
+Altura							: '1,72'
+Sup Corp						: '1,84'
+Indicacao Clinica				: 'MIELOMA MULTIPLO'
+Data do Diagnostico			: ''2026-08-06''
+CID							: 'C90'
+Estadiamento					: 'IV'
+Tipo Quimio (Linha)			: '1 Linha'
+Finalidade						: 'Curativo'
+Tipo de Tumor					: 'Nao Se Aplica'
+Tipo de Nodulo					: 'Nao Se Aplica'
+Tipo de Metastase				: 'Nao Se Aplica'
+Plano Terapêutio				: '8 ciclos de Dara-VRD, sendo aplicações semanais de bortezomibe na dose 2,76 mg e daratumumabe 1800 mg, lenalidomida 25 mg por 21 dias a cada 28 dias, zometa 4 mg mensal'
+Informações Relevantes			: 'Doença óssea a TC de craneo, anemia, hipercalcemia, plasmocitose medular e pico monoclonal. Exames anexos'
+Diagnóstico Histopatologico	: 'Mileoma multiplo'
+Tipo de Cirurgia				: ''
+Área Irradiada					: ''
+Data de Realização				: ''0001-01-01''
+Data da Aplicação				: ''0001-01-01''
+Observação Justificativa		: 'Doença óssea a TC de craneo, anemia, hipercalcemia, plasmocitose medular e pico monoclonal. Exames anexos'
+Quantidade de Ciclos Prevsitos	: 'IND'
+Ciclo Atual					: '01'
+Dias do ciclo atual			: 'D1, D8, D15 E D21'
+Intervalo de Ciclos			: '28'
+Nome do medico encaminhador	: 'Procura espontanea '
+Exames Enviados				: 'EXAMES ENVIADOS PELO PACIENTE. '
+Crioterapia					: 'Não'
+
+
+-----------------------------------------------------------------------------------
+---------------------Log de Inclusao do Pedido de Tratamento------------------------
+Mensagem gerada pelo usuario	: 'tatyene.nehrer' em 10/08/2026
+-----------------------------------------------------------------------------------
+Codigo Paciente				: '3514'
+Paciente						: 'EDINA LUZIA DEBORTOLI MEDEIROS'
+Convênio						: 'UNIMED'
+Peso							: '57.00'
+Altura							: '1.57'
+Sup Corp						: '1.60'
+Indicacao Clinica				: 'PACIENTE COM CANCER DE RETO MÉDIO/BAIXO AVANÇADO E TENDO REALIZADO TRATAMENTO NEOADJUVANTE COMPLETO (TNT) COM RXT CONCOMITANTE A CAPECITABINA ( 1ª ETAPA) E XELOX 4 CICLOS ( 2ª ETAPA) CONCLUIDA EM JULHO/25.VÁRIAS INTERCORRÊNCIAS NO PERÍODO CONSEGUINDO SER REABORDADA EM JAN 26 COM DETECÇÃO DE VÁRIOS IMPLANTES HEPATICOS E PULMONARES.VINHA REALIZANDO QT PALIATIVA 1ª LINHA SOB FORMA DE FOLFIRI + BEVACIZUMABE ( ESTABILIDADE DE MICROSSATELITE E KRAS MUTADO) PORÉM COM PROGRESSÃO DE DOENÇA E COMPLICAÇÃO DE TVP/TEP NO PERÍODO.PEÇO MUDANÇA DE TRATAMENTO PARA LONSURF ISOLADAMENTE.'
+Data do Diagnostico			: ''2025-02-18''
+CID							: 'C20'
+Estadiamento					: 'IV'
+Tipo Quimio (Linha)			: '2 Linha'
+Finalidade						: 'Paliativo'
+Tipo de Tumor					: 'T3'
+Tipo de Nodulo					: 'N1'
+Tipo de Metastase				: 'M1'
+Plano Terapêutio				: 'PEÇO QT PALIATIVA 2ª LINHA SOB A FORMA DE LONSURF 35MG/M² POR DOSE VO 2 X DIA NOS DIAS D1 A D5 E D8 A D12 A CADA 28 DIAS.NO PRESENTE CASO, SERÃO 2 COMPS DE 20MG A CADA 12H NOS DIAS PREVIAMENTE ESPECIFICADOS//40 COMPS POR CICLO).
+PERIODO  INDETERMINADO DE USO ( ATÉ MAX RESPOSTA OU TOXICIDADE LIMITANTE)
+'
+Informações Relevantes			: 'PACIENTE COM CANCER DE RETO MÉDIO/BAIXO AVANÇADO E TENDO REALIZADO TRATAMENTO NEOADJUVANTE COMPLETO (TNT) COM RXT CONCOMITANTE A CAPECITABINA ( 1ª ETAPA) E XELOX 4 CICLOS ( 2ª ETAPA) CONCLUIDA EM JULHO/25.VÁRIAS INTERCORRÊNCIAS NO PERÍODO CONSEGUINDO SER REABORDADA EM JAN 26 COM DETECÇÃO DE VÁRIOS IMPLANTES HEPATICOS E PULMONARES.VINHA REALIZANDO QT PALIATIVA 1ª LINHA SOB FORMA DE FOLFIRI + BEVACIZUMABE ( ESTABILIDADE DE MICROSSATELITE E KRAS MUTADO) PORÉM COM PROGRESSÃO DE DOENÇA E COMPLICAÇÃO DE TVP/TEP NO PERÍODO.PEÇO MUDANÇA DE TRATAMENTO PARA LONSURF ISOLADAMENTE.'
+Diagnóstico Histopatologico	: 'ADENOCARCINOMA INVASOR'
+Tipo de Cirurgia				: ' BIÓPSIA HEPATICA//INVENTARIO DE CAVIDADE E CORREÇÃO DE PROLAPSO DE OSTOMA'
+Área Irradiada					: 'RETO'
+Data de Realização				: ''2026-01-10''
+Data da Aplicação				: ''2025-04-10''
+Observação Justificativa		: 'PACIENTE COM CANCER DE RETO MÉDIO/BAIXO AVANÇADO E TENDO REALIZADO TRATAMENTO NEOADJUVANTE COMPLETO (TNT) COM RXT CONCOMITANTE A CAPECITABINA ( 1ª ETAPA) E XELOX 4 CICLOS ( 2ª ETAPA) CONCLUIDA EM JULHO/25.VÁRIAS INTERCORRÊNCIAS NO PERÍODO CONSEGUINDO SER REABORDADA EM JAN 26 COM DETECÇÃO DE VÁRIOS IMPLANTES HEPATICOS E PULMONARES.VINHA REALIZANDO QT PALIATIVA 1ª LINHA SOB FORMA DE FOLFIRI + BEVACIZUMABE ( ESTABILIDADE DE MICROSSATELITE E KRAS MUTADO) PORÉM COM PROGRESSÃO DE DOENÇA E COMPLICAÇÃO DE TVP/TEP NO PERÍODO.PEÇO MUDANÇA DE TRATAMENTO PARA LONSURF ISOLADAMENTE.'
+Quantidade de Ciclos Prevsitos	: 'IND'
+Ciclo Atual					: '1'
+Dias do ciclo atual			: '05'
+Intervalo de Ciclos			: '28'
+Nome do medico encaminhador	: 'Rommel'
+Exames Enviados				: 'ENVIAR BIOPSIA( JAN 26) E A ANTERIOR 2025, TC DE TÓRAX AGOSTO 26,PESQUISA DE INSTABILIDADE DE MICROSSATELITE E BIOPSIA LIQUIDA COM PESQUISA DE KRAS   NRAS E BRAF'
+Crioterapia					: 'Sim'
+
+
+-----------------------------------------------------------------------------------
+---------------------Log de Inclusao do Pedido de Tratamento------------------------
+Mensagem gerada pelo usuario	: 'tatyene.nehrer' em 11/08/2026
+-----------------------------------------------------------------------------------
+Codigo Paciente				: '5517'
+Paciente						: 'NEURIA SELESTE HOTTZ  PARADINHA '
+Convênio						: 'UNIMED'
+Peso							: '67 500'
+Altura							: '1,58'
+Sup Corp						: '1,67'
+Indicacao Clinica				: 'PACIENTE IDOSA E COM RECÉM DIAGNÓSTICO DE FRATURA PATOLÓGICA EM CORPO VERTEBRAL E DOR IMPORTANTE ASSOCIADA.LESÃO EXPANSIVA EM MAMA COM BIÓPSIA CONFIRMANDO CARCINOMA MAMÁRIO INVASOR.PET TC JULHO 26 REVELA DOENÇA LINFONODAL MEDIASTINAL/AXILAR E OUTROS SÍTIOS ÓSSEOS ACOMETIDOS.NECESSITA INICIO DE TRATAMENTO SIST~EMICO ONCOLÓGICO DIRECIONADO.'
+Data do Diagnostico			: ''2026-07-30''
+CID							: 'C50'
+Estadiamento					: 'IV'
+Tipo Quimio (Linha)			: '1 Linha'
+Finalidade						: 'Paliativo'
+Tipo de Tumor					: 'T2'
+Tipo de Nodulo					: 'N1'
+Tipo de Metastase				: 'M1'
+Plano Terapêutio				: 'PEÇO TRATAMENTO EM 1ª LINHA PALIATIVO:
+PALBOCICLIBE 125MG 1X DIA D1 A D21 SEGUIDO DE 7 DIAS  DE PAUSA( A CADA 28 DIAS)
+LETROZOL 2,5MG/COMP 1 COMP 1X DIA CONTÍNUO
+DENOSUMABE 120MG 1 FR SC A CADA 4 SEMANAS ( SE UNIMED NÃO AUTORIZAR: ZOMETA 4MG IV A CADA 28 DIAS)'
+Informações Relevantes			: 'PACIENTE IDOSA E COM RECÉM DIAGNÓSTICO DE FRATURA PATOLÓGICA EM CORPO VERTEBRAL E DOR IMPORTANTE ASSOCIADA.LESÃO EXPANSIVA EM MAMA COM BIÓPSIA CONFIRMANDO CARCINOMA MAMÁRIO INVASOR.PET TC JULHO 26 REVELA DOENÇA LINFONODAL MEDIASTINAL/AXILAR E OUTROS SÍTIOS ÓSSEOS ACOMETIDOS.NECESSITA INICIO DE TRATAMENTO SIST~EMICO ONCOLÓGICO DIRECIONADO.'
+Diagnóstico Histopatologico	: 'CARCINOMA MAMÁRIO INVASOR LUMINAL A E COM HER 1+'
+Tipo de Cirurgia				: 'NAO INDICADA'
+Área Irradiada					: 'SOLICITAMOS AVALIAÇÃO RXT ANTIALGICA EM CORPO VERTEBRAL FRATURADO'
+Data de Realização				: ''2026-08-11''
+Data da Aplicação				: ''2026-08-11''
+Observação Justificativa		: 'PACIENTE IDOSA E COM RECÉM DIAGNÓSTICO DE FRATURA PATOLÓGICA EM CORPO VERTEBRAL E DOR IMPORTANTE ASSOCIADA.LESÃO EXPANSIVA EM MAMA COM BIÓPSIA CONFIRMANDO CARCINOMA MAMÁRIO INVASOR.PET TC JULHO 26 REVELA DOENÇA LINFONODAL MEDIASTINAL/AXILAR E OUTROS SÍTIOS ÓSSEOS ACOMETIDOS.NECESSITA INICIO DE TRATAMENTO SIST~EMICO ONCOLÓGICO DIRECIONADO.'
+Quantidade de Ciclos Prevsitos	: 'INDETERMINADO '
+Ciclo Atual					: '01'
+Dias do ciclo atual			: ' 21 DIAS PALBO///28 LETROZOL E DENOSUMABE'
+Intervalo de Ciclos			: '28DIAS'
+Nome do medico encaminhador	: 'Dra Tereza Esteves'
+Exames Enviados				: 'BIOPSIA MAMARIA + IMUNO + PET TC E RM COLUNA( TODOS NO PRONTUARIO)'
+Crioterapia					: 'Não'
+
+
+-----------------------------------------------------------------------------------
+---------------------Log de Inclusao do Pedido de Tratamento------------------------
+Mensagem gerada pelo usuario	: 'monise.freitas' em 11/08/2026
+-----------------------------------------------------------------------------------
+Codigo Paciente				: '5517'
+Paciente						: 'NEURIA SELESTE HOTTZ  PARADINHA '
+Convênio						: 'UNIMED'
+Peso							: '67,50'
+Altura							: '1,58'
+Sup Corp						: '1,67'
+Indicacao Clinica				: ''PACIENTE IDOSA E COM RECÉM DIAGNÓSTICO DE FRATURA PATOLÓGICA EM CORPO VERTEBRAL E DOR IMPORTANTE ASSOCIADA.LESÃO EXPANSIVA EM MAMA COM BIÓPSIA CONFIRMANDO CARCINOMA MAMÁRIO INVASOR.PET TC JULHO 26 REVELA DOENÇA LINFONODAL MEDIASTINAL/AXILAR E OUTROS SÍTIOS ÓSSEOS ACOMETIDOS.NECESSITA INICIO DE TRATAMENTO SIST~EMICO'
+Data do Diagnostico			: ''2026-07-30''
+CID							: 'C50'
+Estadiamento					: 'IV'
+Tipo Quimio (Linha)			: '1 Linha'
+Finalidade						: 'Paliativo'
+Tipo de Tumor					: 'T2'
+Tipo de Nodulo					: 'N1'
+Tipo de Metastase				: 'M1'
+Plano Terapêutio				: 'PALBOCICLIBE 125MG 1X DIA D1 A D21 SEGUIDO DE 7 DIAS  DE PAUSA( A CADA 28 DIAS)
+LETROZOL 2,5MG/COMP 1 COMP 1X DIA CONTÍNUO
+DENOSUMABE 120MG 1 FR SC A CADA 4 SEMANAS ( SE UNIMED NÃO AUTORIZAR: ZOMETA 4MG IV A CADA 28 DIAS)''
+Informações Relevantes			: 'PACIENTE IDOSA E COM RECÉM DIAGNÓSTICO DE FRATURA PATOLÓGICA EM CORPO VERTEBRAL E DOR IMPORTANTE ASSOCIADA.LESÃO EXPANSIVA EM MAMA COM BIÓPSIA CONFIRMANDO CARCINOMA MAMÁRIO INVASOR.PET TC JULHO 26 REVELA DOENÇA LINFONODAL MEDIASTINAL/AXILAR E OUTROS SÍTIOS ÓSSEOS ACOMETIDOS.NECESSITA INICIO DE TRATAMENTO SIST~EMICO '
+Diagnóstico Histopatologico	: 'CARCINOMA MAMÁRIO INVASOR LUMINAL A E COM HER 1+'
+Tipo de Cirurgia				: 'NÃO INDICADA '
+Área Irradiada					: 'SOLICITAMOS AVALIAÇÃO RXT ANTIALGICA EM CORPO VERTEBRAL FRATURADO''
+Data de Realização				: ''2026-08-11''
+Data da Aplicação				: ''2026-08-11''
+Observação Justificativa		: ''
+Quantidade de Ciclos Prevsitos	: 'INDETERMINADO'
+Ciclo Atual					: '01'
+Dias do ciclo atual			: '21 dias Palbo e letrozol 30 dias'
+Intervalo de Ciclos			: '28'
+Nome do medico encaminhador	: ''
+Exames Enviados				: ''BIOPSIA MAMARIA + IMUNO + PET TC E RM COLUNA( TODOS NO PRONTUARIO)''
+Crioterapia					: 'Não'
+
+
+-----------------------------------------------------------------------------------
+---------------------Log de Inclusao do Pedido de Tratamento------------------------
+Mensagem gerada pelo usuario	: 'talira.matias' em 11/08/2026
+-----------------------------------------------------------------------------------
+Codigo Paciente				: '5517'
+Paciente						: 'NEURIA SELESTE HOTTZ  PARADINHA '
+Convênio						: 'UNIMED'
+Peso							: '67,5'
+Altura							: '1,58'
+Sup Corp						: '1,67'
+Indicacao Clinica				: 'PACIENTE IDOSA E COM RECÉM DIAGNÓSTICO DE FRATURA PATOLÓGICA EM CORPO VERTEBRAL E DOR IMPORTANTE ASSOCIADA.LESÃO EXPANSIVA EM MAMA COM BIÓPSIA CONFIRMANDO CARCINOMA MAMÁRIO INVASOR.PET TC JULHO 26 REVELA DOENÇA LINFONODAL MEDIASTINAL/AXILAR E OUTROS SÍTIOS ÓSSEOS ACOMETIDOS.NECESSITA INICIO DE TRATAMENTO SIST~EMICO ONCOLÓGICO DIRECIONADO.'
+Data do Diagnostico			: ''2026-07-30''
+CID							: 'C50'
+Estadiamento					: 'IV'
+Tipo Quimio (Linha)			: '1 Linha'
+Finalidade						: 'Paliativo'
+Tipo de Tumor					: 'T2'
+Tipo de Nodulo					: 'N1'
+Tipo de Metastase				: 'M1'
+Plano Terapêutio				: 'PEÇO TRATAMENTO EM 1ª LINHA PALIATIVO:
+PALBOCICLIBE 125MG 1X DIA D1 A D21 SEGUIDO DE 7 DIAS  DE PAUSA( A CADA 28 DIAS)
+LETROZOL 2,5MG/COMP 1 COMP 1X DIA CONTÍNUO
+DENOSUMABE 120MG 1 FR SC A CADA 4 SEMANAS ( SE UNIMED NÃO AUTORIZAR: ZOMETA 4MG IV A CADA 28 DIAS)'
+Informações Relevantes			: 'PACIENTE IDOSA E COM RECÉM DIAGNÓSTICO DE FRATURA PATOLÓGICA EM CORPO VERTEBRAL E DOR IMPORTANTE ASSOCIADA.LESÃO EXPANSIVA EM MAMA COM BIÓPSIA CONFIRMANDO CARCINOMA MAMÁRIO INVASOR.PET TC JULHO 26 REVELA DOENÇA LINFONODAL MEDIASTINAL/AXILAR E OUTROS SÍTIOS ÓSSEOS ACOMETIDOS.NECESSITA INICIO DE TRATAMENTO SIST~EMICO ONCOLÓGICO DIRECIONADO.
+'
+Diagnóstico Histopatologico	: 'CARCINOMA MAMÁRIO INVASOR LUMINAL A E COM HER 1+'
+Tipo de Cirurgia				: 'NAO INDICADA'
+Área Irradiada					: 'SOLICITAMOS AVALIAÇÃO RXT ANTIALGICA EM CORPO VERTEBRAL FRATURADO'
+Data de Realização				: ''2026-08-11''
+Data da Aplicação				: ''2026-08-11''
+Observação Justificativa		: 'PACIENTE IDOSA E COM RECÉM DIAGNÓSTICO DE FRATURA PATOLÓGICA EM CORPO VERTEBRAL E DOR IMPORTANTE ASSOCIADA.LESÃO EXPANSIVA EM MAMA COM BIÓPSIA CONFIRMANDO CARCINOMA MAMÁRIO INVASOR.PET TC JULHO 26 REVELA DOENÇA LINFONODAL MEDIASTINAL/AXILAR E OUTROS SÍTIOS ÓSSEOS ACOMETIDOS.NECESSITA INICIO DE TRATAMENTO SIST~EMICO ONCOLÓGICO DIRECIONADO.'
+Quantidade de Ciclos Prevsitos	: 'INDETERMINADO'
+Ciclo Atual					: '01'
+Dias do ciclo atual			: '21 DIAS PALBO///28 LETROZOL E DENOSUMABE'
+Intervalo de Ciclos			: '28DIAS'
+Nome do medico encaminhador	: 'Dra Tereza Esteves'
+Exames Enviados				: 'BIOPSIA MAMARIA + IMUNO + PET TC E RM COLUNA( TODOS NO PRONTUARIO)'
+Crioterapia					: 'Não'
+
+
+-----------------------------------------------------------------------------------
+---------------------Log de Inclusao do Pedido de Tratamento------------------------
+Mensagem gerada pelo usuario	: 'monise.freitas' em 13/08/2026
+-----------------------------------------------------------------------------------
+Codigo Paciente				: '3185'
+Paciente						: 'WASHINGTON LUIZ CAMPOS BONIFÁCIO'
+Convênio						: 'PMMG'
+Peso							: '91.00'
+Altura							: '1.75'
+Sup Corp						: '2.00'
+Indicacao Clinica				: 'PACIENTE PORTADOR DE NEOPLASIA DO CÓLON, OPERADO , T3N1- REALIZOU 12 CICLOS DE FOLFOX ( ÚLTIMO CICLO 08/07/2025). PERMANENCEU EM CONTROLE POR 1 ANO. EVOLUINDO COM RECIDIVA HEPATICA/ LINFONODAL / PULMONAR. NO MOMENTO ENCONTRA- SE NO SEGUNDO CICLO E QT PALIATIVA FOLFOX + BEVA, PORÉM EVOLUINO COM NEUTROPÊNIA. '
+Data do Diagnostico			: ''2024-10-10''
+CID							: 'C18'
+Estadiamento					: 'IV'
+Tipo Quimio (Linha)			: '1 Linha'
+Finalidade						: 'Paliativo'
+Tipo de Tumor					: 'T3'
+Tipo de Nodulo					: 'N1'
+Tipo de Metastase				: 'M1'
+Plano Terapêutio				: 'SOSLICITO FILGRASTIM 300MCG 5 FILGRASTIM PARA EVITAR ATRASO NO TRATAMENTO ONCOLÓGICO '
+Informações Relevantes			: 'NEUTROPENIA'
+Diagnóstico Histopatologico	: 'BIÓPSIA (14/10/24): FORTEMENTE SUGESTIVO DE ADENOCARCINOMA '
+Tipo de Cirurgia				: '::::: ENTERECTOMIA + ENTEROANASTOMOSE JEJUNO-JEJUNAL LATERO-LATERAL  => LHP ( 18/10/224):ADENOCARCINOMA ADENOMA LIKE , BAIXO GRAU MODERADAMENTE DIFERENCIADO INFILTRNDO ATÉ SUBMUCOSA E TECIDO ADIPOSO PERI-INTESTINAL, IAL E IPN AUSENTE, MAGENS LIVRES N+ 3/25  , OMENTECTOMIA SEM PARTICULARIDADES- PT3PN1B
+'
+Área Irradiada					: ''
+Data de Realização				: ''2024-10-18''
+Data da Aplicação				: ''2024-11-19''
+Observação Justificativa		: 'NEUTROPENIA'
+Quantidade de Ciclos Prevsitos	: 'IND'
+Ciclo Atual					: '01'
+Dias do ciclo atual			: 'D A D5'
+Intervalo de Ciclos			: '14'
+Nome do medico encaminhador	: 'CONRADO'
+Exames Enviados				: 'EXAME DE SANGUE E RELATORIO'
+Crioterapia					: ''
+
+
+-----------------------------------------------------------------------------------
+---------------------Log de Inclusao do Pedido de Tratamento------------------------
+Mensagem gerada pelo usuario	: 'monise.freitas' em 13/08/2026
+-----------------------------------------------------------------------------------
+Codigo Paciente				: '4513'
+Paciente						: 'ERIKA DE CARVALHO SCARLATELLI'
+Convênio						: 'UNIMED'
+Peso							: '71.00'
+Altura							: '1.67'
+Sup Corp						: '1.78'
+Indicacao Clinica				: 'PACIENTE PORTADORA DE NEOPLASIA MALIGNA DA MAMA ESQUERDA, OPERADA - T2N1- EC IIB COM NECESSIDADE DE INICIAR TRATAMENTO ONCOLÓGICO. REALIZOU QT ADUVANTE E COM INDICAÇAO DE ABEMACICLIBE + LETROZOL '
+Data do Diagnostico			: ''2025-09-01''
+CID							: 'C50'
+Estadiamento					: 'II'
+Tipo Quimio (Linha)			: '1 Linha'
+Finalidade						: 'Adjuvante'
+Tipo de Tumor					: 'T2'
+Tipo de Nodulo					: 'N1'
+Tipo de Metastase				: 'M0'
+Plano Terapêutio				: 'ABEMACICLIBE 150MG - 01 COMP DE 12/12 HORAS POR 2 ANOS + LETROZOL 2,5MG  - 01 COMP AO DIA POR 2 ANOS '
+Informações Relevantes			: 'PATOLOGIA DA CIRURGIA + IMH + FISH'
+Diagnóstico Histopatologico	: ' 
+
+BIÓPSIA DA MAMA (01/09/25): CARCINOMA DA MAMA INVASOR, GRAU II
+
+IMH (19/09/25): RE 100% / RP NEGATIVO / KI67 15-20%/ HER 2 : 1+
+'
+Tipo de Cirurgia				: 'SETORECTOMIA DA MAMA ESQUERDA (11/11/25): CARCINOMA DUCTAL INFILTRANTE,TAMANHO 2,7X2,3 , GRAU 2, MODERADAMENTE DIFERENCIADO, INVASÕES PERINEURAIS E ANGIOLINFÁTICAS NÃO DETECTADAS, MARGENS LIVRES.  CARCINOMA DUCTAL METASTÁTICO 1 DE 3 LINFONODOS - T2 N1 - EC IIB
+
+IMH (29/12/25): RE 80-90% / RP NEGATIVO / KI67 10-20% / HER 2 2+
+IMH DO LINFODO (02/02/26): RE 90-100% / RP NEGATIVO / HER 2 : 1/ KI67: 10-20%'
+Área Irradiada					: ''
+Data de Realização				: ''2025-11-11''
+Data da Aplicação				: ''2026-02-24''
+Observação Justificativa		: 'TUMOR DE MAMA ESQUERDA, OPERADA, EC II, REALIZOU QT ADJUVANTE (AC + TAXOL SEMNALA) COM INDICAÇÃO DE ABEMACICLIBE + LETROZOL POR 2 ANOS
+LINFONODO POSITIVO COM KI67 20%'
+Quantidade de Ciclos Prevsitos	: '24'
+Ciclo Atual					: '01'
+Dias do ciclo atual			: '30'
+Intervalo de Ciclos			: '30'
+Nome do medico encaminhador	: 'João Carlos ARANTES'
+Exames Enviados				: 'SETORECTOMIA, IMH, IMH DO LINFONODO, FISH'
+Crioterapia					: ''
+
+
+-----------------------------------------------------------------------------------
+---------------------Log de Inclusao do Pedido de Tratamento------------------------
+Mensagem gerada pelo usuario	: 'paulla.chaves' em 18/08/2026
+-----------------------------------------------------------------------------------
+Codigo Paciente				: '913'
+Paciente						: 'MARIA DE FATIMA SILVA FILHO '
+Convênio						: 'PMMG'
+Peso							: '100.00'
+Altura							: '165.00'
+Sup Corp						: '2.14'
+Indicacao Clinica				: 'PACIENTE COM PERDA DE RESPOSTA MOLECULAR EM TERCEIRA LINHA TERAPÊUTICA.'
+Data do Diagnostico			: ''2026-07-07''
+CID							: 'C92'
+Estadiamento					: ''
+Tipo Quimio (Linha)			: '3 Linha'
+Finalidade						: 'Paliativo'
+Tipo de Tumor					: 'Nao Se Aplica'
+Tipo de Nodulo					: 'Nao Se Aplica'
+Tipo de Metastase				: 'Nao Se Aplica'
+Plano Terapêutio				: 'NILOTINIBE 400MG DE 12/12H'
+Informações Relevantes			: 'PACIENTE COM TOXICIDADE HEPÁTICA E PROGRESSÃO DE DOENÇA COM IMATINIBE.
+EM USO DE DASATINIBE DESDE 01/2023 COM PERDA DE RESPOSTA MOLECULAR NO ULTIMO EXAME.'
+Diagnóstico Histopatologico	: 'LMC EM PERDA DE RESPOSTA'
+Tipo de Cirurgia				: '-'
+Área Irradiada					: '-'
+Data de Realização				: ''2026-07-07''
+Data da Aplicação				: ''2026-07-07''
+Observação Justificativa		: ''
+Quantidade de Ciclos Prevsitos	: '36'
+Ciclo Atual					: '1'
+Dias do ciclo atual			: '30'
+Intervalo de Ciclos			: '1'
+Nome do medico encaminhador	: 'Paulla Rayane Chaves Utsch'
+Exames Enviados				: '-'
+Crioterapia					: ''
+
+
+-----------------------------------------------------------------------------------
+---------------------Log de Inclusao do Pedido de Tratamento------------------------
+Mensagem gerada pelo usuario	: 'anapaula.rizzo' em 19/08/2026
+-----------------------------------------------------------------------------------
+Codigo Paciente				: '1869'
+Paciente						: 'JOSE CARLOS RIBEIRO MAURICIO'
+Convênio						: 'PMMG'
+Peso							: '108.00'
+Altura							: '167.00'
+Sup Corp						: '2.25'
+Indicacao Clinica				: 'NEOPLASIA MALIGNA DA MAMA, OPERADO, LUMINAL A, FEZ USO DE TAMOXIFENO. EVLOLUINDO COM LESÃO PULMONAR, BIOPSIADO - METÁSTASE DE NEOPLASIA MALIGNA DA MAMA - TRIPLO NEGATIVO REALIZOU QUIMIOTERAPIA VENOSA, EVOLUINDO COM PROGRESSÃO DA LESÃO PULMONAR. SOLICITO TROCA DO ESQUEMA'
+Data do Diagnostico			: ''2024-01-03''
+CID							: 'C50'
+Estadiamento					: 'IV'
+Tipo Quimio (Linha)			: '2 Linha'
+Finalidade						: 'Paliativo'
+Tipo de Tumor					: 'T1'
+Tipo de Nodulo					: 'N0'
+Tipo de Metastase				: 'M1'
+Plano Terapêutio				: 'SACITUZUMABE 10MG/KG -DOSE DE 1080MG IV D1, D8, A CADA 21 DIAS 
+ONDANSETRONA 8MG - IV UM AMAPOLA D1/D8 A CADA 21 DIAS.  
+'
+Informações Relevantes			: 'TUMOR DE MAMA NO SEXO MASCULINO, METÁSTASE PULMONAR BIOPSIADO, TRIPLO NEGATIVO, PROGRESSÃO APÓS QUIMIOTERAPIA  COM TAXOL SEMANAL, EVOLUINDO COM PROGRESSÃO TUMORAL. SOLICITO SACITUZUMABE. '
+Diagnóstico Histopatologico	: 'IMH DA BIÓPSIA PULMONAR(03/02/26) CARCINOMA DA MAMA METASTÁTICO 
+
+IMH(23/02/26): RE E RP NEGATIVO - HER -2 DUVIDOSO/ KI67:40% 
+
+FISH (09/03/26): FISH NEGATIVO --------- TRIPLO NEGATIVO 
+
+
+'
+Tipo de Cirurgia				: 'MASTECTOMIA DA MAMA DIREITA (06/06/24): CARCINOMA INVASIVO DA MAMA PRIMÁRIO?GRAU 2/ TAMANHO DO TUMOR 1,8X1,6CM INVASÃO VASCULAR E PERINEURAL AUSENTES. PELE E MAMILO LIVRE, MARGENS LIVRES. / LINFONDO: 0/1 ESTUDADO
+'
+Área Irradiada					: ''
+Data de Realização				: ''2026-02-03''
+Data da Aplicação				: ''2024-06-11''
+Observação Justificativa		: 'TUMOR DE MAMA NO SEXO MASCULINO, OPERADO, LUMINAL A, REALIZOU USO DE TAMOXIFENO. EVOLUIU COM LESÃO PULMONAR , BIOPSIADA, CANCER METASTÁTCO DA MAMA, TRIPLO NEGATIVO. REALIZOU TRATAMENTO QUIMIOTERÁPICO , PORÉM EVOLUINDO COM PROGRESSÃO DA DOENÇA NECESSITANDO A TROCA DA MEDICAÇÃO. '
+Quantidade de Ciclos Prevsitos	: '12'
+Ciclo Atual					: '01'
+Dias do ciclo atual			: 'D1,D8'
+Intervalo de Ciclos			: '21'
+Nome do medico encaminhador	: 'Dra Raquel'
+Exames Enviados				: 'EXAMES EM ANEXO
+TC DE CRÂNIO, ABDOME E TORAX'
+Crioterapia					: ''
+
+
+-----------------------------------------------------------------------------------
+---------------------Log de Inclusao do Pedido de Tratamento------------------------
+Mensagem gerada pelo usuario	: 'milena.ribeiral' em 25/08/2026
+-----------------------------------------------------------------------------------
+Codigo Paciente				: '4689'
+Paciente						: 'LUCINEIA ROBERTO MARTINS '
+Convênio						: 'UNIMED'
+Peso							: '65'
+Altura							: '160'
+Sup Corp						: '1,54'
+Indicacao Clinica				: 'carcinoma de mama receptor hormonal positivo '
+Data do Diagnostico			: ''2025-08-02''
+CID							: 'C50'
+Estadiamento					: 'IV'
+Tipo Quimio (Linha)			: '1 Linha'
+Finalidade						: 'Paliativo'
+Tipo de Tumor					: 'T2'
+Tipo de Nodulo					: 'NX'
+Tipo de Metastase				: 'M1'
+Plano Terapêutio				: 'anastrozol 1 mg 1cp ao dia '
+Informações Relevantes			: 'paciente submetida a setorectomia de mama esquerda, seguido por radioterapia, evolui com metastases hepáticas e pulmonares .'
+Diagnóstico Histopatologico	: 'carcinoma invasor de mama SOE '
+Tipo de Cirurgia				: 'setorectomia de mama '
+Área Irradiada					: 'mama esquerda '
+Data de Realização				: ''2025-09-26''
+Data da Aplicação				: ''2026-01-05''
+Observação Justificativa		: 'paciente idosa, 84 anos, com comorbidades, visando controle de doença mas com menor toxicidade, opto por terapia endócrina exclusiva '
+Quantidade de Ciclos Prevsitos	: 'indeteminado '
+Ciclo Atual					: '01'
+Dias do ciclo atual			: '30'
+Intervalo de Ciclos			: '0'
+Nome do medico encaminhador	: 'patricia'
+Exames Enviados				: 'biopsias, imunohistoquimica, tc de torax e abdome '
+Crioterapia					: 'Não'
+
+
+-----------------------------------------------------------------------------------
+---------------------Log de Inclusao do Pedido de Tratamento------------------------
+Mensagem gerada pelo usuario	: 'monise.freitas' em 27/08/2026
+-----------------------------------------------------------------------------------
+Codigo Paciente				: '4663'
+Paciente						: 'MARISE ANGELICA MOREIRA '
+Convênio						: 'FUNDAFFEMG'
+Peso							: '0.00'
+Altura							: '0.00'
+Sup Corp						: '0.00'
+Indicacao Clinica				: 'ANEMIA FERROPRIVA EM PACIENTE COM DOENÇA DE CHRON E PEQUENA INGESTA  .  '
+Data do Diagnostico			: ''2025-11-20''
+CID							: 'null'
+Estadiamento					: ''
+Tipo Quimio (Linha)			: ''
+Finalidade						: ''
+Tipo de Tumor					: ''
+Tipo de Nodulo					: ''
+Tipo de Metastase				: ''
+Plano Terapêutio				: 'SACARATO DE HIDRÓXIDO - 06 AMPOLAS ADMINISTRAR DUAS VEZES POR SEMANA, EM DIAS NÃO CONSECUTIVOS.'
+Informações Relevantes			: 'ANEMIA FERROPRIVA EM PACIENTE COM DOENÇA DE CHRON E PEQUENA INGESTA -MANTIDO DIMINUIÇÃO DE FERRO DE DEPÓSITO  + HIPERCOLESTEROLEMIA (INICIARÁ MEDICAÇÃO) + DIMINUIÇÃO VIT D. HIPOTIREOIDISMO SUBCLÍNICO
+'
+Diagnóstico Histopatologico	: ''
+Tipo de Cirurgia				: ''
+Área Irradiada					: ''
+Data de Realização				: ''2025-11-20''
+Data da Aplicação				: ''2025-11-20''
+Observação Justificativa		: 'PACIENTE COM ANEMIA FERROPRIVA E PELA DOENÇA DE CHRON NÃO ABSORVE FERRO POR VIA ORAL. PRESCRITO UM TOTAL DE 10 (DEZ) AMPOLAS DE SACARATO DE HIDRÓXIDO FÉRRICO, EV, ADMINISTRADO CONFORME PRESCRIÇÃO MÉDICA. '
+Quantidade de Ciclos Prevsitos	: '01'
+Ciclo Atual					: '01'
+Dias do ciclo atual			: '03'
+Intervalo de Ciclos			: '3'
+Nome do medico encaminhador	: ''
+Exames Enviados				: 'EX (sangue) 01/08/2026'
+Crioterapia					: ''
+
+
+-----------------------------------------------------------------------------------
+---------------------Log de Inclusao do Pedido de Tratamento------------------------
+Mensagem gerada pelo usuario	: 'monise.freitas' em 31/08/2026
+-----------------------------------------------------------------------------------
+Codigo Paciente				: '3145'
+Paciente						: 'VALERIA APARECIDA DOS SANTOS GOMES'
+Convênio						: 'UNIMED'
+Peso							: '76'
+Altura							: '1,72'
+Sup Corp						: '1,80'
+Indicacao Clinica				: 'PACIENTE COM CANCER RENAL OPERADO ( NEFRECTOMIA ) pT3pN0, ALTO RISCO DE RECIDIVA PEÇO IMUNOTERAPIA ADJUVANTE '
+Data do Diagnostico			: ''2026-08-19''
+CID							: 'C64'
+Estadiamento					: 'III'
+Tipo Quimio (Linha)			: '1 Linha'
+Finalidade						: 'Adjuvante'
+Tipo de Tumor					: 'T3'
+Tipo de Nodulo					: 'N0'
+Tipo de Metastase				: 'M0'
+Plano Terapêutio				: 'PEÇO IMUNOTERAPIA ADJUVANTE COM PEMBROLIZUMABE 200MG IV 21/21 DIAS POR 17 CICLOS. '
+Informações Relevantes			: 'PACIENTE COM CARCINMA DE CELULAS CLARAS RENAL pT3pN0, ALTO RISCO ECIV SUBMETIDA A NEFRECTOMIA ESQUERDA E NECESSITANDO IMUNOTERAPIA ADJUVANTE POR 1 ANO (= 17 CICLOS) '
+Diagnóstico Histopatologico	: 'CARCINOMA DE CÉLULAS RENAIS PADRÃO CÉLULAS CLARAS pT3 GRAU 4 C ÁREAS SARCOMATÓIDES COM EXTENSÃO Á GORDURA PERIRRENAL'
+Tipo de Cirurgia				: 'NEFRECTOMIA ESQUERDA '
+Área Irradiada					: ''
+Data de Realização				: ''2026-08-14''
+Data da Aplicação				: ''0001-01-01''
+Observação Justificativa		: 'PACIENTE COM CARCINMA DE CELULAS CLARAS RENAL pT3pN0, ALTO RISCO ECIV SUBMETIDA A NEFRECTOMIA ESQUERDA E NECESSITANDO IMUNOTERAPIA ADJUVANTE POR 1 ANO (= 17 CICLOS)'
+Quantidade de Ciclos Prevsitos	: '17'
+Ciclo Atual					: '01'
+Dias do ciclo atual			: '01'
+Intervalo de Ciclos			: '21'
+Nome do medico encaminhador	: '...'
+Exames Enviados				: 'LAUDO DE NEFRECTOMIA SAP RESSONANCIA ABDOME E TOMOGRAFIA TÓRAX '
+Crioterapia					: 'Não'
+
+
+-----------------------------------------------------------------------------------
+---------------------Log de Inclusao do Pedido de Tratamento------------------------
+Mensagem gerada pelo usuario	: 'monise.freitas' em 31/08/2026
+-----------------------------------------------------------------------------------
+Codigo Paciente				: '5129'
+Paciente						: 'VALÉRIA CRISTINA FERREIRA PEREIRA'
+Convênio						: 'UNIMED'
+Peso							: '76'
+Altura							: '1,72'
+Sup Corp						: '1,80'
+Indicacao Clinica				: 'Paciente com cancer renal operado (Nefrectomia) pT3 pN0, alto risco de recidiva. Peço imunoterapia adjuvante. '
+Data do Diagnostico			: ''2026-08-19''
+CID							: 'C64'
+Estadiamento					: 'III'
+Tipo Quimio (Linha)			: '1 Linha'
+Finalidade						: 'Adjuvante'
+Tipo de Tumor					: 'T3'
+Tipo de Nodulo					: 'NX'
+Tipo de Metastase				: 'M0'
+Plano Terapêutio				: 'PEÇO IMUNOTERAPIA ADJUVANTE COM PEMBROLIZUMABE 200MG IV 21/21 DIAS POR 17 CICLOS ADJUVANTES. '
+Informações Relevantes			: 'PACIENTE COM CARCINOMA DE CÉLULAS CLARAS RENAL, pT3 pN0, ALTO RISCO , ECIV SUBMETIDA A NEFRECTOMIA ESQUERDA E NECESSITANDO IMUNOTERAPIA ADJUVANTE POR 1 NAOS (=17 CICLOS ) '
+Diagnóstico Histopatologico	: 'CARCINOMA DE CELULAS RENAIS PADRÃO CÉLULAS CLARAS pT3 GRAU 4 COM ÀREAS SARCOMATÓIDES COM EXTENSÃO À GORDURA PERIRRENAL. '
+Tipo de Cirurgia				: 'NEFRECTOMIA ESQUERDA '
+Área Irradiada					: ''
+Data de Realização				: ''2026-08-14''
+Data da Aplicação				: ''0001-01-01''
+Observação Justificativa		: ''
+Quantidade de Ciclos Prevsitos	: '17'
+Ciclo Atual					: '01'
+Dias do ciclo atual			: '01'
+Intervalo de Ciclos			: '21'
+Nome do medico encaminhador	: 'LÍDICE '
+Exames Enviados				: 'LAUDO DE  NEFRECTOMIA SAP + RESSONANCIA ABDOME E TOMOGRAFIA TÓRAX '
+Crioterapia					: ''
+
+
+-----------------------------------------------------------------------------------
+---------------------Log de Inclusao do Pedido de Tratamento------------------------
+Mensagem gerada pelo usuario	: 'tatyene.nehrer' em 01/09/2026
+-----------------------------------------------------------------------------------
+Codigo Paciente				: '5581'
+Paciente						: 'ANGELA MARIA GANIMI TOLEDO'
+Convênio						: 'UNIMED'
+Peso							: '94500'
+Altura							: '1,60'
+Sup Corp						: '2,0'
+Indicacao Clinica				: 'PACIENTE IDOSA, RECÉM DIGANÓSTICO DE CARCINOMA SEROSO DE ENDOMETRIO AVANÇADO ( IMPLANTE PERITONEAL) SUBMETIDA A PANHISTERECTOMIA E LAVADO PERITONEAL(+) NECESSITANDO TRATAMENTO SISTÊMICO PALIATIVO SOB FORMA DE PACLITAXEL + CARBOPLATINA + PEMBROLIZUMABE.'
+Data do Diagnostico			: ''2026-08-17''
+CID							: 'C54'
+Estadiamento					: 'IV'
+Tipo Quimio (Linha)			: '1 Linha'
+Finalidade						: 'Paliativo'
+Tipo de Tumor					: 'T3'
+Tipo de Nodulo					: 'N1'
+Tipo de Metastase				: 'M1'
+Plano Terapêutio				: 'PEÇO CONFORME KEYNOTE 868/NRG GY018:
+CARBOPLATINA AUC 5(440MG) IV D1
+PACLITAXEL 175MG/M² ( 360MG) IV D1
+PEMBROLIZUMABE 200MG IV D1
+CICLOS A CADA 21 DIAS ATÉ TOTAL DE 6 CICLOS.
+APÓS, SEGUIRA COM PEMBROLIZUMABE ISOLADO 400MG IV A CADA  6 SEMANAS ATE COMPLETAR 24 MESES DE TRATAMENTO, OU SEJA,14 CICLOS ( MANUTENÇÃO)
+ANTI EMÉTICOS:
+FOSAPREPITANTO 150MG E GRANISETRONA 1MG IV D1 POR 6 CICLOS
+'
+Informações Relevantes			: 'PACIENTE COM RECÉM DIAGNÓSTICO DE CARCINOMA SEROSO DE ALTO GRAU DE ENDOMÉTRIO, OPERADA E COM ENCONTRO DE IMPLANTES EM PERITONEO(FIGO IV) COM  LAVADO PERITONEAL POSITIVO.PANHISTERECTOMIZADA + AMOSTRAGEM LINFONODAL (+)SENTINELA.PEÇO QT + IMUNOTERAPIA DE FORMA PALIATIVA NOS MOLDES DO KEYNOTE868.'
+Diagnóstico Histopatologico	: 'CARCINOMA SEROSO DE ENDOMÉTRIO ( EM TRAMITE EPSQUISA DE HER/INSTABILIDADE DE MICROSSATELITE E P53, RECEPTORES HORMONAIS)'
+Tipo de Cirurgia				: 'PANHISTERECTOMIA + SENTINELA E LAVADO PERITONEAL'
+Área Irradiada					: 'NAO'
+Data de Realização				: ''2026-08-17''
+Data da Aplicação				: ''2026-09-01''
+Observação Justificativa		: 'PACIENTE COM RECÉM DIAGNÓSTICO DE CARCINOMA SEROSO DE ALTO GRAU DE ENDOMÉTRIO, OPERADA E COM ENCONTRO DE IMPLANTES EM PERITONEO(FIGO IV) COM  LAVADO PERITONEAL POSITIVO.PANHISTERECTOMIZADA + AMOSTRAGEM LINFONODAL (+)SENTINELA.PEÇO QT + IMUNOTERAPIA DE FORMA PALIATIVA NOS MOLDES DO KEYNOTE868.'
+Quantidade de Ciclos Prevsitos	: '6'
+Ciclo Atual					: '01'
+Dias do ciclo atual			: '01'
+Intervalo de Ciclos			: '21'
+Nome do medico encaminhador	: 'paciente meu'
+Exames Enviados				: 'LAUDO DA CIRURGIA ( CIDAP), RM PELVE E TC DE TÓRAX E ABDOME, COLONOSCOPIA E ENDOSCOPIA DIGESTIVA ALTA.'
+Crioterapia					: 'Sim'
+
+
+-----------------------------------------------------------------------------------
+---------------------Log de Inclusao do Pedido de Tratamento------------------------
+Mensagem gerada pelo usuario	: 'milena.ribeiral' em 01/09/2026
+-----------------------------------------------------------------------------------
+Codigo Paciente				: '5072'
+Paciente						: 'ANA LUIZA ITABIRANO FERNANDES DE SOUZA'
+Convênio						: 'UNIMED'
+Peso							: '68'
+Altura							: '165'
+Sup Corp						: '1,65'
+Indicacao Clinica				: 'carcinoma de mama luminal com recidiva em pulmão '
+Data do Diagnostico			: ''2021-04-06''
+CID							: 'C50'
+Estadiamento					: 'IV'
+Tipo Quimio (Linha)			: '1 Linha'
+Finalidade						: 'Adjuvante'
+Tipo de Tumor					: 'T1'
+Tipo de Nodulo					: 'N0'
+Tipo de Metastase				: 'M1'
+Plano Terapêutio				: 'zoladex 3,6mg sc a cada 28dias 
+letrozol 2,5mg 1 cp ao dia continuamente 
+ribociclibe 600mg 1cp  do d1 a d21 a cada28/28dias 
+'
+Informações Relevantes			: 'paciente jovem ,na perimenopausa com recididva pulmonar em vigencia de tamoxifeno adjuvante '
+Diagnóstico Histopatologico	: 'carcinoma pouco diferenciado'
+Tipo de Cirurgia				: 'adenomastectomia direita e pesquisa de BLS '
+Área Irradiada					: 'mama direita'
+Data de Realização				: ''2021-07-13''
+Data da Aplicação				: ''2022-04-25''
+Observação Justificativa		: 'paciente com progressão unica pulmonar , apos adenomastectomia, qt adjuvante, radioterapia adjuvante e 4 anos e meio com tamoxifeno '
+Quantidade de Ciclos Prevsitos	: 'indeterminado '
+Ciclo Atual					: '01'
+Dias do ciclo atual			: '30- letrozol, 1 zoladex, 21 ribociclibe '
+Intervalo de Ciclos			: '0 letrozol, 28 -zoladex e ribociclibe '
+Nome do medico encaminhador	: 'Joao Carlos Arantes Jr'
+Exames Enviados				: 'biopsias e imuno de 021, biopsia pulmonar e imunohistoquimica pulmonar ( de 2026), pet ct 2026'
+Crioterapia					: ''
+
+
+-----------------------------------------------------------------------------------
+---------------------Log de Inclusao do Pedido de Tratamento------------------------
+Mensagem gerada pelo usuario	: 'tatyene.nehrer' em 08/09/2026
+-----------------------------------------------------------------------------------
+Codigo Paciente				: '5597'
+Paciente						: 'SHEILA APARECIDA FERRO'
+Convênio						: 'UNIMED'
+Peso							: '62'
+Altura							: '1,68'
+Sup Corp						: '1,7'
+Indicacao Clinica				: 'PACIENTE COM RECÉM DIAGNÓSTICO DE ASTROCITOMA DE ALTO GRAU IDH MUTANTE COM EXTENSA DOENÇA RESIDUAL PÓS CIRURGIA E NECESSITANDO PRONTO INÍCIO DE TRATAMENTO RADIOTERÁPICO CONCOMITANTE A USO DE TEMODAL ( 1ª ETAPA).'
+Data do Diagnostico			: ''2026-07-14''
+CID							: 'C71'
+Estadiamento					: 'IV'
+Tipo Quimio (Linha)			: '1 Linha'
+Finalidade						: 'Adjuvante'
+Tipo de Tumor					: 'TX'
+Tipo de Nodulo					: 'Nao Se Aplica'
+Tipo de Metastase				: 'Nao Se Aplica'
+Plano Terapêutio				: 'PEÇO TEMOZOLOMIDA EM CONCOMITANCIA A RXT ( 1ª ETAPA):
+TEMOZOLOMIDA 75MG/M²/DIA ( DOSE TOTAL 130MG AO DIA) POR 42 DIAS CONSECUTIVOS CONCOMITANTE A RADIOTERAPIA ( INCLUINDO SABADOS E DOMINGOS).
+NA 2ª ETAPA: TEMOZOLOMIDA  200MG/²/DIA DE D1 A D5 A CADA 28 DIAS POR 6 A 12 CICLOS ADJUVANTES.'
+Informações Relevantes			: 'PACIENTE JOVEM COM RECEM DIAGNÓSTICO DE ASTROCITOMA DE ALTO GRAU CEREBRAL IDH MUTANTE E COM DECLÍNICO IMPORTANTE DE FALA E EQUILÍBRIO.EXTENSA DOENÇA RESIDUAL POS CIRURGIA.PEÇO TEMOZOLOMIDA CONCOMITANTE A RXT ( 1ª ETAPA) E ADJUVANTE ISOLADAMENTE ( 2ª ETAPA).'
+Diagnóstico Histopatologico	: 'ASTROCITOMA DE ALTO GRAU IDH MUTANTE'
+Tipo de Cirurgia				: 'CIRURGIA COM RESSECÇÃO PARCIAL'
+Área Irradiada					: 'SOLICITADA'
+Data de Realização				: ''2026-07-14''
+Data da Aplicação				: ''2026-09-08''
+Observação Justificativa		: 'PACIENTE JOVEM COM RECEM DIAGNÓSTICO DE ASTROCITOMA DE ALTO GRAU CEREBRAL IDH MUTANTE E COM DECLÍNICO IMPORTANTE DE FALA E EQUILÍBRIO.EXTENSA DOENÇA RESIDUAL POS CIRURGIA.PEÇO TEMOZOLOMIDA CONCOMITANTE A RXT ( 1ª ETAPA) E ADJUVANTE ISOLADAMENTE ( 2ª ETAPA).'
+Quantidade de Ciclos Prevsitos	: '01 CICLO INICIAL CONCOMITANTE RXT'
+Ciclo Atual					: '01'
+Dias do ciclo atual			: '42'
+Intervalo de Ciclos			: '28'
+Nome do medico encaminhador	: 'Familiar conhecido'
+Exames Enviados				: 'BIOPSIA CIDAP E TODAS AS IMUNOHISTOQUIMICAS DO BACCHI + RM CEREBRO HOSPITAL UNIMED E TC DE CEREBRO ( POS OPERATÓRIO) DO HOSPIITAL DA UNIMED TAMBEM'
+Crioterapia					: ''
+
+
+-----------------------------------------------------------------------------------
+---------------------Log de Inclusao do Pedido de Tratamento------------------------
+Mensagem gerada pelo usuario	: 'anapaula.rizzo' em 09/09/2026
+-----------------------------------------------------------------------------------
+Codigo Paciente				: '5478'
+Paciente						: 'LUCINDA DO COUTO BEPLER'
+Convênio						: 'DEZOITO DE JULHO'
+Peso							: '62'
+Altura							: '156'
+Sup Corp						: '1.64'
+Indicacao Clinica				: 'NEOPLASIA MALIGNA DO COLO D EÚTERO LOCALMENTE AVANÇADA COM NECESSIDADE DE TRATAMENTO ONCOLÓGICO COM QUIMIOETARPIA CONCOMITANTE A RADIOTERAPIA + IMUNOTERAPIA '
+Data do Diagnostico			: ''2026-07-22''
+CID							: 'C53'
+Estadiamento					: 'III'
+Tipo Quimio (Linha)			: '1 Linha'
+Finalidade						: 'Adjuvante'
+Tipo de Tumor					: 'TX'
+Tipo de Nodulo					: 'NX'
+Tipo de Metastase				: 'M0'
+Plano Terapêutio				: 'CISPLATINA 40MG/M2 - DOSE DE 65MG IV A CADA 7 DIAS  POR 06 CICLOS CONCOMITANTE A RADIOTERAPIA 
+PEMBROLIZUMABE 200MG - IV A CADA 21 DIAS POR 05 CICLOS 
+GRANISTERONA 3MG - IV A CADA 7 DIAS POR 6 CICLOS 
+
+2º ETAPA- 15 CICLOS DE PEMBRO 400MG A CADA 6 SEMANAS '
+Informações Relevantes			: 'NEOPLASIA MALIGNA DO COLO D EÚTERO LOCALMENTE AVANÇADA COM NECESSIDADE DE TRATAMENTO ONCOLÓGICO COM QUIMIOETARPIA CONCOMITANTE A RADIOTERAPIA + IMUNOTERAPIA '
+Diagnóstico Histopatologico	: 'BIÓPSIA DE COLO DE ÚTERO (22/07/26): ADENOCARCINOMA, SUBTIPO ENDOMETRIOIDE 
+
+ 
+
+NOVA BIÓPSIA SERVIÇO SAP- (03/09/26): ADENOCARCINOMA INVASOR DE PADRÃO ENDOMETRIOIDE MODERADAMNETE DIFERENCIADO - NECESSÁRIO IMH
+'
+Tipo de Cirurgia				: ''
+Área Irradiada					: ''
+Data de Realização				: ''2026-09-09''
+Data da Aplicação				: ''2026-09-09''
+Observação Justificativa		: 'PACIENTE JOVEM COM NEOPLASIA MALIGNA DO COLO DE ÚTERO LOCALMENTE AVANÇADA COM NECESSIDADE DE TRATAMENTO ONCOLÓGICO COM QUIMIOETARPIA CONCOMITANTE A RADIOTERAPIA + IMUNOTERAPIA '
+Quantidade de Ciclos Prevsitos	: '06'
+Ciclo Atual					: '01'
+Dias do ciclo atual			: '01'
+Intervalo de Ciclos			: '07'
+Nome do medico encaminhador	: ''
+Exames Enviados				: 'EM ANEXO '
+Crioterapia					: ''
+
+
+-----------------------------------------------------------------------------------
+---------------------Log de Inclusao do Pedido de Tratamento------------------------
+Mensagem gerada pelo usuario	: 'tatyene.nehrer' em 15/09/2026
+-----------------------------------------------------------------------------------
+Codigo Paciente				: '1565'
+Paciente						: 'MARCOS CORREA'
+Convênio						: 'SAUDE SINAI'
+Peso							: '63.00'
+Altura							: '1.83'
+Sup Corp						: '2.00'
+Indicacao Clinica				: 'PACIENTE COM RECENTE DIAGNÓSTICO DE LESÃO NEOPLÁSICA DE COLON DIREITO ( SEM OBSTRUÇÃO SIGNIFICATIVA) E METASTASES HEPÁTICAS IRRESSECAVEIS.REALIZOU  QT PALIATIVA FOLFOX + BEVACIZUMABE 1ª LINHA COM CONTROLE ADEQUADO DE DOENÇA.INFELIZMENTE, EM SET/26 INICIOU ASCITE (CARCINOMATOSE PERITONEAL) E PROGRESSÃO HEPÁTICA.
+APRESENTA ESTABILIDADE DE MICROSSATELITE E NRAS MUTADO/BRAF SELVAGEM.
+PEÇO QT PALIATIVA 2ª LINHA SOB ESQUEMA FOLFIRI + BEVACIZUMABE.
+'
+Data do Diagnostico			: ''2026-03-25''
+CID							: 'C18'
+Estadiamento					: 'IV'
+Tipo Quimio (Linha)			: '2 Linha'
+Finalidade						: 'Paliativo'
+Tipo de Tumor					: 'T2'
+Tipo de Nodulo					: 'NX'
+Tipo de Metastase				: 'M1'
+Plano Terapêutio				: 'PEÇO QT PALIATIVA 2ª LINHA COM FOLFIRI + BEVACIZUMABE:
+IRINOTECANO 165MG/M2 ( DOSE TOTAL  320MG)D1
+LEUCOVORIN 400MG/M2 ( TOTAL 720MG)D1
+5 FLUOROURACIL 2400MG/M2 ( DOSE TOTAL 4320MG) D1 INFUSIONAL 48H ( BOMBA PORTATIL DE INFUSÃO)
+BEVACIZUMABE 5MG/KG ( DOSE TOTAL 315MG)
+CICLOS A SEREM REALIZADOS A CADA 14 DIAS POR PERÍDO INICIAL DE 12 CICLOS
+ANTI EMEÉTICOS:
+FOSAPREPITANTO 150MG IV D1 + GRANISETRONA 1MG IV D1 E D3'
+Informações Relevantes			: 'PACIENTE COM RECENTE DIAGNÓSTICO DE LESÃO NEOPLÁSICA DE COLON DIREITO ( SEM OBSTRUÇÃO SIGNIFICATIVA) E METASTASES HEPÁTICAS IRRESSECAVEIS.REALIZOU  QT PALIATIVA FOLFOX + BEVACIZUMABE 1ª LINHA COM CONTROLE ADEQUADO DE DOENÇA.INFELIZMENTE, EM SET/26 INICIOU ASCITE (CARCINOMATOSE PERITONEAL) E PROGRESSÃO HEPÁTICA.
+APRESENTA ESTABILIDADE DE MICROSSATELITE E NRAS MUTADO/BRAF SELVAGEM.
+PEÇO QT PALIATIVA 2ª LINHA SOB ESQUEMA FOLFIRI + BEVACIZUMABE.'
+Diagnóstico Histopatologico	: 'ADENOCARCINOMA  COLON DIREITO'
+Tipo de Cirurgia				: 'SEM INDICAÇÃO NO MOMENTO'
+Área Irradiada					: 'NAO'
+Data de Realização				: ''2026-03-31''
+Data da Aplicação				: ''2026-03-31''
+Observação Justificativa		: 'PACIENTE COM RECENTE DIAGNÓSTICO DE LESÃO NEOPLÁSICA DE COLON DIREITO ( SEM OBSTRUÇÃO SIGNIFICATIVA) E METASTASES HEPÁTICAS IRRESSECAVEIS.REALIZOU  QT PALIATIVA FOLFOX + BEVACIZUMABE 1ª LINHA COM CONTROLE ADEQUADO DE DOENÇA.INFELIZMENTE, EM SET/26 INICIOU ASCITE (CARCINOMATOSE PERITONEAL) E PROGRESSÃO HEPÁTICA.
+APRESENTA ESTABILIDADE DE MICROSSATELITE E NRAS MUTADO/BRAF SELVAGEM.
+PEÇO QT PALIATIVA 2ª LINHA SOB ESQUEMA FOLFIRI + BEVACIZUMABE.'
+Quantidade de Ciclos Prevsitos	: '12'
+Ciclo Atual					: '01'
+Dias do ciclo atual			: '02'
+Intervalo de Ciclos			: '14'
+Nome do medico encaminhador	: 'Hospital sabin///Dr Lucas Nicolato'
+Exames Enviados				: 'ANEXADOS ( BIOPSIA + COLONO + TOMOGRAFIA DE TORAX E ABDOME CEDIMAGEM SET 26 E MARCADOR TUMORAL CEA DE SET 26) ENVIAR PESQUISA DE ESTABILIDADE DE MICROSSATELITE (CIDAP E BIOPSIA LIQUIDA ( PROGRAMA DE LABORATÓRIO GRATUITO QUE FIZEMOS DELE) 
+FARA RESSONANCIA DE ABDOME CEDIMAGEM 18/9: AGUARDAR PARA ENCAMINHAR JUNTO O RESULTADO!!!!!!'
+Crioterapia					: 'Não'
+
+
+-----------------------------------------------------------------------------------
+---------------------Log de Inclusao do Pedido de Tratamento------------------------
+Mensagem gerada pelo usuario	: 'monise.freitas' em 15/09/2026
+-----------------------------------------------------------------------------------
+Codigo Paciente				: '4066'
+Paciente						: 'ANA MARIA DOS SANTOS'
+Convênio						: 'PMMG'
+Peso							: '48.60'
+Altura							: '150.00'
+Sup Corp						: '1.42'
+Indicacao Clinica				: 'ADENOCARCINOMA DE ESTOMAGO EM QT COM FERRITINA DE 11.6 E HEMOGLOBINA 7.20 COM PACIENTE SINTOMATICA '
+Data do Diagnostico			: ''2025-06-20''
+CID							: 'C16'
+Estadiamento					: 'III'
+Tipo Quimio (Linha)			: '1 Linha'
+Finalidade						: 'Neo-Adjuvante'
+Tipo de Tumor					: 'Nao Se Aplica'
+Tipo de Nodulo					: 'Nao Se Aplica'
+Tipo de Metastase				: 'Nao Se Aplica'
+Plano Terapêutio				: 'NORIPURUM 10 AMPOLAS - 5 APLICAÇÕES DE 3 EM DIAS  '
+Informações Relevantes			: 'ADENOCARCINOMA DE ESTOMAGO EM QT COM FERRITINA DE 10,8 E HEMOGLOBINA 7.30 COM PACIENTE SINTOMATICA '
+Diagnóstico Histopatologico	: 'ADENOCARCINOMA'
+Tipo de Cirurgia				: ''
+Área Irradiada					: ''
+Data de Realização				: ''0001-01-01''
+Data da Aplicação				: ''2025-01-01''
+Observação Justificativa		: ''
+Quantidade de Ciclos Prevsitos	: 'indeterminado '
+Ciclo Atual					: '01'
+Dias do ciclo atual			: '5'
+Intervalo de Ciclos			: '3'
+Nome do medico encaminhador	: 'Dr. Abrahão '
+Exames Enviados				: 'SANGUE / HEMOGLOBINA E FERRITINA '
+Crioterapia					: ''
+
+
+-----------------------------------------------------------------------------------
+---------------------Log de Inclusao do Pedido de Tratamento------------------------
+Mensagem gerada pelo usuario	: 'milena.ribeiral' em 15/09/2026
+-----------------------------------------------------------------------------------
+Codigo Paciente				: '3356'
+Paciente						: 'MARIA EDUARDA OLIVEIRA AGRELI'
+Convênio						: 'SAUDE SINAI'
+Peso							: '65'
+Altura							: '168'
+Sup Corp						: '1,58'
+Indicacao Clinica				: 'deficiencia de ferro sintomática em paciente em tratamento oncologico com sorafenibe, para tumor desmoide em região paravertebral '
+Data do Diagnostico			: ''2026-09-15''
+CID							: ''
+Estadiamento					: ''
+Tipo Quimio (Linha)			: ''
+Finalidade						: ''
+Tipo de Tumor					: ''
+Tipo de Nodulo					: ''
+Tipo de Metastase				: ''
+Plano Terapêutio				: 'carboximaltase ferrica 500mg- 2 frasco ( dose unica) '
+Informações Relevantes			: 'paciente em tratamento oncologico para tumor desmoide em região paravertebral, sob uso de sorafenibe, evolui com ferropenia importante e sintomática '
+Diagnóstico Histopatologico	: ''
+Tipo de Cirurgia				: ''
+Área Irradiada					: ''
+Data de Realização				: ''2026-09-15''
+Data da Aplicação				: ''2026-09-15''
+Observação Justificativa		: 'ferritina 11,4( 14/9/2026) '
+Quantidade de Ciclos Prevsitos	: '01'
+Ciclo Atual					: '01'
+Dias do ciclo atual			: '01'
+Intervalo de Ciclos			: '0'
+Nome do medico encaminhador	: ''
+Exames Enviados				: 'enviar exames laboratoriais atuais '
+Crioterapia					: ''
+
+
+-----------------------------------------------------------------------------------
+---------------------Log de Inclusao do Pedido de Tratamento------------------------
+Mensagem gerada pelo usuario	: 'tatiane.neto' em 21/09/2026
+-----------------------------------------------------------------------------------
+Codigo Paciente				: '2674'
+Paciente						: 'GERALDO SILVEIRA FILHO'
+Convênio						: 'SAUDE SINAI'
+Peso							: '83.00'
+Altura							: '165.00'
+Sup Corp						: '1.90'
+Indicacao Clinica				: 'CANCER DE COLON EC IV '
+Data do Diagnostico			: ''2024-03-21''
+CID							: 'C18'
+Estadiamento					: 'IV'
+Tipo Quimio (Linha)			: '3 Linha'
+Finalidade						: 'Paliativo'
+Tipo de Tumor					: 'T3'
+Tipo de Nodulo					: 'N2'
+Tipo de Metastase				: 'M1'
+Plano Terapêutio				: 'KYTRIL 1AMP D1E D3 
+TAS-102 +  BEVACIZUMABE 
+TRIFLURIDINA-TIPIRACILA 35MG/M2/DOSE (3CP 20) 2X/DIA (70MG/M2/DIA) D1-D5 E DO D8 -D12 A CADA 28 DIA 
+BEVACIZUMABE 5MG/KG  A CADA 14 DIAS POR PERIODO INDETERMINADO  '
+Informações Relevantes			: 'PACIENTE COM CANCER DE COLON  COM METASTASE HEPATICA OPEROU O PRIMARIO EM 03/2024 E SEGUIU COM QT (FOLFOX) COM PROPOSTA DE OPERAR AS LESOES HEPATICAS. METASTASE HEPATICA OPERADA 29/01/25. EM NOVO EXAME DE 06/2025, SURGIU NOVA LESÃO HEPATICA COM ASPECTO DE LESÃO SECUNDARIA, ESTAVA EM USO DE FOLFIRI E NOS EXAMES DE IMAGEM NOVOS APRESENTOU PROGRESSAO DE DOENÇA - FEZ  FOLFOX COM BEVA E APRESENTOU NOVA PROGRESSAO DE DOENÇA - PROPOSTA ATUAL DE TAS 102 COM BEVA '
+Diagnóstico Histopatologico	: 'ADENOCARCINOMA '
+Tipo de Cirurgia				: 'COLECTOMIA  20/03/2024
+HEPATECTOMIA 29/01/2025 '
+Área Irradiada					: 'NAO '
+Data de Realização				: ''2024-03-20''
+Data da Aplicação				: ''2026-04-15''
+Observação Justificativa		: ''
+Quantidade de Ciclos Prevsitos	: 'INDETERMINADO '
+Ciclo Atual					: '1'
+Dias do ciclo atual			: '1,3'
+Intervalo de Ciclos			: '14 dias '
+Nome do medico encaminhador	: 'thais senra '
+Exames Enviados				: 'BIÓPSIA 03/24
+EXAMES DE IMAGEM - PET DE 28/08/26
+'
+Crioterapia					: 'Não'
+
+
+-----------------------------------------------------------------------------------
+---------------------Log de Inclusao do Pedido de Tratamento------------------------
+Mensagem gerada pelo usuario	: 'leonardo.ribeiro' em 23/09/2026
+-----------------------------------------------------------------------------------
+Codigo Paciente				: '5658'
+Paciente						: 'ILZA DOS PRAZERES BARBOSA'
+Convênio						: 'SAUDE SINAI'
+Peso							: '49'
+Altura							: '149'
+Sup Corp						: '1,42'
+Indicacao Clinica				: 'Paciente com quadro de leucemia mieloide aguda com anemia grave com necessidade transfusional e plaquetopenia, confirmado por imunofenotipagem de medula óssea.'
+Data do Diagnostico			: ''2026-09-21''
+CID							: 'C92'
+Estadiamento					: ''
+Tipo Quimio (Linha)			: '1 Linha'
+Finalidade						: 'Paliativo'
+Tipo de Tumor					: 'Nao Se Aplica'
+Tipo de Nodulo					: 'Nao Se Aplica'
+Tipo de Metastase				: 'Nao Se Aplica'
+Plano Terapêutio				: 'Azacitidina 75 mg/m² D1 a D7 (dose diária 106,5 mg) uso contínuo'
+Informações Relevantes			: 'LMA em paciente inelegível a terapia intensiva com indicação de azacitidina de uso contínuo'
+Diagnóstico Histopatologico	: '-'
+Tipo de Cirurgia				: '-'
+Área Irradiada					: '-'
+Data de Realização				: ''2026-09-21''
+Data da Aplicação				: ''2026-09-21''
+Observação Justificativa		: '-'
+Quantidade de Ciclos Prevsitos	: 'continuo'
+Ciclo Atual					: '1'
+Dias do ciclo atual			: '7'
+Intervalo de Ciclos			: '28'
+Nome do medico encaminhador	: 'Leonardo Bertolato Ribeiro'
+Exames Enviados				: 'Imunofenotipagem de Medula óssea - 21/09/26'
+Crioterapia					: 'Não'
+
+
+-----------------------------------------------------------------------------------
+---------------------Log de Inclusao do Pedido de Tratamento------------------------
+Mensagem gerada pelo usuario	: 'tatyene.nehrer' em 29/09/2026
+-----------------------------------------------------------------------------------
+Codigo Paciente				: '5597'
+Paciente						: 'SHEILA APARECIDA FERRO'
+Convênio						: 'UNIMED'
+Peso							: '62.00'
+Altura							: '1.68'
+Sup Corp						: '1.70'
+Indicacao Clinica				: 'PACIENTE COM  DIAGNÓSTICO DE ASTROCITOMA DE ALTO GRAU IDH MUTANTE WHO GRAU 3 MGMT METILADO E COM EXTENSA DOENÇA RESIDUAL PÓS 1ªCIRURGIA.NECESSITA TRATAMENTO SISTÊMICO COM TEMOZOLOMIDA APÓS REALIZAÇÃO DE RADIOTERAPIA.'
+Data do Diagnostico			: ''2026-07-14''
+CID							: 'C71'
+Estadiamento					: 'IV'
+Tipo Quimio (Linha)			: '1 Linha'
+Finalidade						: 'Adjuvante'
+Tipo de Tumor					: 'TX'
+Tipo de Nodulo					: 'Nao Se Aplica'
+Tipo de Metastase				: 'Nao Se Aplica'
+Plano Terapêutio				: 'PEÇO TEMOZOLOMIDA SEQUENCIAL A RXT CONFORME PROTOCOLO CATNON:
+TEMOZOLOMIDA  200MG/²/DIA ( DOSE TOTAL 340MG/DIA OU SEJA 1 COMP DE 140MG E 2 COMPS DE 100MG)DE D1 A D5 A CADA 28 DIAS POR 12 CICLOS ADJUVANTES.'
+Informações Relevantes			: 'PACIENTE COM  DIAGNÓSTICO DE ASTROCITOMA DE ALTO GRAU IDH MUTANTE WHO GRAU 3 MGMT METILADO E COM EXTENSA DOENÇA RESIDUAL PÓS 1ªCIRURGIA.NECESSITA TRATAMENTO SISTÊMICO COM TEMOZOLOMIDA APÓS REALIZAÇÃO DE RADIOTERAPIA.'
+Diagnóstico Histopatologico	: 'ASTROCITOMA DE ALTO GRAU IDH MUTANTE WHO 3'
+Tipo de Cirurgia				: 'CIRURGIA COM RESSECÇÃO PARCIAL'
+Área Irradiada					: 'SOLICITADA'
+Data de Realização				: ''2026-07-14''
+Data da Aplicação				: ''2026-09-08''
+Observação Justificativa		: 'PACIENTE COM RECÉM DIAGNÓSTICO DE ASTROCITOMA DE ALTO GRAU IDH MUTANTE WHO GRAU 3 MGMT METILADO E COM EXTENSA DOENÇA RESIDUAL PÓS 1ªCIRURGIA.NECESSITA TRATAMENTO SISTÊMICO COM TEMOZOLOMIDA APÓS REALIZAÇÃO DE RADIOTERAPIA.'
+Quantidade de Ciclos Prevsitos	: '12'
+Ciclo Atual					: '01'
+Dias do ciclo atual			: '5'
+Intervalo de Ciclos			: '28'
+Nome do medico encaminhador	: 'Familiar conhecido'
+Exames Enviados				: 'BIOPSIA CIDAP E TODAS AS IMUNOHISTOQUIMICAS DO BACCHI + RM CEREBRO HOSPITAL UNIMED E TC DE CEREBRO ( POS OPERATÓRIO) DO HOSPIITAL DA UNIMED TAMBEM ALÉM DA PESQUISA DE MGMT'
+Crioterapia					: ''
+
+
+-----------------------------------------------------------------------------------
+---------------------Log de Inclusao do Pedido de Tratamento------------------------
+Mensagem gerada pelo usuario	: 'leonardo.ribeiro' em 29/09/2026
+-----------------------------------------------------------------------------------
+Codigo Paciente				: '5655'
+Paciente						: 'JOSE GERALDO DIAS LOPES'
+Convênio						: 'PM'
+Peso							: '60'
+Altura							: '170'
+Sup Corp						: '168'
+Indicacao Clinica				: 'Paciente com quadro de mielodisplasia apresentando anemia sintomática (Hb 7,2) com indicação de alfapoetina 40.000 UI semanal'
+Data do Diagnostico			: ''2026-06-05''
+CID							: 'C88'
+Estadiamento					: ''
+Tipo Quimio (Linha)			: '1 Linha'
+Finalidade						: 'Paliativo'
+Tipo de Tumor					: 'Nao Se Aplica'
+Tipo de Nodulo					: ''
+Tipo de Metastase				: 'Nao Se Aplica'
+Plano Terapêutio				: 'Alfapoetina 40.000 UI semanal uso por tempo indeterminado '
+Informações Relevantes			: 'Mielodisplasia sintomática'
+Diagnóstico Histopatologico	: 'Mielodisplasia sintomática'
+Tipo de Cirurgia				: '-'
+Área Irradiada					: '-'
+Data de Realização				: ''2026-09-29''
+Data da Aplicação				: ''2026-09-29''
+Observação Justificativa		: 'Mielodisplasia sintomática (Hb 7,2) '
+Quantidade de Ciclos Prevsitos	: 'continuo'
+Ciclo Atual					: '1'
+Dias do ciclo atual			: '1'
+Intervalo de Ciclos			: '28'
+Nome do medico encaminhador	: 'Leonardo Bertolato Ribeiro'
+Exames Enviados				: 'Imunofenotipagem e biópsia de medula óssea '
+Crioterapia					: 'Não'
+
+
+-----------------------------------------------------------------------------------
+---------------------Log de Inclusao do Pedido de Tratamento------------------------
+Mensagem gerada pelo usuario	: 'milena.ribeiral' em 29/09/2026
+-----------------------------------------------------------------------------------
+Codigo Paciente				: '5582'
+Paciente						: 'PAMELLA DOS SANTOS VALVERDE'
+Convênio						: 'UNIMED'
+Peso							: '80'
+Altura							: '170'
+Sup Corp						: '1,72'
+Indicacao Clinica				: 'carcinoma lobular de mama esquerda'
+Data do Diagnostico			: ''2026-07-24''
+CID							: 'C50'
+Estadiamento					: 'I'
+Tipo Quimio (Linha)			: '1 Linha'
+Finalidade						: 'Adjuvante'
+Tipo de Tumor					: ''
+Tipo de Nodulo					: 'N0'
+Tipo de Metastase				: 'M0'
+Plano Terapêutio				: 'tamoxifeno 20 mg cp 1 x dia por 5 anos ( com perspectiva de switch após atingir status menopausal ) '
+Informações Relevantes			: 'paciente na pre menopausa com ca de mama receptores hormonais positivos '
+Diagnóstico Histopatologico	: 'carcinoma lobular luminal a '
+Tipo de Cirurgia				: 'adenomastectomia com pesquisa de linfonodo sentinela '
+Área Irradiada					: ''
+Data de Realização				: ''2026-08-14''
+Data da Aplicação				: ''2026-09-29''
+Observação Justificativa		: 'paciente na pré menopausa com indicação de adjuvância com terapia endócrina'
+Quantidade de Ciclos Prevsitos	: '60'
+Ciclo Atual					: '01'
+Dias do ciclo atual			: '30'
+Intervalo de Ciclos			: '0'
+Nome do medico encaminhador	: 'patricia'
+Exames Enviados				: 'biopsias e imunohistoquimicas '
+Crioterapia					: ''
+
+
+-----------------------------------------------------------------------------------
+---------------------Log de Inclusao do Pedido de Tratamento------------------------
+Mensagem gerada pelo usuario	: 'tatyene.nehrer' em 13/10/2026
+-----------------------------------------------------------------------------------
+Codigo Paciente				: '3514'
+Paciente						: 'EDINA LUZIA DEBORTOLI MEDEIROS'
+Convênio						: 'UNIMED'
+Peso							: '57.00'
+Altura							: '1.57'
+Sup Corp						: '1.60'
+Indicacao Clinica				: 'PACIENTE COM CANCER DE RETO MÉDIO/BAIXO AVANÇADO E TENDO REALIZADO TRATAMENTO NEOADJUVANTE COMPLETO (TNT) COM RXT CONCOMITANTE A CAPECITABINA ( 1ª ETAPA) E XELOX 4 CICLOS ( 2ª ETAPA) CONCLUIDA EM JULHO/25.VÁRIAS INTERCORRÊNCIAS NO PERÍODO CONSEGUINDO SER REABORDADA EM JAN 26 COM DETECÇÃO DE VÁRIOS IMPLANTES HEPATICOS E PULMONARES.VINHA REALIZANDO QT PALIATIVA 1ª LINHA SOB FORMA DE FOLFIRI + BEVACIZUMABE ( ESTABILIDADE DE MICROSSATELITE E KRAS MUTADO) PORÉM COM PROGRESSÃO DE DOENÇA/TEP  E, ATUALMENTE,EM USO DE  LONSURF ISOLADAMENTE.
+FORAM VISTAS VÁRIAS LESÕES ÓSSEAS METASTÁTICAS EM PET TC DE OUT/26, EXPLICANDO AS DORES ÓSSEAS RECÉM APRESENTADAS, RAZÃO DE NOSSA SOLICITAÇÃO DA INCLUSÃO DE BIFOSFONATO (ÁCIDO ZOLEDRÔNICO)DE FORMA PALIATIVA AO ESQUEMA DE TRATAMENTO ONCOLÓGICO VIGENTE.'
+Data do Diagnostico			: ''2025-02-18''
+CID							: 'C20'
+Estadiamento					: 'IV'
+Tipo Quimio (Linha)			: '2 Linha'
+Finalidade						: 'Paliativo'
+Tipo de Tumor					: 'T3'
+Tipo de Nodulo					: 'N1'
+Tipo de Metastase				: 'M1'
+Plano Terapêutio				: 'PEÇO ÁCIDO ZOLEDRÔNICO 4MG 1 FR IV A CADA 4 SEMANAS INICIALMENTE DADA GRAVIDADE DE EXTENSÃO ÓSSEA/QUADRO ALGICO ASSOCIADO.MANTEREMOS DESTA FORMA POR 6 MESES E COM PROPOSTA DE DESCALONAMENTO PARA A CADA 12 SEMANAS APÓS ESTE PERIODO.'
+Informações Relevantes			: 'PACIENTE COM CANCER DE RETO MÉDIO/BAIXO AVANÇADO E TENDO REALIZADO TRATAMENTO NEOADJUVANTE COMPLETO (TNT) COM RXT CONCOMITANTE A CAPECITABINA ( 1ª ETAPA) E XELOX 4 CICLOS ( 2ª ETAPA) CONCLUIDA EM JULHO/25.VÁRIAS INTERCORRÊNCIAS NO PERÍODO CONSEGUINDO SER REABORDADA EM JAN 26 COM DETECÇÃO DE VÁRIOS IMPLANTES HEPATICOS E PULMONARES.VINHA REALIZANDO QT PALIATIVA 1ª LINHA SOB FORMA DE FOLFIRI + BEVACIZUMABE ( ESTABILIDADE DE MICROSSATELITE E KRAS MUTADO) PORÉM COM PROGRESSÃO DE DOENÇA/TEP  E, ATUALMENTE,EM USO DE  LONSURF ISOLADAMENTE.
+FORAM VISTAS VÁRIAS LESÕES ÓSSEAS METASTÁTICAS EM PET TC DE OUT/26, EXPLICANDO AS DORES ÓSSEAS RECÉM APRESENTADAS, RAZÃO DE NOSSA SOLICITAÇÃO DA INCLUSÃO DE BIFOSFONATO (ÁCIDO ZOLEDRÔNICO)DE FORMA PALIATIVA AO ESQUEMA DE TRATAMENTO ONCOLÓGICO VIGENTE.'
+Diagnóstico Histopatologico	: 'ADENOCARCINOMA INVASOR'
+Tipo de Cirurgia				: ' BIÓPSIA HEPATICA//INVENTARIO DE CAVIDADE E CORREÇÃO DE PROLAPSO DE OSTOMA'
+Área Irradiada					: 'RETO'
+Data de Realização				: ''2026-01-10''
+Data da Aplicação				: ''2025-04-10''
+Observação Justificativa		: 'PACIENTE COM CANCER DE RETO MÉDIO/BAIXO AVANÇADO E TENDO REALIZADO TRATAMENTO NEOADJUVANTE COMPLETO (TNT) COM RXT CONCOMITANTE A CAPECITABINA ( 1ª ETAPA) E XELOX 4 CICLOS ( 2ª ETAPA) CONCLUIDA EM JULHO/25.VÁRIAS INTERCORRÊNCIAS NO PERÍODO CONSEGUINDO SER REABORDADA EM JAN 26 COM DETECÇÃO DE VÁRIOS IMPLANTES HEPATICOS E PULMONARES.VINHA REALIZANDO QT PALIATIVA 1ª LINHA SOB FORMA DE FOLFIRI + BEVACIZUMABE ( ESTABILIDADE DE MICROSSATELITE E KRAS MUTADO) PORÉM COM PROGRESSÃO DE DOENÇA/TEP  E, ATUALMENTE,EM USO DE  LONSURF ISOLADAMENTE.
+FORAM VISTAS VÁRIAS LESÕES ÓSSEAS METASTÁTICAS EM PET TC DE OUT/26, EXPLICANDO AS DORES ÓSSEAS RECÉM APRESENTADAS, RAZÃO DE NOSSA SOLICITAÇÃO DA INCLUSÃO DE BIFOSFONATO (ÁCIDO ZOLEDRÔNICO)DE FORMA PALIATIVA AO ESQUEMA DE TRATAMENTO ONCOLÓGICO VIGENTE.'
+Quantidade de Ciclos Prevsitos	: 'IND'
+Ciclo Atual					: '1'
+Dias do ciclo atual			: '01'
+Intervalo de Ciclos			: '28'
+Nome do medico encaminhador	: 'Rommel'
+Exames Enviados				: 'ENVIAR BIOPSIA( JAN 26) E A ANTERIOR 2025, TC DE TÓRAX AGOSTO 26,PESQUISA DE INSTABILIDADE DE MICROSSATELITE E BIOPSIA LIQUIDA COM PESQUISA DE KRAS   NRAS E BRAF  ALÉM DE PET TC DE OUT 26'
+Crioterapia					: 'Não'
+
+
+-----------------------------------------------------------------------------------
+---------------------Log de Inclusao do Pedido de Tratamento------------------------
+Mensagem gerada pelo usuario	: 'monise.freitas' em 13/10/2026
+-----------------------------------------------------------------------------------
+Codigo Paciente				: '3514'
+Paciente						: 'EDINA LUZIA DEBORTOLI MEDEIROS'
+Convênio						: 'UNIMED'
+Peso							: '57.00'
+Altura							: '1.57'
+Sup Corp						: '1.60'
+Indicacao Clinica				: 'PACIENTE COM CANCER DE RETO MÉDIO/BAIXO AVANÇADO E TENDO REALIZADO TRATAMENTO NEOADJUVANTE COMPLETO (TNT) COM RXT CONCOMITANTE A CAPECITABINA ( 1ª ETAPA) E XELOX 4 CICLOS ( 2ª ETAPA) CONCLUIDA EM JULHO/25.VÁRIAS INTERCORRÊNCIAS NO PERÍODO CONSEGUINDO SER REABORDADA EM JAN 26 COM DETECÇÃO DE VÁRIOS IMPLANTES HEPATICOS E PULMONARES.VINHA REALIZANDO QT PALIATIVA 1ª LINHA SOB FORMA DE FOLFIRI + BEVACIZUMABE ( ESTABILIDADE DE MICROSSATELITE E KRAS MUTADO) PORÉM COM PROGRESSÃO DE DOENÇA/TEP  E, ATUALMENTE,EM USO DE  LONSURF ISOLADAMENTE.
+FORAM VISTAS VÁRIAS LESÕES ÓSSEAS METASTÁTICAS EM PET TC DE OUT/26, EXPLICANDO AS DORES ÓSSEAS RECÉM APRESENTADAS, RAZÃO DE NOSSA SOLICITAÇÃO DA INCLUSÃO DE BIFOSFONATO (ÁCIDO ZOLEDRÔNICO)DE FORMA PALIATIVA AO ESQUEMA DE TRATAMENTO ONCOLÓGICO VIGENTE.'
+Data do Diagnostico			: ''2025-02-18''
+CID							: 'C20'
+Estadiamento					: 'IV'
+Tipo Quimio (Linha)			: '2 Linha'
+Finalidade						: 'Paliativo'
+Tipo de Tumor					: 'T3'
+Tipo de Nodulo					: 'N1'
+Tipo de Metastase				: 'M1'
+Plano Terapêutio				: 'PEÇO ÁCIDO ZOLEDRÔNICO 4MG 1 FR IV A CADA 4 SEMANAS INICIALMENTE DADA GRAVIDADE DE EXTENSÃO ÓSSEA/QUADRO ALGICO ASSOCIADO.MANTEREMOS DESTA FORMA POR 3 MESES E COM PROPOSTA DE DESCALONAMENTO PARA A CADA 12 SEMANAS APÓS ESTE PERIODO.'
+Informações Relevantes			: 'PACIENTE COM CANCER DE RETO MÉDIO/BAIXO AVANÇADO E TENDO REALIZADO TRATAMENTO NEOADJUVANTE COMPLETO (TNT) COM RXT CONCOMITANTE A CAPECITABINA ( 1ª ETAPA) E XELOX 4 CICLOS ( 2ª ETAPA) CONCLUIDA EM JULHO/25.VÁRIAS INTERCORRÊNCIAS NO PERÍODO CONSEGUINDO SER REABORDADA EM JAN 26 COM DETECÇÃO DE VÁRIOS IMPLANTES HEPATICOS E PULMONARES.VINHA REALIZANDO QT PALIATIVA 1ª LINHA SOB FORMA DE FOLFIRI + BEVACIZUMABE ( ESTABILIDADE DE MICROSSATELITE E KRAS MUTADO) PORÉM COM PROGRESSÃO DE DOENÇA/TEP  E, ATUALMENTE,EM USO DE  LONSURF ISOLADAMENTE.
+FORAM VISTAS VÁRIAS LESÕES ÓSSEAS METASTÁTICAS EM PET TC DE OUT/26, EXPLICANDO AS DORES ÓSSEAS RECÉM APRESENTADAS, RAZÃO DE NOSSA SOLICITAÇÃO DA INCLUSÃO DE BIFOSFONATO (ÁCIDO ZOLEDRÔNICO)DE FORMA PALIATIVA AO ESQUEMA DE TRATAMENTO ONCOLÓGICO VIGENTE.'
+Diagnóstico Histopatologico	: 'ADENOCARCINOMA INVASOR'
+Tipo de Cirurgia				: ' BIÓPSIA HEPATICA//INVENTARIO DE CAVIDADE E CORREÇÃO DE PROLAPSO DE OSTOMA'
+Área Irradiada					: 'RETO'
+Data de Realização				: ''2026-01-10''
+Data da Aplicação				: ''2025-04-10''
+Observação Justificativa		: 'PACIENTE COM CANCER DE RETO MÉDIO/BAIXO AVANÇADO E TENDO REALIZADO TRATAMENTO NEOADJUVANTE COMPLETO (TNT) COM RXT CONCOMITANTE A CAPECITABINA ( 1ª ETAPA) E XELOX 4 CICLOS ( 2ª ETAPA) CONCLUIDA EM JULHO/25.VÁRIAS INTERCORRÊNCIAS NO PERÍODO CONSEGUINDO SER REABORDADA EM JAN 26 COM DETECÇÃO DE VÁRIOS IMPLANTES HEPATICOS E PULMONARES.VINHA REALIZANDO QT PALIATIVA 1ª LINHA SOB FORMA DE FOLFIRI + BEVACIZUMABE ( ESTABILIDADE DE MICROSSATELITE E KRAS MUTADO) PORÉM COM PROGRESSÃO DE DOENÇA/TEP  E, ATUALMENTE,EM USO DE  LONSURF ISOLADAMENTE.
+FORAM VISTAS VÁRIAS LESÕES ÓSSEAS METASTÁTICAS EM PET TC DE OUT/26, EXPLICANDO AS DORES ÓSSEAS RECÉM APRESENTADAS, RAZÃO DE NOSSA SOLICITAÇÃO DA INCLUSÃO DE BIFOSFONATO (ÁCIDO ZOLEDRÔNICO)DE FORMA PALIATIVA AO ESQUEMA DE TRATAMENTO ONCOLÓGICO VIGENTE.'
+Quantidade de Ciclos Prevsitos	: 'IND'
+Ciclo Atual					: '1'
+Dias do ciclo atual			: '01'
+Intervalo de Ciclos			: '28'
+Nome do medico encaminhador	: 'Rommel'
+Exames Enviados				: 'ENVIAR BIOPSIA( JAN 26) E A ANTERIOR 2025, TC DE TÓRAX AGOSTO 26,PESQUISA DE INSTABILIDADE DE MICROSSATELITE E BIOPSIA LIQUIDA COM PESQUISA DE KRAS   NRAS E BRAF  ALÉM DE PET TC DE OUT 26'
+Crioterapia					: 'Não'
+
+
+-----------------------------------------------------------------------------------
+---------------------Log de Inclusao do Pedido de Tratamento------------------------
+Mensagem gerada pelo usuario	: 'tatyene.nehrer' em 13/10/2026
+-----------------------------------------------------------------------------------
+Codigo Paciente				: '5697'
+Paciente						: 'LUCIA EMILIA PEDRO NETTO'
+Convênio						: 'UNIMED'
+Peso							: '61.0'
+Altura							: '1,66'
+Sup Corp						: '1,68'
+Indicacao Clinica				: 'PACIENTE DE 77 ANOS COM DIAGNÓSTICO DE CÂNCER DE MAMA,SUBMETIDA A SEGMENTECTOMIA MAMÁRIA E ABORDAGEM AXILAR E NECESSITANDO QT ADJUVANTE.'
+Data do Diagnostico			: ''2026-08-28''
+CID							: 'C50'
+Estadiamento					: 'III'
+Tipo Quimio (Linha)			: '1 Linha'
+Finalidade						: 'Adjuvante'
+Tipo de Tumor					: 'T1'
+Tipo de Nodulo					: 'N2'
+Tipo de Metastase				: 'M0'
+Plano Terapêutio				: 'PEÇO QT ADJUVANTE:
+DOCETAXEL 75MG/M² ( DOSE TOTAL125MG) IV D1
+CICLOFOSFAMIDA 600MG/M2 ( DOSE TOTAL 1000MG) IV D1
+TOTAL DE 4 CICLOS
+INTERVALO: 21/21 DIAS
+ANTI EMÉTICOS:
+GRANISETRONA 1MG E FOSAPREPITANTO 150MG IV D1
+SUPORTE GRANULOCITICO PELO ELEVADO RISCO DE NEUTROPENIA FEBRIL:
+NEULASTIM 6MG SC D2(PEGFILGRASTIM) OU FILGRASTIM 300MCG/FR SC POR 5 DIAS'
+Informações Relevantes			: 'PACIENTE DE 77 ANOS COM DIAGNÓSTICO DE CÂNCER DE MAMA,SUBMETIDA A SEGMENTECTOMIA MAMÁRIA E ABORDAGEM AXILAR E NECESSITANDO QT ADJUVANTE.'
+Diagnóstico Histopatologico	: 'CARCINOMA MAMARIO INFILTRANTE PT1PN2 EC IIIA
+LUMINAL B HER 1+'
+Tipo de Cirurgia				: 'SEGMENTECTOMIA MAMARIA D + ESV AXILAR NIVEL 1'
+Área Irradiada					: 'FARA NA SEQUENCIA'
+Data de Realização				: ''2026-09-23''
+Data da Aplicação				: ''2026-10-13''
+Observação Justificativa		: 'PACIENTE DE 77 ANOS COM DIAGNÓSTICO DE CÂNCER DE MAMA,SUBMETIDA A SEGMENTECTOMIA MAMÁRIA E ABORDAGEM AXILAR E NECESSITANDO QT ADJUVANTE.'
+Quantidade de Ciclos Prevsitos	: '04'
+Ciclo Atual					: '01'
+Dias do ciclo atual			: '01'
+Intervalo de Ciclos			: '21'
+Nome do medico encaminhador	: 'DR JOAO CARLOS ARANTES JR'
+Exames Enviados				: 'ENCAMINHAR TODAS AS BIOPSIAS E IMUNOHISTOQUIMICAS DA PEÇA MAMÁRIA ( NÃO ENVIAR NIOPSIA DA PARTE DO DR ABRÃO) E PET TC E RM CEREBRO'
+Crioterapia					: 'Sim'
+
+
+-----------------------------------------------------------------------------------
